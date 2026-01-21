@@ -1,0 +1,960 @@
+user_id; scenario; distraction; ehmi; timestamp; userPositionX; userPositionY; userPositionZ; playerPositon; time; focused object
+23; Driver; Noise; None; 24.10.2023 15:27:01; 850; 0.0960815; 203; HI; null
+23; Driver; Noise; None; 24.10.2023 15:27:01; 850; 0.09269609; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; 0.07529796; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; 0.05768705; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; 0.03527888; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; 0.02227915; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.005056463; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.02595098; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.03948666; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.04622336; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.04738848; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.04619898; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.04158631; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.03501777; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.02776622; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.02420648; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.017693; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.01239446; 203; Before; 0.02; null
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.008560622; 203; Before; 0.04; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.006200071; 203; Before; 0.04; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.005529827; 203; Before; 0.04; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.005060979; 203; Before; 0.04; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.005190388; 203; Before; 0.3733333; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.006574641; 203; Before; 0.3733333; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:02; 850; -0.007245094; 203; Before; 0.4876481; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.00870327; 203; Before; 0.5052637; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01014277; 203; Before; 0.5192652; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.0108058; 203; Before; 0.547497; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01241654; 203; Before; 0.547497; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01311981; 203; Before; 0.547497; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01335925; 203; Before; 0.547497; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01363342; 203; Before; 0.547497; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01367654; 203; Before; 0.547497; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01354834; 203; Before; 0.547497; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01331081; 203; Before; 0.5614928; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01316914; 203; Before; 0.6901345; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01287072; 203; Before; 0.7169966; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01272427; 203; Before; 0.7481641; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01233955; 203; Before; 0.7623792; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01223725; 203; Before; 0.7904124; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01207814; 203; Before; 0.8053058; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01197918; 203; Before; 0.8191553; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01195063; 203; Before; 0.8493123; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01192929; 203; Before; 0.863525; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01196449; 203; Before; 0.8800322; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01198799; 203; Before; 0.8967897; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01204399; 203; Before; 0.9146339; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01210391; 203; Before; 0.9447131; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01216014; 203; Before; 0.9597921; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01218518; 203; Before; 0.9873784; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01222709; 203; Before; 1.005025; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01225688; 203; Before; 1.019467; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01226722; 203; Before; 1.0476; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.0122819; 203; Before; 1.061846; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01228218; 203; Before; 1.088922; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01227764; 203; Before; 1.102917; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01226838; 203; Before; 1.1159; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01225674; 203; Before; 1.142846; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01225064; 203; Before; 1.171798; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01223351; 203; Before; 1.185487; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01222862; 203; Before; 1.19922; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01222429; 203; Before; 1.226435; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01221493; 203; Before; 1.240864; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01221303; 203; Before; 1.268012; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01221087; 203; Before; 1.294463; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01221057; 203; Before; 1.294463; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01221162; 203; Before; 1.322234; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01221251; 203; Before; 1.35027; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01221591; 203; Before; 1.364198; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01221714; 203; Before; 1.390928; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01221947; 203; Before; 1.405123; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01222147; 203; Before; 1.41998; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01222231; 203; Before; 1.447404; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.0122241; 203; Before; 1.461019; null
+23; Driver; Noise; None; 24.10.2023 15:27:03; 850; -0.01222445; 203; Before; 1.487516; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222484; 203; Before; 1.501368; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222489; 203; Before; 1.526697; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222461; 203; Before; 1.540374; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222441; 203; Before; 1.566857; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222395; 203; Before; 1.594338; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222346; 203; Before; 1.594338; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.012223; 203; Before; 1.620481; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222279; 203; Before; 1.646774; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.0122223; 203; Before; 1.66111; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222219; 203; Before; 1.687864; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222204; 203; Before; 1.701944; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.012222; 203; Before; 1.72778; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222198; 203; Before; 1.741714; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222201; 203; Before; 1.769945; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222213; 203; Before; 1.784287; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222217; 203; Before; 1.797335; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222227; 203; Before; 1.82441; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222231; 203; Before; 1.850738; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222243; 203; Before; 1.863849; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222246; 203; Before; 1.889745; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.0122225; 203; Before; 1.90404; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222254; 203; Before; 1.917889; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222255; 203; Before; 1.943408; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222255; 203; Before; 1.969965; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222254; 203; Before; 1.983507; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222253; 203; Before; 1.996779; null
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.0122225; 203; Before; 2.024394; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222249; 203; Before; 2.049517; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222247; 203; Before; 2.062998; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222246; 203; Before; 2.092714; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222245; 203; Before; 2.092714; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222244; 203; Before; 2.120598; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222245; 203; Before; 2.136862; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222244; 203; Before; 2.167848; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222244; 203; Before; 2.183439; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222244; 203; Before; 2.196943; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222244; 203; Before; 2.222621; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222243; 203; Before; 2.248034; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222243; 203; Before; 2.263175; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222243; 203; Before; 2.293051; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222243; 203; Before; 2.293051; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222244; 203; Before; 2.322546; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222244; 203; Before; 2.34839; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222244; 203; Before; 2.361717; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 850; -0.01222244; 203; Before; 2.38746; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 849.9999; -0.01222247; 203; Before; 2.401043; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 849.9998; -0.01222254; 203; Before; 2.426579; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 849.9996; -0.01222261; 203; Before; 2.442148; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 849.9994; -0.01222257; 203; Before; 2.459022; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:04; 849.9993; -0.01222263; 203; Before; 2.488653; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9987; -0.012223; 203; Before; 2.503314; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9979; -0.01222341; 203; Before; 2.516485; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9971; -0.01222399; 203; Before; 2.543607; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9965; -0.0122245; 203; Before; 2.571292; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9952; -0.01222556; 203; Before; 2.586603; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9937; -0.01222721; 203; Before; 2.600545; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9921; -0.01222835; 203; Before; 2.618076; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.991; -0.01222949; 203; Before; 2.647975; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9879; -0.01223287; 203; Before; 2.663579; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9868; -0.01223445; 203; Before; 2.693675; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9841; -0.01223715; 203; Before; 2.693675; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9811; -0.01224066; 203; Before; 2.722027; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9796; -0.01224296; 203; Before; 2.749607; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9762; -0.01224671; 203; Before; 2.764081; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9706; -0.01225008; 203; Before; 2.782345; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9684; -0.01225194; 203; Before; 2.799568; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9639; -0.01225342; 203; Before; 2.817859; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9615; -0.01225555; 203; Before; 2.850053; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9542; -0.01226107; 203; Before; 2.864178; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9516; -0.01226378; 203; Before; 2.892596; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.946; -0.01226805; 203; Before; 2.892596; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9429; -0.01227032; 203; Before; 2.924034; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9366; -0.01227377; 203; Before; 2.942171; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9263; -0.01227615; 203; Before; 2.960169; Checking Box Human Car
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9189; -0.01227814; 203; Before; 2.9781; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9151; -0.01227988; 203; Before; 2.995426; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9069; -0.01228291; 203; Before; 3.012274; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.9026; -0.01228518; 203; Before; 3.046555; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.8936; -0.01228924; 203; Before; 3.063584; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.879; -0.01229319; 203; Before; 3.08119; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.8739; -0.01229722; 203; Before; 3.099311; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.8632; -0.01230028; 203; Before; 3.116206; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.8517; -0.01230592; 203; Before; 3.133094; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.8459; -0.01230976; 203; Before; 3.167705; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.8335; -0.01231639; 203; Before; 3.185597; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.8203; -0.01232701; 203; Before; 3.202018; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.8062; -0.01233219; 203; Before; 3.219113; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.7908; -0.01233946; 203; Before; 3.234693; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.7828; -0.0123441; 203; Before; 3.26753; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.7656; -0.01235162; 203; Before; 3.285528; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.7471; -0.01236449; 203; Before; 3.300357; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.7271; -0.01237686; 203; Before; 3.315288; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.7052; -0.01239388; 203; Before; 3.343187; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.6813; -0.012409; 203; Before; 3.358486; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.6686; -0.01241713; 203.0001; Before; 3.386698; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.6414; -0.01242912; 203.0001; Before; 3.386698; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.6121; -0.01244845; 203.0001; Before; 3.421215; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.5966; -0.01246445; 203.0001; Before; 3.448106; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.5468; -0.01250061; 203.0002; Before; 3.462008; null
+23; Driver; Noise; None; 24.10.2023 15:27:05; 849.5291; -0.01251734; 203.0002; Before; 3.489292; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.492; -0.01256184; 203.0002; Before; 3.503705; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.4526; -0.01259524; 203.0003; Before; 3.51746; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.4321; -0.01260999; 203.0003; Before; 3.546841; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.3671; -0.01263731; 203.0003; Before; 3.561809; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.3442; -0.01265243; 203.0003; Before; 3.590339; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.2969; -0.01269739; 203.0004; Before; 3.603917; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.2474; -0.01271133; 203.0004; Before; 3.618225; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.2219; -0.01272971; 203.0004; Before; 3.64607; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.1418; -0.01276278; 203.0005; Before; 3.660948; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.1141; -0.01278049; 203.0005; Before; 3.692001; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 849.057; -0.01280118; 203.0006; Before; 3.692001; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.9977; -0.01282935; 203.0007; Before; 3.721173; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.9673; -0.0128538; 203.0007; Before; 3.748975; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.8729; -0.01289594; 203.0008; Before; 3.764215; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.8404; -0.01291612; 203.0008; Before; 3.793613; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.7737; -0.01293701; 203.0009; Before; 3.793613; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.7049; -0.01296406; 203.001; Before; 3.821674; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.6697; -0.01298892; 203.001; Before; 3.849079; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.5609; -0.01302585; 203.0011; Before; 3.863883; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.5235; -0.01304497; 203.0012; Before; 3.892741; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.4473; -0.01306097; 203.0013; Before; 3.892741; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.369; -0.01308442; 203.0014; Before; 3.922353; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.2885; -0.01309668; 203.0015; Before; 3.936821; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.2475; -0.01310266; 203.0015; Before; 3.966375; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.1214; -0.01313268; 203.0017; Before; 3.981569; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.0783; -0.01313961; 203.0018; Before; 3.996026; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 848.0347; -0.01315821; 203.0018; Before; 4.025774; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.9009; -0.01318258; 203.002; Before; 4.040078; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.8553; -0.01320316; 203.0021; Before; 4.068311; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.7156; -0.01326652; 203.0023; Before; 4.082702; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.6681; -0.01328008; 203.0024; Before; 4.097711; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.6201; -0.01330454; 203.0025; Before; 4.12625; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.4733; -0.01333292; 203.0027; Before; 4.140721; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.4236; -0.01335306; 203.0028; Before; 4.170784; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.2719; -0.01337104; 203.003; Before; 4.184623; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.2205; -0.01338933; 203.0031; Before; 4.199177; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.1166; -0.01339907; 203.0033; Before; 4.213002; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 847.0112; -0.01342176; 203.0035; Before; 4.243089; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 846.9579; -0.01345151; 203.0036; Before; 4.271325; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 846.8503; -0.01347706; 203.0038; Before; 4.286351; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 846.741; -0.01350821; 203.004; Before; 4.300903; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 846.6303; -0.01351913; 203.0042; Before; 4.315307; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 846.518; -0.01344525; 203.0045; Before; 4.344373; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 846.4043; -0.01329659; 203.0047; Before; 4.359752; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 846.2891; -0.01313676; 203.0049; Before; 4.37525; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 846.2309; -0.0130784; 203.0051; Before; 4.390183; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 846.1135; -0.01299741; 203.0053; Before; 4.409824; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 845.9944; -0.01292679; 203.0056; Before; 4.429314; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 845.9344; -0.01291606; 203.0057; Before; 4.468722; null
+23; Driver; Noise; None; 24.10.2023 15:27:06; 845.752; -0.01294959; 203.0062; Before; 4.483995; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 845.6905; -0.01300214; 203.0063; Before; 4.498893; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 845.5663; -0.01310424; 203.0066; Before; 4.513093; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 845.4407; -0.01322646; 203.0069; Before; 4.54302; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 845.3774; -0.01331252; 203.0071; Before; 4.571508; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 845.2496; -0.0134395; 203.0074; Before; 4.585936; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 845.1204; -0.01354305; 203.0078; Before; 4.600276; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 844.9899; -0.01360724; 203.0081; Before; 4.615193; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 844.858; -0.01364962; 203.0085; Before; 4.643062; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 844.7249; -0.01366117; 203.0088; Before; 4.659751; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 844.6578; -0.0136538; 203.009; Before; 4.689128; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 844.523; -0.01368793; 203.0094; Before; 4.704316; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 844.3871; -0.01363339; 203.0098; Before; 4.718194; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 844.3187; -0.0136383; 203.01; Before; 4.746577; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 844.1123; -0.01360729; 203.0107; Before; 4.762126; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 844.043; -0.01361575; 203.0109; Before; 4.792796; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 843.9039; -0.01360843; 203.0113; Before; 4.792796; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 843.7638; -0.01361472; 203.0117; Before; 4.822079; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 843.6229; -0.0136187; 203.0122; Before; 4.838581; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 843.5521; -0.01361539; 203.0124; Before; 4.866615; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 843.3384; -0.01364538; 203.0132; Before; 4.882111; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 843.2668; -0.01364435; 203.0134; Before; 4.897661; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 843.1229; -0.01362467; 203.0139; Before; 4.913476; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 842.9781; -0.01362741; 203.0144; Before; 4.943447; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 842.9054; -0.01366261; 203.0147; Before; 4.971145; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 842.7593; -0.01369845; 203.0152; Before; 4.985698; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 842.6124; -0.01373453; 203.0157; Before; 5.001553; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 842.4645; -0.01375437; 203.0163; Before; 5.016638; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 842.3159; -0.01377468; 203.0169; Before; 5.045351; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 842.1663; -0.01378072; 203.0175; Before; 5.059741; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 842.0912; -0.01377462; 203.0177; Before; 5.088155; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 841.9404; -0.01382484; 203.0184; Before; 5.103018; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 841.7886; -0.01378147; 203.019; Before; 5.118324; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 841.7124; -0.01379633; 203.0193; Before; 5.146884; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 841.5593; -0.01379501; 203.0199; Before; 5.163592; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 841.3278; -0.01368484; 203.0209; Before; 5.180501; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 841.2502; -0.01368359; 203.0212; Before; 5.199821; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 841.0942; -0.01360182; 203.0219; Before; 5.215307; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 841.0158; -0.01361398; 203.0223; Before; 5.246892; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 840.7793; -0.01363998; 203.0233; Before; 5.261183; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 840.7; -0.01367824; 203.0237; Before; 5.289792; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 840.5407; -0.01381829; 203.0244; Before; 5.304308; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 840.3804; -0.01384794; 203.0252; Before; 5.318623; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 840.2193; -0.01386813; 203.0259; Before; 5.332215; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 840.1385; -0.0138695; 203.0263; Before; 5.365385; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 839.895; -0.01390991; 203.0275; Before; 5.380369; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 839.8134; -0.01390819; 203.0279; Before; 5.396304; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 839.6498; -0.01397262; 203.0287; Before; 5.425272; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 839.4856; -0.01400782; 203.0295; Before; 5.439683; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 839.4032; -0.01401022; 203.03; Before; 5.467062; null
+23; Driver; Noise; None; 24.10.2023 15:27:07; 839.1551; -0.01403571; 203.0313; Before; 5.482062; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 839.0721; -0.01402446; 203.0317; Before; 5.497317; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 838.9889; -0.01403654; 203.0321; Before; 5.525864; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 838.7383; -0.0140063; 203.0335; Before; 5.540957; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 838.6545; -0.01401549; 203.0339; Before; 5.569598; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 838.402; -0.01398538; 203.0353; Before; 5.584288; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 838.3176; -0.01399706; 203.0358; Before; 5.599394; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 838.233; -0.01403096; 203.0363; Before; 5.627395; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 837.9782; -0.01405148; 203.0377; Before; 5.641283; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 837.893; -0.01407264; 203.0382; Before; 5.670133; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 837.7221; -0.01407293; 203.0392; Before; 5.686056; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 837.5507; -0.01407576; 203.0402; Before; 5.701917; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 837.3786; -0.01398891; 203.0412; Before; 5.716982; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 837.2924; -0.01399302; 203.0418; Before; 5.746431; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 837.0327; -0.01396572; 203.0434; Before; 5.761333; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 836.9459; -0.01398375; 203.0439; Before; 5.790638; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 836.7717; -0.0140877; 203.045; Before; 5.804631; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 836.597; -0.01407402; 203.0461; Before; 5.819123; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 836.5094; -0.01410479; 203.0466; Before; 5.848502; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 836.3338; -0.01412141; 203.0478; Before; 5.864327; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 836.0693; -0.01407972; 203.0495; Before; 5.880007; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 835.9808; -0.01405673; 203.0501; Before; 5.895868; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 835.8035; -0.01409609; 203.0513; Before; 5.925268; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 835.6255; -0.01403874; 203.0525; Before; 5.939949; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 835.5363; -0.01405674; 203.0531; Before; 5.968768; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 835.2679; -0.01405756; 203.0549; Before; 5.983809; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 835.1781; -0.01408174; 203.0556; Before; 5.999933; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 834.9982; -0.01401447; 203.0568; Before; 6.014462; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 834.908; -0.01403142; 203.0575; Before; 6.048182; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 834.6367; -0.01403849; 203.0594; Before; 6.063012; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 834.4551; -0.01401944; 203.0607; Before; 6.079169; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 834.3642; -0.0140095; 203.0614; Before; 6.095226; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 834.182; -0.0140812; 203.0627; Before; 6.125278; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 833.9994; -0.01405398; 203.0641; Before; 6.139713; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 833.908; -0.01408704; 203.0648; Before; 6.169181; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 833.633; -0.01412266; 203.0669; Before; 6.184262; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 833.5411; -0.01415536; 203.0676; Before; 6.199056; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 833.3572; -0.01417917; 203.069; Before; 6.213802; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 833.173; -0.01420644; 203.0704; Before; 6.243761; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 832.9885; -0.01421718; 203.0719; Before; 6.259923; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 832.8961; -0.01421097; 203.0726; Before; 6.288445; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 832.7113; -0.01427387; 203.0741; Before; 6.303141; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 832.5264; -0.0142197; 203.0756; Before; 6.318608; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 832.3413; -0.01417236; 203.0771; Before; 6.333085; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 832.2487; -0.01414607; 203.0779; Before; 6.365078; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 831.9709; -0.01413827; 203.0802; Before; 6.380817; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 831.8784; -0.01412694; 203.081; Before; 6.39534; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 831.6933; -0.01419151; 203.0826; Before; 6.424737; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 831.5084; -0.01423307; 203.0842; Before; 6.438776; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 831.416; -0.01423889; 203.085; Before; 6.467678; null
+23; Driver; Noise; None; 24.10.2023 15:27:08; 831.139; -0.0142804; 203.0874; Before; 6.482824; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 831.0468; -0.01427188; 203.0882; Before; 6.497357; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 830.9545; -0.01428867; 203.089; Before; 6.525942; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 830.6783; -0.01426019; 203.0915; Before; 6.542056; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 830.5864; -0.0142697; 203.0923; Before; 6.57137; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 830.4028; -0.01424896; 203.0939; Before; 6.586605; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 830.2195; -0.01423704; 203.0956; Before; 6.602493; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 830.0367; -0.01421674; 203.0973; Before; 6.617744; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 829.9454; -0.01419822; 203.0981; Before; 6.647347; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 829.6723; -0.01411099; 203.1007; Before; 6.663465; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 829.4907; -0.01404429; 203.1024; Before; 6.679589; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 829.4001; -0.0140156; 203.1033; Before; 6.694487; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 829.2191; -0.01405942; 203.105; Before; 6.723685; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 829.0386; -0.01409795; 203.1067; Before; 6.738084; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 828.9485; -0.01410733; 203.1076; Before; 6.766505; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 828.6788; -0.01417011; 203.1103; Before; 6.782176; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 828.5891; -0.01417098; 203.1111; Before; 6.797136; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 828.41; -0.01424182; 203.1129; Before; 6.825577; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 828.2313; -0.01419327; 203.1147; Before; 6.839969; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 828.1421; -0.01420878; 203.1156; Before; 6.868936; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 827.8751; -0.01418123; 203.1182; Before; 6.8836; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 827.7863; -0.01419079; 203.1191; Before; 6.899012; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 827.6976; -0.01422192; 203.12; Before; 6.92796; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 827.4322; -0.01422209; 203.1227; Before; 6.94221; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 827.2557; -0.01416865; 203.1245; Before; 6.957783; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 827.1677; -0.01413597; 203.1254; Before; 6.986775; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 826.9918; -0.01415394; 203.1272; Before; 7.002011; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 826.8164; -0.0140755; 203.129; Before; 7.017188; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 826.7288; -0.01408256; 203.1299; Before; 7.046367; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 826.554; -0.01406765; 203.1318; Before; 7.061821; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 826.2925; -0.01393197; 203.1345; Before; 7.080108; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 826.2056; -0.01392803; 203.1354; Before; 7.098586; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 826.0319; -0.01391008; 203.1373; Before; 7.113777; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 825.9453; -0.01390285; 203.1382; Before; 7.145364; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 825.6859; -0.01387431; 203.1409; Before; 7.162337; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 825.5996; -0.01389938; 203.1418; Before; 7.192623; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 825.4274; -0.01392704; 203.1437; Before; 7.192623; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 825.3414; -0.01393612; 203.1446; Before; 7.223612; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 825.1697; -0.01393525; 203.1464; Before; 7.241784; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 824.913; -0.01383602; 203.1491; Before; 7.260365; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 824.8276; -0.01384457; 203.15; Before; 7.291853; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 824.6571; -0.01385062; 203.1518; Before; 7.291853; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 824.487; -0.01388758; 203.1536; Before; 7.320599; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 824.3173; -0.01392672; 203.1554; Before; 7.336101; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 824.2326; -0.01393894; 203.1563; Before; 7.364961; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 823.9791; -0.01393631; 203.159; Before; 7.380417; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 823.8948; -0.01396016; 203.1599; Before; 7.39946; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 823.7264; -0.01390037; 203.1617; Before; 7.417049; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 823.6424; -0.01391784; 203.1625; Before; 7.447729; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 823.3909; -0.01392724; 203.1652; Before; 7.46281; null
+23; Driver; Noise; None; 24.10.2023 15:27:09; 823.3073; -0.01395343; 203.1661; Before; 7.492377; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 823.1403; -0.01397233; 203.1678; Before; 7.492377; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 822.9736; -0.01399775; 203.1696; Before; 7.521605; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 822.8074; -0.0140097; 203.1714; Before; 7.536842; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 822.7244; -0.01400511; 203.1723; Before; 7.566617; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 822.4761; -0.01394951; 203.1749; Before; 7.582497; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 822.3935; -0.01395629; 203.1758; Before; 7.597804; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 822.311; -0.01398629; 203.1766; Before; 7.626645; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 822.064; -0.0140032; 203.1792; Before; 7.641086; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 821.9819; -0.01402346; 203.1801; Before; 7.668741; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 821.7361; -0.01401223; 203.1827; Before; 7.683976; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 821.6544; -0.01402427; 203.1836; Before; 7.699417; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 821.5728; -0.01405544; 203.1844; Before; 7.727313; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 821.3284; -0.014059; 203.187; Before; 7.741096; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 821.2471; -0.01407075; 203.1879; Before; 7.768913; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 821.0038; -0.01410337; 203.1905; Before; 7.782889; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 820.9229; -0.01408854; 203.1913; Before; 7.797057; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 820.7614; -0.01411599; 203.193; Before; 7.824971; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 820.6002; -0.01410707; 203.1947; Before; 7.839215; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 820.5198; -0.01408652; 203.1956; Before; 7.867418; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 820.2791; -0.01404622; 203.1982; Before; 7.882185; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 820.199; -0.01401598; 203.199; Before; 7.897027; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 820.0391; -0.01402432; 203.2007; Before; 7.925194; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 819.8796; -0.01401086; 203.2024; Before; 7.939466; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 819.8; -0.01399247; 203.2032; Before; 7.967177; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 819.5618; -0.01380994; 203.2057; Before; 7.967177; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 819.4825; -0.01364509; 203.2066; Before; 7.967177; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 819.3243; -0.01323436; 203.2083; Before; 7.967177; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 819.1664; -0.01294563; 203.2099; Before; 7.982292; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 819.0089; -0.01277958; 203.2116; Before; 8.049986; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 818.9303; -0.01276223; 203.2124; Before; 8.089675; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 818.7733; -0.01290688; 203.2141; Before; 8.104764; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 818.6167; -0.01305598; 203.2158; Before; 8.119969; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 818.4604; -0.01325952; 203.2174; Before; 8.134971; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 818.3824; -0.01336255; 203.2182; Before; 8.169559; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 818.2267; -0.01354445; 203.2199; Before; 8.185042; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 818.0714; -0.01372205; 203.2215; Before; 8.200917; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 817.9164; -0.01379063; 203.2232; Before; 8.21899; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 817.7618; -0.01384236; 203.2248; Before; 8.235; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 817.6075; -0.0138884; 203.2265; Before; 8.265331; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 817.5305; -0.01393673; 203.2273; Before; 8.292714; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 817.3767; -0.01397784; 203.2289; Before; 8.292714; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 817.2233; -0.01399789; 203.2305; Before; 8.322158; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 817.0703; -0.01391777; 203.2321; Before; 8.337889; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 816.9938; -0.01391397; 203.2329; Before; 8.36988; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 816.8413; -0.01387644; 203.2346; Before; 8.384951; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 816.6891; -0.01385126; 203.2362; Before; 8.401062; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 816.5374; -0.01382441; 203.2378; Before; 8.41703; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 816.4615; -0.01380593; 203.2386; Before; 8.445025; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 816.2347; -0.01379846; 203.241; Before; 8.460108; null
+23; Driver; Noise; None; 24.10.2023 15:27:10; 816.1593; -0.01378601; 203.2418; Before; 8.488409; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 816.0087; -0.01382929; 203.2434; Before; 8.503525; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 815.8584; -0.01378386; 203.245; Before; 8.51835; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 815.7834; -0.01379813; 203.2458; Before; 8.546737; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 815.5589; -0.01378819; 203.2482; Before; 8.56106; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 815.4843; -0.01380254; 203.2489; Before; 8.589761; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 815.3352; -0.01388271; 203.2505; Before; 8.604386; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 815.1865; -0.01385528; 203.2521; Before; 8.619095; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 815.1122; -0.0138718; 203.2529; Before; 8.647964; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 814.8901; -0.01385031; 203.2553; Before; 8.662866; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 814.8162; -0.01385633; 203.256; Before; 8.692758; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 814.6686; -0.01383431; 203.2576; Before; 8.692758; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 814.5214; -0.01381767; 203.2592; Before; 8.721908; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 814.3746; -0.01379382; 203.2607; Before; 8.737531; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 814.3013; -0.01377531; 203.2615; Before; 8.766357; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 814.084; -0.01361543; 203.2638; Before; 8.766357; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 814.0128; -0.01354997; 203.2646; Before; 8.782481; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 813.8716; -0.01338213; 203.2661; Before; 8.816258; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 813.732; -0.01323821; 203.2675; Before; 8.833465; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 813.594; -0.01319136; 203.269; Before; 8.853919; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 813.5256; -0.01319165; 203.2697; Before; 8.88949; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 813.3901; -0.01321897; 203.2712; Before; 8.88949; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 813.2563; -0.01322689; 203.2726; Before; 8.908338; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 813.124; -0.01329167; 203.274; Before; 8.942332; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.9934; -0.01337521; 203.2754; Before; 8.958761; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.8644; -0.01339744; 203.2767; Before; 8.973979; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.8005; -0.01340889; 203.2774; Before; 8.990411; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.674; -0.01336399; 203.2788; Before; 9.009978; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.6113; -0.01338205; 203.2794; Before; 9.048396; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.4872; -0.01340498; 203.2807; Before; 9.064276; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.3041; -0.0133603; 203.2827; Before; 9.080729; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.2439; -0.01337127; 203.2833; Before; 9.098707; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.1247; -0.01337945; 203.2846; Before; 9.114409; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 812.0071; -0.01333525; 203.2858; Before; 9.131009; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.9489; -0.01331719; 203.2865; Before; 9.166546; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.8336; -0.01328242; 203.2877; Before; 9.186215; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.72; -0.01321602; 203.2889; Before; 9.186215; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.6079; -0.01313394; 203.2901; Before; 9.202252; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.5525; -0.01310814; 203.2906; Before; 9.244203; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.4428; -0.01323425; 203.2918; Before; 9.261338; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.2813; -0.01335518; 203.2935; Before; 9.281011; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.2281; -0.01340931; 203.2941; Before; 9.297973; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.1232; -0.01344063; 203.2952; Before; 9.316928; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 811.0198; -0.01342694; 203.2962; Before; 9.33708; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 810.918; -0.01342138; 203.2973; Before; 9.355466; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 810.8677; -0.01342084; 203.2979; Before; 9.388083; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 810.7682; -0.01340397; 203.2989; Before; 9.388083; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 810.7191; -0.01339848; 203.2994; Before; 9.42271; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 810.5739; -0.01336555; 203.3009; Before; 9.440267; null
+23; Driver; Noise; None; 24.10.2023 15:27:11; 810.4791; -0.01329969; 203.3019; Before; 9.458045; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 810.3858; -0.01322242; 203.3029; Before; 9.478968; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 810.3397; -0.01321879; 203.3033; Before; 9.49861; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 810.2488; -0.01320729; 203.3043; Before; 9.515029; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 810.1593; -0.01317429; 203.3052; Before; 9.530689; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 810.1152; -0.01316729; 203.3056; Before; 9.566362; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.985; -0.01315155; 203.3069; Before; 9.582535; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.9424; -0.01316639; 203.3074; Before; 9.598756; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.8583; -0.0131486; 203.3082; Before; 9.614353; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.7757; -0.01314591; 203.309; Before; 9.633275; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.6946; -0.01311857; 203.3098; Before; 9.652962; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.6547; -0.01311191; 203.3102; Before; 9.687528; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.5758; -0.01309478; 203.311; Before; 9.687528; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.4985; -0.01310248; 203.3117; Before; 9.722422; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.4227; -0.01307978; 203.3125; Before; 9.738158; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.3484; -0.01307045; 203.3132; Before; 9.753436; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.2755; -0.01303936; 203.3139; Before; 9.77166; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.2396; -0.01303039; 203.3142; Before; 9.791756; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.1691; -0.01300988; 203.3149; Before; 9.811738; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.1343; -0.01300524; 203.3152; Before; 9.844388; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 809.0323; -0.01298944; 203.3162; Before; 9.861019; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.9662; -0.0129791; 203.3168; Before; 9.876855; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.9337; -0.01297754; 203.3171; Before; 9.892307; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.8697; -0.01296744; 203.3177; Before; 9.90908; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.8072; -0.012938; 203.3183; Before; 9.925703; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.7765; -0.01292876; 203.3185; Before; 9.964745; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.6866; -0.0129023; 203.3193; Before; 9.982334; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.6573; -0.01290698; 203.3195; Before; 9.998586; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.6; -0.0129071; 203.32; Before; 10.0144; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.5718; -0.01290827; 203.3202; Before; 10.04682; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.5167; -0.01290106; 203.3206; Before; 10.0637; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.4628; -0.0128733; 203.321; Before; 10.08013; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.4105; -0.01283252; 203.3214; Before; 10.08013; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.3596; -0.01281406; 203.3218; Before; 10.12022; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.3101; -0.01280202; 203.3221; Before; 10.13706; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.2859; -0.01279886; 203.3222; Before; 10.1681; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.2385; -0.01278776; 203.3225; Before; 10.18639; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.1926; -0.01276272; 203.3227; Before; 10.18639; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.1481; -0.01275406; 203.3229; Before; 10.22038; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.105; -0.01273021; 203.323; Before; 10.23744; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.0634; -0.0126993; 203.3232; Before; 10.25649; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.0231; -0.01268192; 203.3232; Before; 10.27628; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 808.0035; -0.01267714; 203.3233; Before; 10.29527; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 807.9653; -0.0126663; 203.3233; Before; 10.31124; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 807.9467; -0.01266369; 203.3233; Before; 10.34608; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 807.8931; -0.01265346; 203.3233; Before; 10.36343; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 807.8591; -0.01264528; 203.3233; Before; 10.37946; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 807.8427; -0.01264247; 203.3233; Before; 10.39575; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 807.8108; -0.01261926; 203.3232; Before; 10.41552; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 807.7803; -0.01259097; 203.3232; Before; 10.43595; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 807.7511; -0.01257302; 203.3231; Before; 10.45435; null
+23; Driver; Noise; None; 24.10.2023 15:27:12; 807.7371; -0.01256699; 203.3231; Before; 10.48674; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.71; -0.01256965; 203.323; Before; 10.50306; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.6843; -0.01255955; 203.3229; Before; 10.51928; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.6599; -0.01255193; 203.3228; Before; 10.53487; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.637; -0.01253509; 203.3227; Before; 10.55163; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.626; -0.01252795; 203.3226; Before; 10.59002; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.605; -0.01251195; 203.3226; Before; 10.59002; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.5951; -0.0125051; 203.3225; Before; 10.62456; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.5672; -0.01248313; 203.3224; Before; 10.64075; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.5503; -0.01246833; 203.3223; Before; 10.65724; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.5424; -0.01246176; 203.3222; Before; 10.68949; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.5268; -0.01244696; 203.3221; Before; 10.68949; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.5113; -0.01242761; 203.322; Before; 10.70686; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.5035; -0.01241956; 203.3219; Before; 10.7448; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.4803; -0.01239735; 203.3216; Before; 10.76372; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.465; -0.01238516; 203.3214; Before; 10.77958; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.4573; -0.01238086; 203.3213; Before; 10.7952; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.4419; -0.01237256; 203.3211; Before; 10.81117; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.4266; -0.0123709; 203.3209; Before; 10.8433; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.4113; -0.01236509; 203.3206; Before; 10.85984; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.4037; -0.01235901; 203.3205; Before; 10.87941; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.3884; -0.01236015; 203.3202; Before; 10.90082; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.3733; -0.01235798; 203.3199; Before; 10.91913; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.3582; -0.01236063; 203.3195; Before; 10.93376; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.3506; -0.01236341; 203.3194; Before; 10.96585; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.3279; -0.01237145; 203.3188; Before; 10.98318; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.3204; -0.0123772; 203.3186; Before; 10.99902; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.3054; -0.0123796; 203.3182; Before; 11.01505; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.2904; -0.01238364; 203.3178; Before; 11.03416; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.2829; -0.01238608; 203.3176; Before; 11.0696; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.2678; -0.01238837; 203.3171; Before; 11.08643; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.2521; -0.01238501; 203.3166; Before; 11.08643; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.2353; -0.01238673; 203.316; Before; 11.12014; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.2167; -0.0123883; 203.3153; Before; 11.1376; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.1962; -0.01238384; 203.3145; Before; 11.15281; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.1737; -0.0123759; 203.3136; Before; 11.16932; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.1616; -0.01237548; 203.3131; Before; 11.19032; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.1359; -0.01237614; 203.312; Before; 11.21014; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.108; -0.01239037; 203.3107; Before; 11.24233; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.0779; -0.01240879; 203.3093; Before; 11.2592; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.0621; -0.01242063; 203.3085; Before; 11.29051; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 807.0287; -0.01244199; 203.3067; Before; 11.29051; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 806.9931; -0.01245524; 203.3047; Before; 11.30647; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 806.9745; -0.01246606; 203.3037; Intersection; 0.0213099; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 806.9153; -0.01250143; 203.3001; Intersection; 0.0397578; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 806.873; -0.01252804; 203.2974; Intersection; 0.0559936; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 806.851; -0.01254481; 203.2959; Intersection; 0.0710374; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 806.8284; -0.01256907; 203.2943; Intersection; 0.1025885; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 806.7573; -0.01263019; 203.2892; Intersection; 0.1183827; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 806.707; -0.01266302; 203.2853; Intersection; 0.1344168; null
+23; Driver; Noise; None; 24.10.2023 15:27:13; 806.6544; -0.01267652; 203.281; Intersection; 0.1497961; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.6272; -0.01268708; 203.2787; Intersection; 0.166974; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.5709; -0.01270353; 203.2738; Intersection; 0.1888599; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.5417; -0.0127159; 203.2712; Intersection; 0.2240521; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.4504; -0.01274959; 203.2626; Intersection; 0.240514; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.3861; -0.01277189; 203.2563; Intersection; 0.2563964; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.353; -0.01278734; 203.2529; Intersection; 0.2716904; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.2847; -0.01281165; 203.2456; Intersection; 0.2877969; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.2496; -0.01282816; 203.2418; Intersection; 0.3210897; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.1774; -0.01285383; 203.2337; Intersection; 0.3407808; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.0643; -0.01286928; 203.2202; Intersection; 0.3599636; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 806.0254; -0.01289404; 203.2154; Intersection; 0.376859; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.9457; -0.01290373; 203.2052; Intersection; 0.3926103; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.8638; -0.01293157; 203.1943; Intersection; 0.4096009; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.822; -0.01295182; 203.1885; Intersection; 0.4439633; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.6932; -0.01300697; 203.17; Intersection; 0.4599024; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.6493; -0.01304309; 203.1634; Intersection; 0.4759021; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.5599; -0.01306321; 203.1496; Intersection; 0.4960862; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.4686; -0.0130608; 203.135; Intersection; 0.5141815; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.3755; -0.01308013; 203.1194; Intersection; 0.5319514; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.3282; -0.01309724; 203.1112; Intersection; 0.5654521; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.2325; -0.0131239; 203.0942; Intersection; 0.5654521; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.135; -0.01317932; 203.0762; Intersection; 0.5983274; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 805.0359; -0.01319279; 203.0571; Intersection; 0.6154559; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.9354; -0.01322064; 203.0371; Intersection; 0.6308773; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.8335; -0.01321655; 203.0159; Intersection; 0.6511944; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.7821; -0.01322374; 203.0049; Intersection; 0.6712583; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.6783; -0.01323273; 202.9821; Intersection; 0.6890799; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.626; -0.01324565; 202.9702; Intersection; 0.7225896; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.4673; -0.01327985; 202.9329; Intersection; 0.7393924; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.3602; -0.01330191; 202.9067; Intersection; 0.7555922; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.3063; -0.01331922; 202.893; Intersection; 0.7723029; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.1978; -0.01320186; 202.865; Intersection; 0.788441; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.0887; -0.01305694; 202.8358; Intersection; 0.8085792; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 804.0339; -0.01300787; 202.8207; Intersection; 0.8436328; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 803.9241; -0.01294689; 202.7897; Intersection; 0.8606297; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 803.8138; -0.01295974; 202.7574; Intersection; 0.8778844; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 803.7034; -0.01296318; 202.7241; Intersection; 0.8948157; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 803.593; -0.01301215; 202.6896; Intersection; 0.9101399; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 803.4827; -0.01303424; 202.654; Intersection; 0.9271312; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 803.4276; -0.01305456; 202.6357; Intersection; 0.9649783; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 803.3178; -0.01309945; 202.5984; Intersection; 0.9649783; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 803.2631; -0.01312577; 202.5793; Intersection; 1.000817; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 803.0999; -0.0131972; 202.5206; Intersection; 1.018645; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 802.9919; -0.01323424; 202.4803; Intersection; 1.03451; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 802.9382; -0.01325079; 202.4597; Intersection; 1.067096; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 802.8313; -0.01327137; 202.4179; Intersection; 1.067096; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 802.725; -0.0132424; 202.3752; Intersection; 1.083954; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 802.6722; -0.01323222; 202.3534; Intersection; 1.121081; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 802.5146; -0.01320777; 202.2867; Intersection; 1.140855; null
+23; Driver; Noise; None; 24.10.2023 15:27:14; 802.4105; -0.01319782; 202.2411; Intersection; 1.157122; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 802.3588; -0.01319668; 202.2178; Intersection; 1.172672; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 802.2557; -0.01319337; 202.1708; Intersection; 1.188792; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 802.2045; -0.01319474; 202.1469; Intersection; 1.223111; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 802.1026; -0.01319484; 202.0985; Intersection; 1.241386; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 802.0014; -0.0131579; 202.0492; Intersection; 1.259099; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.9009; -0.01309894; 201.999; Intersection; 1.259099; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.851; -0.01308255; 201.9735; Intersection; 1.299928; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.7023; -0.01306686; 201.8958; Intersection; 1.31791; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.6042; -0.01323062; 201.8429; Intersection; 1.334389; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.5554; -0.0133093; 201.8161; Intersection; 1.367962; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.4584; -0.01343001; 201.7619; Intersection; 1.367962; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.4102; -0.0134826; 201.7345; Intersection; 1.401777; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.3144; -0.01354804; 201.6791; Intersection; 1.418958; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.2194; -0.0135468; 201.6228; Intersection; 1.437532; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.0784; -0.0134793; 201.5369; Intersection; 1.458071; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 801.0318; -0.0134798; 201.5079; Intersection; 1.475305; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.9391; -0.01346427; 201.4493; Intersection; 1.491122; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.8472; -0.01341313; 201.39; Intersection; 1.508023; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.8016; -0.01339754; 201.36; Intersection; 1.542058; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.666; -0.01335691; 201.269; Intersection; 1.55956; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.6212; -0.01337021; 201.2382; Intersection; 1.576751; null
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.5321; -0.01334047; 201.1763; Intersection; 1.595052; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.4438; -0.0132937; 201.1138; Intersection; 1.614459; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.3563; -0.01328169; 201.0505; Intersection; 1.633278; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.2695; -0.01325165; 200.9864; Intersection; 1.650996; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.2264; -0.0132507; 200.954; Intersection; 1.668353; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.1406; -0.01325041; 200.8888; Intersection; 1.686486; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.098; -0.01326114; 200.8559; Intersection; 1.721656; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 800.0132; -0.01327773; 200.7895; Intersection; 1.740255; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.929; -0.01326791; 200.7222; Intersection; 1.760156; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.8452; -0.01323997; 200.6541; Intersection; 1.760156; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.762; -0.01326199; 200.5848; Intersection; 1.798048; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.679; -0.01325352; 200.5146; Intersection; 1.815347; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.5961; -0.01327221; 200.4431; Intersection; 1.831789; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.5548; -0.01328965; 200.4068; Intersection; 1.866774; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.4722; -0.01331427; 200.3335; Intersection; 1.866774; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.3897; -0.01330639; 200.2587; Intersection; 1.88632; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.3073; -0.01318329; 200.1826; Intersection; 1.903552; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.225; -0.01298137; 200.1051; Intersection; 1.923854; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.1428; -0.01282372; 200.0262; Intersection; 1.945711; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.1015; -0.01271832; 199.9863; Intersection; 1.945711; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 799.0193; -0.01259967; 199.9051; Intersection; 1.965249; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 798.9783; -0.01258514; 199.8638; Intersection; 2.021251; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 798.8962; -0.01261947; 199.7801; Intersection; 2.039263; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 798.8141; -0.01267906; 199.6948; Intersection; 2.05797; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 798.7322; -0.01275022; 199.6078; Intersection; 2.05797; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 798.6503; -0.01282183; 199.5191; Intersection; 2.080473; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 798.6095; -0.01287365; 199.4741; Intersection; 2.12026; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:15; 798.5278; -0.01298647; 199.3828; Intersection; 2.139379; Checking Box Human
+23; Driver; Noise; None; 24.10.2023 15:27:16; 798.4058; -0.01310359; 199.2425; Intersection; 2.157851; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 798.3652; -0.01316932; 199.1948; Intersection; 2.175864; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 798.2841; -0.01322258; 199.0981; Intersection; 2.196785; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 798.2032; -0.01323122; 198.9995; Intersection; 2.215077; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 798.1226; -0.01320829; 198.899; Intersection; 2.235751; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 798.0423; -0.01316706; 198.7966; Intersection; 2.256606; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 798.0024; -0.01319582; 198.7447; Intersection; 2.276814; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.9226; -0.01319313; 198.6395; Intersection; 2.294776; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.8433; -0.01317138; 198.5323; Intersection; 2.312632; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.7644; -0.01319979; 198.4233; Intersection; 2.33112; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.686; -0.01319935; 198.3124; Intersection; 2.350283; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.6472; -0.0132121; 198.2561; Intersection; 2.369918; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.5696; -0.01318663; 198.1422; Intersection; 2.390847; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.4927; -0.01315542; 198.0264; Intersection; 2.413731; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.4164; -0.01318758; 197.9086; Intersection; 2.433078; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.3408; -0.0131971; 197.7889; Intersection; 2.451614; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.3034; -0.01321708; 197.7282; Intersection; 2.470555; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.2289; -0.01320531; 197.6055; Intersection; 2.48798; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.1552; -0.01325158; 197.4808; Intersection; 2.50879; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.0823; -0.01326756; 197.3541; Intersection; 2.527549; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 797.0103; -0.01326124; 197.2255; Intersection; 2.548263; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.9747; -0.01327494; 197.1603; Intersection; 2.568567; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.9041; -0.01331741; 197.0287; Intersection; 2.587028; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.8344; -0.0133269; 196.8951; Intersection; 2.605944; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.8001; -0.01334528; 196.8274; Intersection; 2.642054; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.732; -0.01339134; 196.6908; Intersection; 2.660361; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.6649; -0.01339731; 196.5521; Intersection; 2.660361; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.5988; -0.01337529; 196.4114; Intersection; 2.68016; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.5339; -0.01333747; 196.2687; Intersection; 2.702062; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.5021; -0.01334; 196.1966; Intersection; 2.742617; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.4389; -0.01336831; 196.0509; Intersection; 2.761098; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.3772; -0.01345912; 195.9031; Intersection; 2.77885; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.3165; -0.01349877; 195.7534; Intersection; 2.796916; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.2572; -0.01349837; 195.6021; Intersection; 2.813837; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.1993; -0.01347104; 195.449; Intersection; 2.833273; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.1707; -0.01342631; 195.3719; Intersection; 2.855844; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.115; -0.01338155; 195.2164; Intersection; 2.855844; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.0608; -0.01333759; 195.0593; Intersection; 2.878118; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 796.0344; -0.01334342; 194.9801; Intersection; 2.920161; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.9573; -0.01342533; 194.7404; Intersection; 2.93876; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.9077; -0.01351224; 194.5788; Intersection; 2.956214; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.8836; -0.01356243; 194.4974; Intersection; 2.974165; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.8364; -0.0135793; 194.3337; Intersection; 2.991956; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.7909; -0.01356337; 194.1687; Intersection; 3.012929; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.7469; -0.013527; 194.0023; Intersection; 3.034108; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.7047; -0.01355866; 193.8347; Intersection; 3.053503; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.6843; -0.01358693; 193.7503; Intersection; 3.071381; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.6445; -0.01357012; 193.5807; Intersection; 3.089578; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.6063; -0.01361326; 193.4099; Intersection; 3.108697; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.5698; -0.01361297; 193.2379; Intersection; 3.127343; null
+23; Driver; Noise; None; 24.10.2023 15:27:16; 795.535; -0.01358263; 193.0646; Intersection; 3.145318; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.5184; -0.01358733; 192.9775; Intersection; 3.166493; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.4862; -0.01361583; 192.8024; Intersection; 3.188744; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.4557; -0.01360765; 192.6262; Intersection; 3.208099; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.4269; -0.01357523; 192.4488; Intersection; 3.225931; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.4133; -0.0135811; 192.3597; Intersection; 3.264645; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.3869; -0.01361497; 192.1807; Intersection; 3.264645; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.3622; -0.01361364; 192.0006; Intersection; 3.283648; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.3391; -0.01350684; 191.8195; Intersection; 3.301407; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.3178; -0.0134243; 191.6373; Intersection; 3.33105; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2982; -0.01345245; 191.4541; Intersection; 3.35309; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2891; -0.0134909; 191.3622; Intersection; 3.372613; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2719; -0.01350502; 191.1776; Intersection; 3.391246; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2562; -0.0135948; 190.992; Intersection; 3.409671; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2421; -0.0136412; 190.8056; Intersection; 3.42992; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2357; -0.01367885; 190.712; Intersection; 3.465336; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2238; -0.01375918; 190.5244; Intersection; 3.465336; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2133; -0.01378026; 190.336; Intersection; 3.486125; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2042; -0.01375729; 190.1468; Intersection; 3.506673; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2003; -0.01376329; 190.052; Intersection; 3.542766; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1932; -0.01378978; 189.8618; Intersection; 3.561523; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1877; -0.0138772; 189.6708; Intersection; 3.578682; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1832; -0.01389543; 189.4792; Intersection; 3.59728; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.18; -0.01386276; 189.2868; Intersection; 3.613625; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.178; -0.01379866; 189.0939; Intersection; 3.630896; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1771; -0.0137209; 188.9003; After ; 0; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1772; -0.01375958; 188.8032; After ; 0.0224707; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1779; -0.01375353; 188.6086; After ; 0.0400804; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1797; -0.01381154; 188.4135; After ; 0.0571696; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.181; -0.01384983; 188.3157; After ; 0.0913576; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1842; -0.01392292; 188.1196; After ; 0.1090585; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1882; -0.01392653; 187.923; After ; 0.1090585; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1907; -0.01393847; 187.8245; After ; 0.1447711; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.1989; -0.01398363; 187.5282; After ; 0.1644594; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2051; -0.01401727; 187.33; After ; 0.1826111; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2086; -0.01403743; 187.2307; After ; 0.2153769; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2156; -0.01406806; 187.0317; After ; 0.2153769; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2194; -0.01408494; 186.932; After ; 0.2483408; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2313; -0.0141187; 186.6323; After ; 0.2658245; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2397; -0.01413054; 186.4319; After ; 0.2829615; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.244; -0.01413776; 186.3315; After ; 0.314978; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2527; -0.01414132; 186.1305; After ; 0.314978; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2572; -0.01414512; 186.0298; After ; 0.3478456; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2708; -0.01414552; 185.7273; After ; 0.3648061; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2798; -0.01414176; 185.5252; After ; 0.3809005; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2844; -0.01414337; 185.424; After ; 0.4132771; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.2935; -0.01413983; 185.2215; After ; 0.4132771; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.3027; -0.01418187; 185.0188; After ; 0.4462822; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.3117; -0.01414276; 184.8161; After ; 0.463335; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.3207; -0.01414226; 184.6131; After ; 0.4784874; null
+23; Driver; Noise; None; 24.10.2023 15:27:17; 795.3251; -0.01414588; 184.5116; After ; 0.511723; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.3339; -0.01414649; 184.3085; After ; 0.511723; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.3426; -0.0141922; 184.1052; After ; 0.5451446; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.3511; -0.0141554; 183.9018; After ; 0.5625694; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.3595; -0.01415601; 183.6982; After ; 0.578616; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.3636; -0.01415971; 183.5964; After ; 0.6129088; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.3718; -0.01415958; 183.3926; After ; 0.6129088; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.3759; -0.01416288; 183.2907; After ; 0.6476879; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.3876; -0.01416492; 182.9845; After ; 0.6656082; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.3953; -0.01416342; 182.7801; After ; 0.6828873; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4026; -0.01409329; 182.5755; After ; 0.6997651; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4063; -0.01407269; 182.473; After ; 0.7171267; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4133; -0.01404457; 182.268; After ; 0.735227; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4167; -0.01404311; 182.1654; After ; 0.77063; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4266; -0.01405868; 181.8573; After ; 0.7875346; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4329; -0.01408129; 181.6515; After ; 0.8030123; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4359; -0.01409834; 181.5485; After ; 0.818343; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4418; -0.01412623; 181.3424; After ; 0.8362554; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4446; -0.0141433; 181.2392; After ; 0.8692479; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4527; -0.01418097; 180.9294; After ; 0.8863906; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4578; -0.01419657; 180.7226; After ; 0.9026943; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4601; -0.01420568; 180.6191; After ; 0.9183089; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4648; -0.01421231; 180.4119; After ; 0.9340125; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4691; -0.01425963; 180.2045; After ; 0.9667608; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4731; -0.01431214; 179.9969; After ; 0.9830676; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.475; -0.01433039; 179.8931; After ; 1.014435; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4786; -0.01433967; 179.6852; After ; 1.014435; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4802; -0.0143397; 179.5812; After ; 1.049175; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4849; -0.01431059; 179.2689; After ; 1.065733; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4875; -0.01427926; 179.0604; After ; 1.081351; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4888; -0.01426668; 178.9561; After ; 1.11391; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.491; -0.01423595; 178.7473; After ; 1.11391; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4929; -0.01425617; 178.5383; After ; 1.147186; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4946; -0.01419832; 178.329; After ; 1.163812; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.496; -0.01418626; 178.1194; After ; 1.179252; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4965; -0.01418644; 178.0145; After ; 1.212788; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4975; -0.01418381; 177.8046; After ; 1.212788; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4982; -0.01423207; 177.5944; After ; 1.246832; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4986; -0.01419812; 177.384; After ; 1.263515; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4988; -0.01420467; 177.1734; After ; 1.278402; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4988; -0.01421183; 177.0679; After ; 1.312443; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4987; -0.01421853; 176.8569; After ; 1.312443; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4982; -0.01427088; 176.6456; After ; 1.344847; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4977; -0.014331; 176.4341; After ; 1.362158; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4973; -0.01435335; 176.3283; After ; 1.392702; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4965; -0.01437048; 176.1164; After ; 1.409034; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4954; -0.01441252; 175.9043; After ; 1.424316; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4942; -0.01435363; 175.6919; After ; 1.440754; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4935; -0.01438346; 175.5857; After ; 1.472236; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4921; -0.0144099; 175.373; After ; 1.488263; null
+23; Driver; Noise; None; 24.10.2023 15:27:18; 795.4896; -0.01440272; 175.0537; After ; 1.504805; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4886; -0.01439356; 174.9472; After ; 1.521814; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4866; -0.01436019; 174.7341; After ; 1.536763; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4855; -0.01434534; 174.6275; After ; 1.568594; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4819; -0.01429468; 174.3074; After ; 1.585398; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4794; -0.0142647; 174.0939; After ; 1.601861; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.478; -0.01425625; 173.9872; After ; 1.617412; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4753; -0.014238; 173.7735; After ; 1.633547; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4739; -0.01423561; 173.6667; After ; 1.667289; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4695; -0.01423141; 173.3461; After ; 1.684444; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.468; -0.01427492; 173.2393; After ; 1.716622; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4649; -0.01433445; 173.0255; After ; 1.716622; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4633; -0.01435794; 172.9187; After ; 1.748391; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4586; -0.01438515; 172.5981; After ; 1.764915; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4553; -0.01437718; 172.3843; After ; 1.780973; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4536; -0.01437199; 172.2775; After ; 1.812722; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4503; -0.01434802; 172.0639; After ; 1.812722; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.447; -0.01436719; 171.8504; After ; 1.844931; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4436; -0.01439604; 171.6371; After ; 1.860991; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4419; -0.01440431; 171.5305; After ; 1.893817; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4385; -0.01439755; 171.3173; After ; 1.90995; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4351; -0.01442229; 171.1043; After ; 1.926425; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4316; -0.014352; 170.8914; After ; 1.943759; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.428; -0.01431844; 170.6788; After ; 1.959671; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4263; -0.0143058; 170.5725; After ; 1.992123; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4227; -0.01427607; 170.3603; After ; 2.009647; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4192; -0.01418089; 170.1483; After ; 2.009647; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4156; -0.01416844; 169.9368; After ; 2.044881; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4121; -0.01410273; 169.7256; After ; 2.061979; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4086; -0.01410204; 169.5149; After ; 2.077963; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4067; -0.01411245; 169.4097; After ; 2.110901; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.4031; -0.01425181; 169.1997; After ; 2.127327; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3995; -0.01428254; 168.9902; After ; 2.143837; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3959; -0.01432584; 168.7812; After ; 2.159259; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3941; -0.01434147; 168.6768; After ; 2.19313; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3906; -0.01434847; 168.4685; After ; 2.21004; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.387; -0.01426729; 168.2607; After ; 2.21004; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3835; -0.01424823; 168.0533; After ; 2.244595; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3799; -0.01416404; 167.8464; After ; 2.263691; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3765; -0.0141365; 167.64; After ; 2.279505; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3748; -0.01413228; 167.5369; After ; 2.314783; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3714; -0.01412643; 167.3312; After ; 2.314783; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3698; -0.01413082; 167.2285; After ; 2.349468; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3648; -0.01414584; 166.9212; After ; 2.366355; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3616; -0.01415638; 166.7169; After ; 2.38331; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3585; -0.01409756; 166.5131; After ; 2.399499; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3569; -0.01408153; 166.4113; After ; 2.416277; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3539; -0.01405993; 166.2082; After ; 2.433403; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3524; -0.01406007; 166.1068; After ; 2.46914; null
+23; Driver; Noise; None; 24.10.2023 15:27:19; 795.3495; -0.01406455; 165.9044; After ; 2.487924; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3452; -0.01400056; 165.6016; After ; 2.505414; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3438; -0.01403466; 165.5009; After ; 2.523517; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.341; -0.01400151; 165.2998; After ; 2.539666; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3383; -0.01393168; 165.0992; After ; 2.558228; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3357; -0.01393421; 164.8991; After ; 2.578682; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3331; -0.0138935; 164.6994; After ; 2.599201; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3319; -0.01389263; 164.5998; After ; 2.620328; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3295; -0.01381868; 164.4008; After ; 2.638272; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.327; -0.01383013; 164.2022; After ; 2.656047; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3259; -0.01385233; 164.1031; After ; 2.690152; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3235; -0.01390594; 163.9053; After ; 2.70903; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3214; -0.01390281; 163.7079; After ; 2.70903; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3192; -0.01385928; 163.5109; After ; 2.730415; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3181; -0.01385752; 163.4126; After ; 2.76877; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.316; -0.0138725; 163.2163; After ; 2.786834; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3131; -0.01393709; 162.9228; After ; 2.804313; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3121; -0.01396522; 162.8251; After ; 2.821785; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3103; -0.01401406; 162.6302; After ; 2.837871; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3085; -0.01399102; 162.4357; After ; 2.85532; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3068; -0.01391933; 162.2417; After ; 2.873235; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3059; -0.01390182; 162.1448; After ; 2.914976; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3043; -0.01388563; 161.9514; After ; 2.914976; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3027; -0.01383093; 161.7585; After ; 2.932471; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.3019; -0.01382397; 161.6622; After ; 2.967582; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2997; -0.01384691; 161.3739; After ; 2.985773; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2984; -0.01388631; 161.1823; After ; 3.00306; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2977; -0.01391282; 161.0867; After ; 3.020185; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2964; -0.01387422; 160.8957; After ; 3.038237; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2952; -0.01380617; 160.7052; After ; 3.05927; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.294; -0.01381093; 160.5152; After ; 3.079807; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2929; -0.01377717; 160.3255; After ; 3.097739; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2924; -0.01377933; 160.2308; After ; 3.115331; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2914; -0.01380053; 160.0418; After ; 3.134106; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2909; -0.01382275; 159.9475; After ; 3.169515; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2899; -0.01386973; 159.7592; After ; 3.187306; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2891; -0.01385688; 159.5713; After ; 3.204991; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2882; -0.01380271; 159.3838; After ; 3.204991; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2875; -0.0137255; 159.1967; After ; 3.227445; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2871; -0.01371176; 159.1033; After ; 3.267828; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2861; -0.0137299; 158.8239; After ; 3.285703; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2855; -0.01377563; 158.6381; After ; 3.30302; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2852; -0.01380697; 158.5454; After ; 3.320063; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2847; -0.01386615; 158.3602; After ; 3.336936; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2842; -0.01385923; 158.1755; After ; 3.354808; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2838; -0.01380572; 157.9913; After ; 3.372615; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2834; -0.01372541; 157.8074; After ; 3.394116; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2832; -0.01370868; 157.7156; After ; 3.415695; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2829; -0.0137021; 157.5324; After ; 3.434113; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2828; -0.01371519; 157.4409; After ; 3.46947; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2825; -0.01375282; 157.2583; After ; 3.488262; null
+23; Driver; Noise; None; 24.10.2023 15:27:20; 795.2823; -0.01374229; 157.0761; After ; 3.506227; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2822; -0.0136984; 156.8944; After ; 3.506227; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2821; -0.01363588; 156.713; After ; 3.526115; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2821; -0.01362925; 156.6225; After ; 3.568406; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2821; -0.01364328; 156.4418; After ; 3.587258; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2822; -0.01363954; 156.1714; After ; 3.604244; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2822; -0.01369285; 156.0815; After ; 3.62244; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2823; -0.01371004; 155.9021; After ; 3.639433; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2825; -0.01377128; 155.723; After ; 3.658678; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2827; -0.0137717; 155.5443; After ; 3.676267; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.283; -0.0136481; 155.366; After ; 3.698284; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2831; -0.0136613; 155.2771; After ; 3.723141; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2834; -0.01361937; 155.0994; After ; 3.742087; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2838; -0.01356744; 154.9222; After ; 3.760428; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2842; -0.01359413; 154.7454; After ; 3.779292; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2847; -0.01359; 154.5689; After ; 3.797661; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2849; -0.01360593; 154.4809; After ; 3.81487; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2854; -0.01365165; 154.305; After ; 3.833253; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2857; -0.01368373; 154.2173; After ; 3.868273; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2866; -0.01377945; 153.9546; After ; 3.886727; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2872; -0.01383398; 153.78; After ; 3.903896; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2876; -0.01385966; 153.6928; After ; 3.920928; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2883; -0.01381557; 153.5188; After ; 3.938289; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2891; -0.01381191; 153.3452; After ; 3.955952; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2895; -0.01381527; 153.2585; After ; 3.992107; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2903; -0.01381881; 153.0855; After ; 4.009701; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2912; -0.01376617; 152.9129; After ; 4.009701; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2921; -0.01377537; 152.7407; After ; 4.046474; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2931; -0.01373466; 152.5688; After ; 4.063814; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2941; -0.01374037; 152.3974; After ; 4.080009; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.295; -0.01369749; 152.2264; After ; 4.099689; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2956; -0.01368977; 152.141; After ; 4.117503; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2967; -0.01368591; 151.9705; After ; 4.136461; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2978; -0.01364206; 151.8005; After ; 4.15496; null
+23; Driver; Noise; None; 24.10.2023 15:27:21; 795.2984; -0.0136362; 151.7156; After ; 4.190166; null

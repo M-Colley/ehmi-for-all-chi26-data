@@ -1,0 +1,1355 @@
+user_id; scenario; distraction; ehmi; timestamp; userPositionX; userPositionY; userPositionZ; playerPositon; time; focused object
+23; Bicycle; Interference; None; 24.10.2023 15:42:08; 869.3503; 0.83; 107.1881; HI; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:09; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.8269753; 107.1881; Before; 0.02; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7692157; 107.1881; Before; 0.04; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7692157; 107.1881; Before; 0.04; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7692157; 107.1881; Before; 0.04; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7692157; 107.1881; Before; 0.04; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7692157; 107.1881; Before; 0.04; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7692157; 107.1881; Before; 0.04; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7574699; 107.1881; Before; 0.3733333; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7574699; 107.1881; Before; 0.3733333; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7574699; 107.1881; Before; 0.3733333; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7546214; 107.1881; Before; 0.5080682; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7546214; 107.1881; Before; 0.5080682; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7523777; 107.1881; Before; 0.5870761; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7523777; 107.1881; Before; 0.5870761; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.751091; 107.1881; Before; 0.6208243; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7505553; 107.1881; Before; 0.6392365; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7500641; 107.1881; Before; 0.6548306; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.749366; 107.1881; Before; 0.6702294; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.748888; 107.1881; Before; 0.6941388; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7484944; 107.1881; Before; 0.7122071; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7477539; 107.1881; Before; 0.7436456; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7474685; 107.1881; Before; 0.7623015; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7469592; 107.1881; Before; 0.7920512; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7469592; 107.1881; Before; 0.7920512; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7467105; 107.1881; Before; 0.8060774; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7463064; 107.1881; Before; 0.8218558; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7460299; 107.1881; Before; 0.850288; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7456756; 107.1881; Before; 0.888046; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7456756; 107.1881; Before; 0.888046; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7453418; 107.1881; Before; 0.92075; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7452217; 107.1881; Before; 0.9391753; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7449801; 107.1881; Before; 0.9692558; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7448251; 107.1881; Before; 0.9852269; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7448251; 107.1881; Before; 0.9852269; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7446439; 107.1881; Before; 1.023422; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7445685; 107.1881; Before; 1.039539; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7444183; 107.1881; Before; 1.070664; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7443588; 107.1881; Before; 1.085775; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7442886; 107.1881; Before; 1.100011; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.74423; 107.1881; Before; 1.117888; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7441643; 107.1881; Before; 1.134208; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7440944; 107.1881; Before; 1.154044; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.744046; 107.1881; Before; 1.177523; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:10; 869.3503; 0.7440078; 107.1881; Before; 1.195263; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7439423; 107.1881; Before; 1.225721; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7439128; 107.1881; Before; 1.239613; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7438756; 107.1881; Before; 1.254246; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7438227; 107.1881; Before; 1.289316; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7438227; 107.1881; Before; 1.289316; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7437865; 107.1881; Before; 1.305995; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7437479; 107.1881; Before; 1.347566; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7437322; 107.1881; Before; 1.361561; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7437013; 107.1881; Before; 1.389038; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7436879; 107.1881; Before; 1.405377; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7436767; 107.1881; Before; 1.419833; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7436547; 107.1881; Before; 1.449071; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7436408; 107.1881; Before; 1.460837; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7436248; 107.1881; Before; 1.494971; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7436185; 107.1881; Before; 1.506081; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7436064; 107.1881; Before; 1.528392; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435966; 107.1881; Before; 1.549895; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435861; 107.1881; Before; 1.57383; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435815; 107.1881; Before; 1.58461; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435765; 107.1881; Before; 1.595954; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435719; 107.1881; Before; 1.609767; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435598; 107.1881; Before; 1.644724; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435539; 107.1881; Before; 1.671773; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435476; 107.1881; Before; 1.695721; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435452; 107.1881; Before; 1.708861; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435408; 107.1881; Before; 1.73023; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435387; 107.1881; Before; 1.741739; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435348; 107.1881; Before; 1.766097; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435304; 107.1881; Before; 1.793902; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435288; 107.1881; Before; 1.804652; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435259; 107.1881; Before; 1.826809; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435234; 107.1881; Before; 1.847901; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435211; 107.1881; Before; 1.872513; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435191; 107.1881; Before; 1.893804; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435178; 107.1881; Before; 1.90449; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.743517; 107.1881; Before; 1.918583; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435144; 107.1881; Before; 1.948561; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435129; 107.1881; Before; 1.97486; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435123; 107.1881; Before; 1.986297; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435119; 107.1881; Before; 1.996817; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435106; 107.1881; Before; 2.021838; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435089; 107.1881; Before; 2.047839; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435088; 107.1881; Before; 2.062832; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435079; 107.1881; Before; 2.077263; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435071; 107.1881; Before; 2.093668; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3504; 0.7435069; 107.1881; Before; 2.116053; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.743506; 107.1881; Before; 2.132088; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435055; 107.1881; Before; 2.165047; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435045; 107.1881; Before; 2.19533; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:11; 869.3503; 0.7435045; 107.1881; Before; 2.19533; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.743504; 107.1881; Before; 2.223571; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.743504; 107.1881; Before; 2.23892; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435038; 107.1881; Before; 2.253925; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435032; 107.1881; Before; 2.276891; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435033; 107.1881; Before; 2.294197; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435027; 107.1881; Before; 2.323605; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435026; 107.1881; Before; 2.338108; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435021; 107.1881; Before; 2.36559; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435024; 107.1881; Before; 2.386279; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.743502; 107.1881; Before; 2.399544; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435019; 107.1881; Before; 2.41447; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435015; 107.1881; Before; 2.435937; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435017; 107.1881; Before; 2.465742; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435013; 107.1881; Before; 2.480411; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435014; 107.1881; Before; 2.496921; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435012; 107.1881; Before; 2.512782; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435012; 107.1881; Before; 2.543196; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435009; 107.1881; Before; 2.559094; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435011; 107.1881; Before; 2.57272; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435011; 107.1881; Before; 2.57272; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435007; 107.1881; Before; 2.621761; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435011; 107.1881; Before; 2.640241; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435007; 107.1881; Before; 2.670619; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435009; 107.1881; Before; 2.684998; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435008; 107.1881; Before; 2.69913; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435006; 107.1881; Before; 2.713967; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435005; 107.1881; Before; 2.730607; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435006; 107.1881; Before; 2.752669; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435006; 107.1881; Before; 2.788192; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435006; 107.1881; Before; 2.788192; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435005; 107.1881; Before; 2.820575; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435004; 107.1881; Before; 2.83964; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435004; 107.1881; Before; 2.866415; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435004; 107.1881; Before; 2.866415; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435007; 107.1881; Before; 2.886197; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435005; 107.1881; Before; 2.910783; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435007; 107.1881; Before; 2.942744; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435005; 107.1881; Before; 2.970621; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435007; 107.1881; Before; 2.984423; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435004; 107.1881; Before; 2.998466; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435002; 107.1881; Before; 3.01562; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435005; 107.1881; Before; 3.029538; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435004; 107.1881; Before; 3.067566; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435002; 107.1881; Before; 3.096281; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435002; 107.1881; Before; 3.096281; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435002; 107.1881; Before; 3.123085; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435006; 107.1881; Before; 3.140402; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435002; 107.1881; Before; 3.168797; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435006; 107.1881; Before; 3.184915; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435004; 107.1881; Before; 3.199768; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:12; 869.3503; 0.7435002; 107.1881; Before; 3.227526; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435006; 107.1881; Before; 3.24218; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435004; 107.1881; Before; 3.268494; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435002; 107.1881; Before; 3.29484; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435001; 107.1881; Before; 3.307819; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435005; 107.1881; Before; 3.319945; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435002; 107.1881; Before; 3.345117; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435004; 107.1881; Before; 3.360203; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435002; 107.1881; Before; 3.380574; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435005; 107.1881; Before; 3.394799; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435002; 107.1881; Before; 3.424514; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3504; 0.7435005; 107.1881; Before; 3.439152; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435004; 107.1881; Before; 3.468775; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435005; 107.1881; Before; 3.48002; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435004; 107.1881; Before; 3.498157; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435002; 107.1881; Before; 3.515172; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3503; 0.7435005; 107.1881; Before; 3.539791; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3505; 0.7435008; 107.1881; Before; 3.572732; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3502; 0.7435616; 107.1881; Before; 3.59418; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3502; 0.7435616; 107.1881; Before; 3.59418; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3499; 0.7439282; 107.1881; Before; 3.620638; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3494; 0.7445817; 107.1881; Before; 3.644538; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3487; 0.7459137; 107.1881; Before; 3.668512; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3485; 0.7466595; 107.1881; Before; 3.686625; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.348; 0.7475982; 107.1881; Before; 3.698886; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3472; 0.7497483; 107.1881; Before; 3.724944; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3467; 0.750981; 107.1881; Before; 3.738436; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3455; 0.7540758; 107.1881; Before; 3.767433; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3448; 0.7554864; 107.1881; Before; 3.783343; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3442; 0.7568259; 107.1881; Before; 3.79774; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3435; 0.7581224; 107.1881; Before; 3.811775; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3416; 0.7611313; 107.1881; Before; 3.846711; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3408; 0.7621508; 107.1881; Before; 3.861648; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3389; 0.7639983; 107.1881; Before; 3.887231; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.338; 0.7648164; 107.1881; Before; 3.903151; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.337; 0.7656181; 107.1881; Before; 3.91726; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3346; 0.7669809; 107.1881; Before; 3.949679; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3334; 0.7675247; 107.1881; Before; 3.963856; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3315; 0.7681842; 107.1881; Before; 3.979169; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3315; 0.7681842; 107.1881; Before; 3.979169; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3284; 0.7690046; 107.1881; Before; 4.022024; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3271; 0.7692469; 107.1881; Before; 4.037847; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.324; 0.7696478; 107.1881; Before; 4.066537; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3215; 0.7698483; 107.1881; Before; 4.084498; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3215; 0.7698483; 107.1881; Before; 4.084498; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3195; 0.7699642; 107.188; Before; 4.108481; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3167; 0.7700553; 107.188; Before; 4.128783; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3135; 0.7701075; 107.188; Before; 4.153139; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3112; 0.7701199; 107.188; Before; 4.181842; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3093; 0.7701192; 107.188; Before; 4.201307; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:13; 869.3065; 0.7701054; 107.188; Before; 4.217298; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.3037; 0.770083; 107.188; Before; 4.240211; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.3007; 0.7700536; 107.188; Before; 4.261848; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2976; 0.7700204; 107.1879; Before; 4.284947; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2976; 0.7700204; 107.1879; Before; 4.284947; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2936; 0.7699773; 107.1879; Before; 4.308102; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.291; 0.7699524; 107.1879; Before; 4.337366; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2881; 0.7699246; 107.1879; Before; 4.354788; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2851; 0.7698987; 107.1879; Before; 4.37439; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2816; 0.7698729; 107.1879; Before; 4.395082; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2781; 0.7698504; 107.1879; Before; 4.418023; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2746; 0.7698314; 107.1879; Before; 4.440344; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2746; 0.7698314; 107.1879; Before; 4.440344; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2671; 0.7698015; 107.1878; Before; 4.49199; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2671; 0.7698015; 107.1878; Before; 4.49199; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2637; 0.7697906; 107.1878; Before; 4.508345; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2598; 0.7697818; 107.1878; Before; 4.528916; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.256; 0.7697742; 107.1878; Before; 4.550935; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2499; 0.7697656; 107.1877; Before; 4.589255; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2499; 0.7697656; 107.1877; Before; 4.589255; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2469; 0.769763; 107.1877; Before; 4.606329; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2394; 0.7697581; 107.1877; Before; 4.645879; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2361; 0.7697575; 107.1876; Before; 4.662406; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2327; 0.7697561; 107.1876; Before; 4.680107; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2301; 0.7697558; 107.1876; Before; 4.697763; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2242; 0.7697558; 107.1876; Before; 4.726264; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2211; 0.769756; 107.1875; Before; 4.740395; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2152; 0.769756; 107.1875; Before; 4.770333; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2107; 0.7697566; 107.1875; Before; 4.784355; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2107; 0.7697566; 107.1875; Before; 4.784355; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2035; 0.769758; 107.1874; Before; 4.82224; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.2004; 0.7697586; 107.1874; Before; 4.839696; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.194; 0.7697585; 107.1874; Before; 4.869608; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1909; 0.7697585; 107.1874; Before; 4.883585; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1874; 0.7697591; 107.1873; Before; 4.897423; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1835; 0.7697591; 107.1873; Before; 4.91307; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1799; 0.7697592; 107.1873; Before; 4.930203; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1738; 0.7697589; 107.1873; Before; 4.946027; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1664; 0.7697597; 107.1872; Before; 4.98816; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1627; 0.7697604; 107.1872; Before; 5.004016; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1595; 0.7697613; 107.1872; Before; 5.01967; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.152; 0.7697605; 107.1872; Before; 5.048717; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1483; 0.769761; 107.1871; Before; 5.063991; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1438; 0.7697608; 107.1871; Before; 5.079278; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1384; 0.7697613; 107.1871; Before; 5.097258; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.134; 0.7697617; 107.1871; Before; 5.118706; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1297; 0.7697619; 107.187; Before; 5.136266; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1215; 0.7697612; 107.187; Before; 5.170046; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1174; 0.7697618; 107.187; Before; 5.185463; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:14; 869.1131; 0.7697618; 107.187; Before; 5.201087; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.1088; 0.7697619; 107.1869; Before; 5.217161; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.1037; 0.7697617; 107.1869; Before; 5.233281; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0967; 0.7697625; 107.1869; Before; 5.252673; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0915; 0.7697631; 107.1868; Before; 5.278491; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0863; 0.7697624; 107.1868; Before; 5.297981; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0823; 0.7697625; 107.1868; Before; 5.316857; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0734; 0.7697618; 107.1867; Before; 5.348042; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0695; 0.7697616; 107.1867; Before; 5.363261; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0641; 0.7697616; 107.1867; Before; 5.377328; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0601; 0.769762; 107.1866; Before; 5.396351; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0531; 0.7697625; 107.1866; Before; 5.410633; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0483; 0.7697617; 107.1866; Before; 5.435194; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0381; 0.7697617; 107.1865; Before; 5.465853; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0333; 0.7697619; 107.1865; Before; 5.486348; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0333; 0.7697619; 107.1865; Before; 5.486348; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0225; 0.7697613; 107.1864; Before; 5.522275; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0184; 0.7697611; 107.1864; Before; 5.539714; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.014; 0.769762; 107.1863; Before; 5.553171; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0015; 0.7697611; 107.1862; Before; 5.590999; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 869.0015; 0.7697611; 107.1862; Before; 5.590999; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9913; 0.7697614; 107.1862; Before; 5.626142; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9867; 0.7697624; 107.1862; Before; 5.641814; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9812; 0.7697618; 107.1861; Before; 5.656696; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9758; 0.7697612; 107.1861; Before; 5.674467; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9699; 0.7697616; 107.186; Before; 5.691576; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9648; 0.769761; 107.186; Before; 5.710248; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9577; 0.7697618; 107.186; Before; 5.726447; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9476; 0.7697608; 107.1859; Before; 5.764641; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9385; 0.769762; 107.1858; Before; 5.794829; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9385; 0.769762; 107.1858; Before; 5.794829; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9332; 0.7697625; 107.1858; Before; 5.808358; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9213; 0.7697626; 107.1857; Before; 5.843294; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9161; 0.7697631; 107.1857; Before; 5.860522; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9079; 0.7697622; 107.1856; Before; 5.876457; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.9023; 0.7697617; 107.1856; Before; 5.900994; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.898; 0.7697617; 107.1856; Before; 5.917313; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8875; 0.7697617; 107.1855; Before; 5.945109; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8824; 0.7697618; 107.1855; Before; 5.961425; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8719; 0.7697617; 107.1854; Before; 5.992258; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8719; 0.7697617; 107.1854; Before; 5.992258; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8606; 0.7697616; 107.1854; Before; 6.023657; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8531; 0.769762; 107.1853; Before; 6.039519; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8464; 0.769762; 107.1853; Before; 6.06078; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8408; 0.7697617; 107.1852; Before; 6.080032; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8361; 0.7697625; 107.1852; Before; 6.096343; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8298; 0.7697619; 107.1852; Before; 6.10952; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8173; 0.7697616; 107.1851; Before; 6.143338; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8123; 0.7697624; 107.1851; Before; 6.162485; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.8069; 0.7697618; 107.1851; Before; 6.176611; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:15; 868.7983; 0.7697606; 107.185; Before; 6.191519; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.792; 0.7697605; 107.185; Before; 6.214862; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7811; 0.7697603; 107.1849; Before; 6.248284; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7731; 0.7697608; 107.1849; Before; 6.262265; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7657; 0.7697608; 107.1849; Before; 6.284178; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7599; 0.7697605; 107.1848; Before; 6.304095; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7548; 0.7697616; 107.1848; Before; 6.319904; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7482; 0.7697611; 107.1847; Before; 6.333641; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7388; 0.7697618; 107.1847; Before; 6.351492; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7307; 0.7697623; 107.1846; Before; 6.37647; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7234; 0.7697613; 107.1846; Before; 6.397958; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.7175; 0.769762; 107.1845; Before; 6.417083; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.71; 0.7697618; 107.1845; Before; 6.432862; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6976; 0.7697623; 107.1844; Before; 6.467175; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.692; 0.7697625; 107.1844; Before; 6.484729; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6854; 0.7697619; 107.1843; Before; 6.499555; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6765; 0.7697622; 107.1843; Before; 6.516609; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6702; 0.7697624; 107.1842; Before; 6.539715; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6631; 0.7697623; 107.1842; Before; 6.555639; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6512; 0.7697616; 107.1841; Before; 6.587374; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6512; 0.7697616; 107.1841; Before; 6.587374; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6328; 0.769761; 107.184; Before; 6.621438; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6232; 0.7697618; 107.1839; Before; 6.639688; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.6102; 0.7697613; 107.1838; Before; 6.654877; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.5927; 0.7697616; 107.1837; Before; 6.67339; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.5793; 0.7697614; 107.1836; Before; 6.695443; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.5638; 0.7697611; 107.1835; Before; 6.710915; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.5258; 0.7697612; 107.1833; Before; 6.743105; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.5078; 0.7697613; 107.1831; Before; 6.763795; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.4856; 0.7697611; 107.183; Before; 6.779409; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.4641; 0.7697616; 107.1828; Before; 6.797522; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.442; 0.769761; 107.1826; Before; 6.814117; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.4077; 0.7697616; 107.1824; Before; 6.83039; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.3795; 0.769761; 107.1822; Before; 6.854217; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.3291; 0.7697613; 107.1818; Before; 6.886976; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.3291; 0.7697613; 107.1818; Before; 6.886976; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.2729; 0.7697612; 107.1813; Before; 6.920349; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.2209; 0.769761; 107.1809; Before; 6.950695; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.1915; 0.7697614; 107.1807; Before; 6.963948; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.1547; 0.7697606; 107.1804; Before; 6.979034; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.1547; 0.7697606; 107.1804; Before; 6.979034; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.0662; 0.7697605; 107.1796; Before; 7.02079; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 868.0375; 0.7697607; 107.1794; Before; 7.039147; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 867.962; 0.7697604; 107.1787; Before; 7.068139; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 867.9293; 0.7697608; 107.1785; Before; 7.084817; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 867.8916; 0.7697611; 107.1781; Before; 7.098526; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 867.855; 0.7697614; 107.1778; Before; 7.113997; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 867.7638; 0.7697613; 107.177; Before; 7.145546; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 867.7042; 0.7697606; 107.1765; Before; 7.164004; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 867.653; 0.7697608; 107.1761; Before; 7.186232; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:16; 867.653; 0.7697608; 107.1761; Before; 7.186232; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.5588; 0.7697608; 107.1753; Before; 7.220128; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.518; 0.7697611; 107.175; Before; 7.237957; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.4252; 0.7697614; 107.1742; Before; 7.265384; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.3762; 0.7697619; 107.1738; Before; 7.282936; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.328; 0.7697616; 107.1734; Before; 7.298904; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.2618; 0.7697611; 107.1729; Before; 7.31432; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.1948; 0.7697606; 107.1724; Before; 7.335114; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.1345; 0.7697613; 107.1719; Before; 7.355748; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.0325; 0.7697618; 107.1711; Before; 7.389093; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 867.0325; 0.7697618; 107.1711; Before; 7.389093; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.9106; 0.7697626; 107.1702; Before; 7.422139; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.8605; 0.7697623; 107.1699; Before; 7.439017; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.7886; 0.7697624; 107.1694; Before; 7.453072; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.7056; 0.769762; 107.1689; Before; 7.472956; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.6452; 0.7697632; 107.1685; Before; 7.495544; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.5763; 0.7697631; 107.1681; Before; 7.511701; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.5231; 0.769763; 107.1677; Before; 7.529897; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.3723; 0.7697623; 107.1668; Before; 7.565235; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.3138; 0.7697623; 107.1665; Before; 7.582321; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.2535; 0.769763; 107.1662; Before; 7.597009; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.189; 0.7697625; 107.1659; Before; 7.61196; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 866.1006; 0.7697628; 107.1654; Before; 7.627817; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.9648; 0.7697628; 107.1647; Before; 7.666171; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.9026; 0.7697625; 107.1644; Before; 7.681599; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.842; 0.7697635; 107.1642; Before; 7.696176; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.7684; 0.7697634; 107.1638; Before; 7.710294; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.6316; 0.7697632; 107.1632; Before; 7.742295; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.506; 0.7697623; 107.1627; Before; 7.771141; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.408; 0.7697624; 107.1623; Before; 7.786294; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.408; 0.7697624; 107.1623; Before; 7.786294; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.323; 0.7697623; 107.1619; Before; 7.807836; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.1646; 0.7697624; 107.1613; Before; 7.844125; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.1007; 0.7697623; 107.161; Before; 7.86029; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 865.0248; 0.7697629; 107.1606; Before; 7.873801; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 864.9288; 0.7697623; 107.1602; Before; 7.889758; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 864.7714; 0.7697608; 107.1595; Before; 7.927582; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 864.7714; 0.7697608; 107.1595; Before; 7.927582; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 864.5624; 0.7697605; 107.1584; Before; 7.965503; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 864.4895; 0.76977; 107.158; Before; 7.984247; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 864.4026; 0.7699122; 107.1575; Before; 7.998751; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 864.3334; 0.7700008; 107.157; Before; 8.015905; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 864.1739; 0.7701335; 107.156; Before; 8.043749; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 864.0953; 0.7701733; 107.1555; Before; 8.060466; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 863.9423; 0.7702127; 107.1544; Before; 8.090154; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 863.9423; 0.7702127; 107.1544; Before; 8.090154; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 863.8052; 0.7702203; 107.1533; Before; 8.104739; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 863.6296; 0.7702073; 107.1519; Before; 8.146467; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 863.5503; 0.7701957; 107.1513; Before; 8.163263; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 863.4586; 0.7701802; 107.1505; Before; 8.177884; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 863.3756; 0.7701657; 107.1498; Before; 8.194692; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:17; 863.2814; 0.7701492; 107.149; Before; 8.209826; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 863.0949; 0.7701161; 107.1474; Before; 8.24479; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 862.9747; 0.7700964; 107.1464; Before; 8.26035; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 862.8661; 0.7700806; 107.1455; Before; 8.281713; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 862.7701; 0.7700671; 107.1446; Before; 8.300863; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 862.6937; 0.7700579; 107.144; Before; 8.317719; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 862.5944; 0.7700469; 107.1432; Before; 8.331029; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 862.4028; 0.7700286; 107.1416; Before; 8.365035; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 862.3105; 0.7700212; 107.1409; Before; 8.381258; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 862.234; 0.7700163; 107.1403; Before; 8.397019; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 862.1373; 0.7700111; 107.1396; Before; 8.410028; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 861.9942; 0.7700039; 107.1386; Before; 8.42639; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 861.7958; 0.7699971; 107.1372; Before; 8.467999; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 861.7043; 0.769995; 107.1366; Before; 8.483545; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 861.6099; 0.7699928; 107.136; Before; 8.498682; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 861.516; 0.7699907; 107.1354; Before; 8.514258; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 861.3199; 0.7699887; 107.1343; Before; 8.544122; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 861.2303; 0.7699893; 107.1338; Before; 8.561628; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 861.135; 0.7699884; 107.1333; Before; 8.576158; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 860.9802; 0.7699869; 107.1324; Before; 8.591527; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 860.8672; 0.7699858; 107.1319; Before; 8.616367; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 860.7574; 0.7699854; 107.1313; Before; 8.634408; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 860.5375; 0.7699852; 107.1303; Before; 8.670979; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 860.446; 0.7699847; 107.1298; Before; 8.686557; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 860.3415; 0.7699854; 107.1293; Before; 8.700897; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 860.225; 0.7699857; 107.1288; Before; 8.717225; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 860.1047; 0.7699858; 107.1282; Before; 8.73534; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 859.9526; 0.7699865; 107.1274; Before; 8.753974; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 859.843; 0.7699859; 107.1268; Before; 8.777438; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 859.7446; 0.7699866; 107.1263; Before; 8.79425; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 859.5381; 0.7699862; 107.1251; Before; 8.82541; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 859.439; 0.7699867; 107.1245; Before; 8.840694; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 859.334; 0.7699867; 107.1238; Before; 8.855704; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 859.1201; 0.7699876; 107.1224; Before; 8.888058; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 859.0192; 0.7699878; 107.1217; Before; 8.903648; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 859.0192; 0.7699878; 107.1217; Before; 8.903648; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 858.7283; 0.7699881; 107.1196; Before; 8.942293; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 858.6224; 0.7699888; 107.1189; Before; 8.961941; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 858.5063; 0.7699881; 107.118; Before; 8.977568; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 858.4073; 0.7699888; 107.1173; Before; 8.994648; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 858.1873; 0.7699877; 107.1157; Before; 9.026373; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 858.0553; 0.7699881; 107.1147; Before; 9.04132; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 857.9311; 0.7699883; 107.1138; Before; 9.060508; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 857.7715; 0.7699881; 107.1127; Before; 9.078509; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 857.6437; 0.7699881; 107.1118; Before; 9.101538; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 857.5488; 0.7699888; 107.1112; Before; 9.119907; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 857.4218; 0.7699884; 107.1103; Before; 9.13352; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 857.199; 0.7699888; 107.1089; Before; 9.166446; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 857.0903; 0.769989; 107.1083; Before; 9.183425; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:18; 856.9858; 0.7699895; 107.1077; Before; 9.198851; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 856.8712; 0.7699885; 107.1071; Before; 9.213626; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 856.7224; 0.7699876; 107.1063; Before; 9.229814; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 856.4827; 0.7699878; 107.1051; Before; 9.267207; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 856.3781; 0.7699877; 107.1046; Before; 9.284351; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 856.2673; 0.7699882; 107.104; Before; 9.298962; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 856.1409; 0.7699888; 107.1035; Before; 9.314386; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 855.918; 0.7699872; 107.1025; Before; 9.348396; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 855.8051; 0.7699873; 107.102; Before; 9.362823; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 855.6897; 0.7699869; 107.1015; Before; 9.378407; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 855.5159; 0.7699869; 107.1007; Before; 9.394283; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 855.3857; 0.7699871; 107.1001; Before; 9.418168; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 855.2643; 0.7699871; 107.0995; Before; 9.436; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 855.0153; 0.7699871; 107.0983; Before; 9.470086; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 854.9135; 0.7699879; 107.0978; Before; 9.486489; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 854.7795; 0.7699871; 107.097; Before; 9.500318; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 854.6774; 0.7699878; 107.0965; Before; 9.518457; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 854.5656; 0.7699871; 107.0958; Before; 9.532277; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 854.3801; 0.769986; 107.0947; Before; 9.547346; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 854.132; 0.7699859; 107.0932; Before; 9.589477; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 854.132; 0.7699859; 107.0932; Before; 9.589477; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 853.9019; 0.7699865; 107.0918; Before; 9.620299; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 853.6915; 0.7699863; 107.0905; Before; 9.649397; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 853.5831; 0.7699866; 107.0898; Before; 9.664295; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 853.4608; 0.7699864; 107.089; Before; 9.678694; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 853.3538; 0.7699866; 107.0884; Before; 9.694892; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 853.1435; 0.7699858; 107.0871; Before; 9.70907; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 853.0085; 0.7699854; 107.0863; Before; 9.736825; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 852.8726; 0.7699847; 107.0856; Before; 9.754602; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 852.6088; 0.7699858; 107.0841; Before; 9.790633; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 852.6088; 0.7699858; 107.0841; Before; 9.790633; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 852.3737; 0.7699869; 107.083; Before; 9.820729; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 852.2637; 0.7699869; 107.0824; Before; 9.837738; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 852.1465; 0.7699881; 107.0819; Before; 9.852073; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 851.8481; 0.7699878; 107.0806; Before; 9.890376; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 851.8481; 0.7699878; 107.0806; Before; 9.890376; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 851.6066; 0.7699877; 107.0796; Before; 9.920638; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 851.4875; 0.7699871; 107.0792; Before; 9.937291; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 851.2565; 0.7699876; 107.0783; Before; 9.96646; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 851.1458; 0.7699871; 107.0779; Before; 9.982424; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 851.0353; 0.7699881; 107.0774; Before; 9.99666; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 850.9098; 0.7699879; 107.0769; Before; 10.01084; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 850.687; 0.7699878; 107.076; Before; 10.02692; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 850.5377; 0.7699873; 107.0753; Before; 10.05543; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 850.2855; 0.7699885; 107.0742; Before; 10.09171; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 850.2855; 0.7699885; 107.0742; Before; 10.09171; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 850.0218; 0.7699875; 107.0729; Before; 10.1213; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 849.9054; 0.7699879; 107.0723; Before; 10.14014; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 849.6625; 0.7699873; 107.071; Before; 10.17153; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 849.4871; 0.7699869; 107.0701; Before; 10.18563; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 849.4871; 0.7699869; 107.0701; Before; 10.18563; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:19; 849.218; 0.7699865; 107.0687; Before; 10.22442; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 849.1025; 0.7699865; 107.0681; Before; 10.24171; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 848.8753; 0.7699862; 107.0668; Before; 10.27092; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 848.7448; 0.7699873; 107.0662; Before; 10.28479; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 848.7448; 0.7699873; 107.0662; Before; 10.28479; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 848.4647; 0.7699875; 107.0648; Before; 10.32021; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 848.288; 0.7699872; 107.064; Before; 10.33621; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 848.1464; 0.7699881; 107.0633; Before; 10.35829; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 847.8828; 0.7699878; 107.0622; Before; 10.3935; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 847.8828; 0.7699878; 107.0622; Before; 10.3935; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 847.7565; 0.7699882; 107.0617; Before; 10.40876; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 847.4587; 0.7699878; 107.0606; Before; 10.443; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 847.3256; 0.7699888; 107.0602; Before; 10.46143; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 847.2008; 0.7699888; 107.0598; Before; 10.47792; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 847.0215; 0.7699887; 107.0592; Before; 10.49336; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 846.8948; 0.7699889; 107.0588; Before; 10.51553; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 846.6298; 0.7699878; 107.058; Before; 10.54731; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 846.4965; 0.7699883; 107.0576; Before; 10.56383; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 846.3573; 0.7699873; 107.0572; Before; 10.58023; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 846.2487; 0.7699873; 107.0569; Before; 10.59735; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 846.1093; 0.7699869; 107.0564; Before; 10.6107; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 845.9813; 0.7699873; 107.056; Before; 10.62783; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 845.658; 0.7699871; 107.0548; Before; 10.66791; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 845.5417; 0.7699869; 107.0544; Before; 10.68321; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 845.4295; 0.7699878; 107.0539; Before; 10.69748; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 845.2918; 0.769987; 107.0534; Before; 10.71124; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 845.024; 0.7699869; 107.0523; Before; 10.74332; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 844.8876; 0.7699875; 107.0518; Before; 10.76097; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 844.6475; 0.769986; 107.0508; Before; 10.79296; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 844.6475; 0.769986; 107.0508; Before; 10.79296; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 844.4622; 0.7699863; 107.05; Before; 10.80713; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 844.3245; 0.7699864; 107.0495; Before; 10.82983; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 844.0314; 0.7699871; 107.0484; Before; 10.86718; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 843.9088; 0.7699873; 107.048; Before; 10.88264; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 843.78; 0.7699876; 107.0475; Before; 10.89768; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 843.6489; 0.7699878; 107.0471; Before; 10.91345; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 843.3876; 0.7699875; 107.0463; Before; 10.94523; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 843.2114; 0.7699881; 107.0458; Before; 10.96153; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 843.0806; 0.7699881; 107.0454; Before; 10.9831; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 842.9433; 0.7699878; 107.0451; Before; 10.99914; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 842.8249; 0.7699877; 107.0448; Before; 11.01596; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 842.5677; 0.7699878; 107.0442; Before; 11.0455; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 842.4211; 0.7699878; 107.0439; Before; 11.06197; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 842.19; 0.7699871; 107.0434; Before; 11.09411; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 842.19; 0.7699871; 107.0434; Before; 11.09411; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 842.0681; 0.7699871; 107.0431; Before; 11.10822; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 841.7385; 0.7699866; 107.0424; Before; 11.14762; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 841.629; 0.7699864; 107.0421; Before; 11.16355; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 841.3854; 0.7699869; 107.0415; Before; 11.1917; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 841.3854; 0.7699869; 107.0415; Before; 11.1917; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:20; 841.1108; 0.7699867; 107.0408; Before; 11.22059; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 840.9606; 0.7699876; 107.0403; Before; 11.24059; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 840.8395; 0.7699873; 107.04; Before; 11.25906; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 840.6476; 0.7699876; 107.0394; Before; 11.27393; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 840.5104; 0.7699878; 107.039; Before; 11.29754; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 840.3876; 0.7699873; 107.0387; Before; 11.31445; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 840.2585; 0.7699878; 107.0383; Before; 11.32957; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 839.9778; 0.7699873; 107.0375; Before; 11.36456; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 839.7504; 0.7699871; 107.0368; Before; 11.39398; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 839.7504; 0.7699871; 107.0368; Before; 11.39398; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 839.4952; 0.7699869; 107.0361; Before; 11.42315; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 839.3346; 0.7699876; 107.0357; Before; 11.43965; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 839.2162; 0.7699878; 107.0354; Before; 11.45951; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 839.0662; 0.7699885; 107.0351; Before; 11.47414; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 838.9208; 0.7699888; 107.0348; Before; 11.4927; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 838.8008; 0.7699879; 107.0345; Before; 11.5107; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 838.5347; 0.7699866; 107.034; Before; 11.54254; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 838.4209; 0.7699866; 107.0338; Before; 11.55852; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 838.1527; 0.7699873; 107.0334; Before; 11.58692; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 838.1527; 0.7699873; 107.0334; Before; 11.58692; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 837.9462; 0.7699877; 107.0331; Before; 11.60588; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 837.6916; 0.7699864; 107.0327; Before; 11.64931; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 837.5261; 0.769987; 107.0325; Before; 11.66317; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 837.3865; 0.7699873; 107.0322; Before; 11.68378; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 837.3865; 0.7699873; 107.0322; Before; 11.68378; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 837.0994; 0.7699877; 107.0317; Before; 11.72003; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 836.9801; 0.7699871; 107.0315; Before; 11.73706; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 836.8698; 0.7699881; 107.0313; Before; 11.75199; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 836.5457; 0.7699878; 107.0306; Before; 11.78887; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 836.5457; 0.7699878; 107.0306; Before; 11.78887; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 836.2944; 0.7699878; 107.03; Before; 11.82168; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 836.1733; 0.7699883; 107.0298; Before; 11.83811; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 835.9321; 0.7699883; 107.0292; Before; 11.86976; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 835.7941; 0.7699887; 107.0288; Before; 11.88383; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 835.6578; 0.7699876; 107.0285; Before; 11.90128; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 835.4972; 0.7699872; 107.0281; Before; 11.91853; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 835.3555; 0.769987; 107.0278; Before; 11.93889; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 835.225; 0.7699869; 107.0275; Before; 11.95688; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 834.9827; 0.7699866; 107.0269; Before; 11.9872; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 834.9827; 0.7699866; 107.0269; Before; 11.9872; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 834.7383; 0.7699871; 107.0264; Before; 12.02017; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 834.5145; 0.769987; 107.0259; Before; 12.05055; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 834.4045; 0.7699876; 107.0257; Before; 12.06405; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 834.2303; 0.7699875; 107.0254; Before; 12.07814; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 834.0981; 0.769987; 107.0251; Before; 12.10044; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 833.9974; 0.7699872; 107.0249; Before; 12.11739; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 833.8519; 0.7699871; 107.0247; Before; 12.13032; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 833.5775; 0.7699878; 107.0242; Before; 12.16784; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 833.4532; 0.7699882; 107.024; Before; 12.18441; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:21; 833.3091; 0.7699876; 107.0237; Before; 12.20049; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 833.2068; 0.7699878; 107.0235; Before; 12.21915; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 833.0188; 0.7699869; 107.0232; Before; 12.23241; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 832.8724; 0.7699863; 107.0229; Before; 12.25686; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 832.6394; 0.7699869; 107.0224; Before; 12.29296; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 832.5363; 0.7699869; 107.0222; Before; 12.3064; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 832.4242; 0.7699869; 107.0219; Before; 12.31989; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 832.2997; 0.7699866; 107.0216; Before; 12.33461; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 832.1714; 0.7699877; 107.0213; Before; 12.35095; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 832.0275; 0.7699883; 107.0209; Before; 12.36783; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 831.8562; 0.7699881; 107.0205; Before; 12.3868; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 831.6194; 0.7699881; 107.0198; Before; 12.42565; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 831.4884; 0.7699877; 107.0194; Before; 12.44079; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 831.341; 0.7699879; 107.019; Before; 12.45819; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 831.209; 0.7699877; 107.0186; Before; 12.47781; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 831.0886; 0.7699881; 107.0183; Before; 12.4954; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 830.938; 0.7699882; 107.0178; Before; 12.51146; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 830.8204; 0.7699878; 107.0175; Before; 12.5316; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 830.647; 0.7699882; 107.017; Before; 12.54735; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 830.3875; 0.7699875; 107.0162; Before; 12.58924; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 830.3875; 0.7699875; 107.0162; Before; 12.58924; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 830.163; 0.7699875; 107.0156; Before; 12.62014; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 830.0569; 0.7699871; 107.0153; Before; 12.6358; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 829.8237; 0.7699872; 107.0146; Before; 12.66557; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 829.6348; 0.7699869; 107.014; Before; 12.69492; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 829.6348; 0.7699869; 107.014; Before; 12.69492; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 829.4609; 0.7699876; 107.0135; Before; 12.7075; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 829.316; 0.7699866; 107.0131; Before; 12.73126; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 829.0836; 0.7699875; 107.0124; Before; 12.76497; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 828.9862; 0.7699871; 107.0121; Before; 12.78304; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 828.8645; 0.7699871; 107.0117; Before; 12.79646; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 828.754; 0.7699867; 107.0114; Before; 12.81325; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 828.516; 0.7699864; 107.0106; Before; 12.84309; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 828.354; 0.7699853; 107.01; Before; 12.86156; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 828.2321; 0.7699858; 107.0096; Before; 12.88411; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 828.108; 0.7699857; 107.0091; Before; 12.90112; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 828.0118; 0.7699859; 107.0087; Before; 12.91849; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 827.7837; 0.7699865; 107.0078; Before; 12.94825; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 827.6863; 0.7699873; 107.0074; Before; 12.96398; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 827.4789; 0.7699871; 107.0065; Before; 12.9937; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 827.4789; 0.7699871; 107.0065; Before; 12.9937; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 827.3769; 0.7699883; 107.0061; Before; 13.00697; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 827.0898; 0.7699884; 107.0048; Before; 13.04494; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 826.9912; 0.7699882; 107.0044; Before; 13.06217; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 826.7912; 0.7699882; 107.0034; Before; 13.09012; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 826.7912; 0.7699882; 107.0034; Before; 13.09012; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 826.5569; 0.7699879; 107.0023; Before; 13.12075; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 826.4644; 0.7699875; 107.0019; Before; 13.1383; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 826.2411; 0.7699877; 107.0008; Before; 13.16716; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 826.0922; 0.7699882; 107.0001; Before; 13.18386; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:22; 826.0922; 0.7699882; 107.0001; Before; 13.18386; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 825.8641; 0.7699876; 106.9989; Before; 13.22205; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 825.7729; 0.7699869; 106.9985; Before; 13.23871; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 825.559; 0.7699872; 106.9974; Before; 13.26716; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 825.4648; 0.7699866; 106.9969; Before; 13.28349; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 825.3786; 0.7699875; 106.9964; Before; 13.29738; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 825.1791; 0.7699864; 106.9953; Before; 13.32465; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 825.028; 0.7699864; 106.9945; Before; 13.33971; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 824.9125; 0.7699869; 106.9939; Before; 13.36223; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 824.7221; 0.7699856; 106.9928; Before; 13.39413; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 824.7221; 0.7699856; 106.9928; Before; 13.39413; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 824.5287; 0.7699867; 106.9917; Before; 13.42232; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 824.4349; 0.7699866; 106.9911; Before; 13.43722; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 824.2327; 0.7699883; 106.9899; Before; 13.46479; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 824.1106; 0.7699885; 106.9892; Before; 13.48212; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 824.1106; 0.7699885; 106.9892; Before; 13.48212; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 823.8624; 0.769987; 106.9875; Before; 13.52305; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 823.7716; 0.7699866; 106.987; Before; 13.53874; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 823.5797; 0.7699872; 106.9857; Before; 13.56566; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 823.4854; 0.7699869; 106.985; Before; 13.58229; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 823.4034; 0.7699873; 106.9844; Before; 13.59688; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 823.2023; 0.7699873; 106.983; Before; 13.62478; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 823.1098; 0.7699877; 106.9823; Before; 13.64097; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 822.9688; 0.7699883; 106.9813; Before; 13.65548; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 822.7949; 0.7699872; 106.98; Before; 13.69266; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 822.7949; 0.7699872; 106.98; Before; 13.69266; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 822.6112; 0.7699875; 106.9785; Before; 13.72003; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 822.5233; 0.7699875; 106.9778; Before; 13.73471; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 822.3112; 0.7699882; 106.9761; Before; 13.76658; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 822.2297; 0.7699877; 106.9754; Before; 13.78325; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 822.1507; 0.7699881; 106.9747; Before; 13.79654; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 822.1507; 0.7699881; 106.9747; Before; 13.79654; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 821.933; 0.7699883; 106.9728; Before; 13.80949; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 821.7049; 0.7699881; 106.9707; Before; 13.86806; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 821.6259; 0.7699883; 106.9699; Before; 13.88342; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 821.5475; 0.7699881; 106.9692; Before; 13.89668; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 821.3748; 0.7699873; 106.9675; Before; 13.92511; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 821.2719; 0.7699878; 106.9664; Before; 13.93915; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 821.1752; 0.7699875; 106.9654; Before; 13.95669; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 821.0051; 0.7699871; 106.9636; Before; 13.97326; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 820.9053; 0.7699864; 106.9625; Before; 14.00257; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 820.8292; 0.7699866; 106.9617; Before; 14.01987; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 820.6547; 0.7699864; 106.9597; Before; 14.04829; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 820.5807; 0.7699871; 106.9588; Before; 14.06367; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 820.4208; 0.7699869; 106.957; Before; 14.09248; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 820.348; 0.7699866; 106.9561; Before; 14.10509; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 820.276; 0.7699871; 106.9552; Before; 14.11833; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 820.1686; 0.7699871; 106.9539; Before; 14.13177; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 820.0394; 0.7698796; 106.9524; Before; 14.16484; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 819.9123; 0.7697244; 106.9508; Before; 14.19491; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 819.8665; 0.7696818; 106.9502; Before; 14.20693; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:23; 819.7687; 0.7696116; 106.949; Before; 14.22889; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.715; 0.7695849; 106.9483; Before; 14.24095; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.6089; 0.769551; 106.9469; Before; 14.2697; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.5338; 0.7695423; 106.9459; Before; 14.28293; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.4931; 0.769542; 106.9454; Before; 14.30461; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.4263; 0.7695487; 106.9445; Before; 14.32677; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.3647; 0.7695613; 106.9436; Before; 14.34893; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.3042; 0.7695789; 106.9428; Before; 14.37038; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.2443; 0.7696003; 106.942; Before; 14.39372; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.2173; 0.7696108; 106.9416; Before; 14.40763; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.1954; 0.7696197; 106.9413; Before; 14.41981; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.1664; 0.7696327; 106.9408; Before; 14.43024; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.0984; 0.7696645; 106.9398; Before; 14.4699; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.0795; 0.7696748; 106.9395; Before; 14.48483; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.061; 0.7696844; 106.9392; Before; 14.49792; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.0355; 0.7696986; 106.9388; Before; 14.52358; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 819.0139; 0.7697109; 106.9385; Before; 14.54774; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9984; 0.7697216; 106.9383; Before; 14.57039; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9885; 0.7697299; 106.9381; Before; 14.59189; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9885; 0.7697299; 106.9381; Before; 14.59189; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9816; 0.7697405; 106.938; Before; 14.62401; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697461; 106.938; Before; 14.647; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9806; 0.7697512; 106.938; Before; 14.66868; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697556; 106.938; Before; 14.69567; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697573; 106.9381; Before; 14.7066; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697599; 106.9381; Before; 14.73016; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697616; 106.9382; Before; 14.74095; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697632; 106.9382; Before; 14.75321; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697657; 106.9382; Before; 14.7903; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697666; 106.9382; Before; 14.80273; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697676; 106.9382; Before; 14.82608; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.769768; 106.9382; Before; 14.84766; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697685; 106.9383; Before; 14.8714; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697685; 106.9383; Before; 14.89691; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697685; 106.9383; Before; 14.89691; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697679; 106.9383; Before; 14.9274; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697675; 106.9383; Before; 14.95242; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697672; 106.9383; Before; 14.97478; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697678; 106.9383; Before; 14.99666; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697676; 106.9383; Before; 15.00661; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697673; 106.9384; Before; 15.02948; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697668; 106.9384; Before; 15.04093; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7697673; 106.9384; Before; 15.05317; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7696785; 106.9384; Before; 15.08957; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9805; 0.7694272; 106.9384; Before; 15.10384; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.98; 0.7687078; 106.9385; Before; 15.12755; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9797; 0.7681391; 106.9384; Before; 15.13844; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9789; 0.766947; 106.9384; Before; 15.16556; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.9783; 0.766047; 106.9384; Before; 15.19705; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:24; 818.978; 0.7657242; 106.9384; Before; 15.20791; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9775; 0.7653395; 106.9384; Before; 15.21923; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9771; 0.7651491; 106.9384; Before; 15.23735; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.976; 0.7651078; 106.9384; Before; 15.26673; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9751; 0.7653039; 106.9384; Before; 15.29342; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9745; 0.7654457; 106.9384; Before; 15.30472; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9734; 0.7658281; 106.9384; Before; 15.32693; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9729; 0.7660167; 106.9384; Before; 15.33971; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9711; 0.7666364; 106.9384; Before; 15.35022; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9711; 0.7666364; 106.9384; Before; 15.35022; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9695; 0.7671446; 106.9383; Before; 15.38286; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9675; 0.7677071; 106.9383; Before; 15.42839; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9665; 0.7679254; 106.9383; Before; 15.44141; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9642; 0.7683823; 106.9382; Before; 15.4699; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9631; 0.7685605; 106.9382; Before; 15.48604; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9619; 0.7687236; 106.9382; Before; 15.49985; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9598; 0.7689866; 106.9382; Before; 15.52717; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9576; 0.7691917; 106.9381; Before; 15.53935; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9561; 0.7693174; 106.9381; Before; 15.56343; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9539; 0.7694426; 106.9381; Before; 15.58121; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9524; 0.7695093; 106.938; Before; 15.60224; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9493; 0.769608; 106.938; Before; 15.62681; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9459; 0.7696837; 106.938; Before; 15.65133; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9439; 0.7697158; 106.9379; Before; 15.66355; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9412; 0.7697484; 106.9379; Before; 15.67643; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9373; 0.7697825; 106.9378; Before; 15.69252; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9342; 0.7698002; 106.9377; Before; 15.71461; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9291; 0.7698197; 106.9376; Before; 15.7424; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9237; 0.7698292; 106.9375; Before; 15.76754; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9175; 0.7698324; 106.9374; Before; 15.79586; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9175; 0.7698324; 106.9374; Before; 15.79586; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9105; 0.7698319; 106.9372; Before; 15.8203; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.9073; 0.7698302; 106.9372; Before; 15.83405; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8972; 0.769822; 106.9369; Before; 15.86881; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8901; 0.7698158; 106.9368; Before; 15.89248; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8865; 0.7698122; 106.9367; Before; 15.90495; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8832; 0.7698095; 106.9366; Before; 15.91671; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8737; 0.7698023; 106.9364; Before; 15.94261; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8655; 0.7697959; 106.9363; Before; 15.96718; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8568; 0.769789; 106.9361; Before; 15.99197; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8568; 0.769789; 106.9361; Before; 15.99197; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8472; 0.7697833; 106.9359; Before; 16.00392; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8358; 0.7697773; 106.9356; Before; 16.04354; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8262; 0.7697735; 106.9354; Before; 16.06929; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8162; 0.7697712; 106.9352; Before; 16.09367; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.8111; 0.7697697; 106.9351; Before; 16.10527; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.7998; 0.7697669; 106.9348; Before; 16.12845; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.7875; 0.7697656; 106.9346; Before; 16.15089; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.7775; 0.7697647; 106.9344; Before; 16.16377; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.7628; 0.7697619; 106.934; Before; 16.19443; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:25; 818.7628; 0.7697619; 106.934; Before; 16.19443; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.7461; 0.7697608; 106.9337; Before; 16.22001; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.7303; 0.7697598; 106.9333; Before; 16.2473; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.7135; 0.7697591; 106.9329; Before; 16.27068; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.6975; 0.7697587; 106.9325; Before; 16.29567; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.6887; 0.7697583; 106.9323; Before; 16.30635; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.6723; 0.7697587; 106.932; Before; 16.31841; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.6588; 0.7697589; 106.9316; Before; 16.34003; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.6377; 0.7697592; 106.9312; Before; 16.37064; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.6171; 0.7697592; 106.9307; Before; 16.39581; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.6171; 0.7697592; 106.9307; Before; 16.39581; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.5945; 0.7697597; 106.9301; Before; 16.42021; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.5719; 0.7697599; 106.9296; Before; 16.4446; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.562; 0.7697601; 106.9293; Before; 16.45807; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.5294; 0.7697601; 106.9286; Before; 16.48757; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.517; 0.7697599; 106.9283; Before; 16.50261; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.4925; 0.7697601; 106.9276; Before; 16.5273; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.4681; 0.7697606; 106.927; Before; 16.55078; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.4537; 0.7697616; 106.9267; Before; 16.56281; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.4252; 0.7697617; 106.9259; Before; 16.58981; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.41; 0.7697613; 106.9256; Before; 16.60259; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.396; 0.7697608; 106.9252; Before; 16.61603; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.3687; 0.769761; 106.9246; Before; 16.62836; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.3295; 0.7697616; 106.9236; Before; 16.66824; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.3087; 0.7697622; 106.923; Before; 16.68332; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.2902; 0.7697623; 106.9225; Before; 16.69976; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.2561; 0.7697616; 106.9217; Before; 16.72556; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.2386; 0.7697618; 106.9212; Before; 16.73954; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.1998; 0.7697625; 106.9202; Before; 16.76501; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.1998; 0.7697625; 106.9202; Before; 16.76501; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.1538; 0.7697632; 106.919; Before; 16.78007; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.1266; 0.7697625; 106.9183; Before; 16.81188; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.0823; 0.7697625; 106.9171; Before; 16.84578; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.062; 0.7697622; 106.9166; Before; 16.85909; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 818.015; 0.7697618; 106.9153; Before; 16.88695; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.9937; 0.7697616; 106.9147; Before; 16.90144; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.9547; 0.7697608; 106.9136; Before; 16.92575; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.9192; 0.7697606; 106.9126; Before; 16.93798; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.8804; 0.7697608; 106.9116; Before; 16.95893; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.8485; 0.7697607; 106.9107; Before; 16.98133; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.8231; 0.7697608; 106.91; Before; 16.99948; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.7944; 0.7697603; 106.9092; Before; 17.01369; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.7457; 0.7697597; 106.9078; Before; 17.04275; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.7004; 0.76976; 106.9066; Before; 17.0675; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.6733; 0.7697601; 106.9058; Before; 17.08012; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.6304; 0.7697603; 106.9046; Before; 17.09429; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.595; 0.7697604; 106.9037; Before; 17.11635; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.5615; 0.7697601; 106.9027; Before; 17.13418; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.4995; 0.7697601; 106.901; Before; 17.165; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.4402; 0.7697604; 106.8993; Before; 17.19425; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:26; 817.4402; 0.7697604; 106.8993; Before; 17.19425; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 817.3748; 0.7697608; 106.8975; Before; 17.22239; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 817.3433; 0.7697606; 106.8966; Before; 17.23786; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 817.2866; 0.7697616; 106.895; Before; 17.25185; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 817.2375; 0.7697613; 106.8936; Before; 17.27659; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 817.2018; 0.7697622; 106.8926; Before; 17.29757; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 817.1596; 0.7697616; 106.8914; Before; 17.31257; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 817.0835; 0.7697616; 106.8893; Before; 17.34481; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 817.045; 0.7697613; 106.8882; Before; 17.36097; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 817.0057; 0.7697612; 106.8871; Before; 17.37635; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.9609; 0.7697618; 106.8858; Before; 17.39182; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.8906; 0.7697613; 106.8839; Before; 17.40925; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.8279; 0.7697612; 106.8821; Before; 17.43612; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.7678; 0.7697613; 106.8804; Before; 17.45968; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.7156; 0.7697628; 106.8789; Before; 17.48187; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.6664; 0.7697624; 106.8775; Before; 17.50084; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.6246; 0.769763; 106.8763; Before; 17.5185; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.5674; 0.769763; 106.8747; Before; 17.53335; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.521; 0.7697629; 106.8734; Before; 17.55345; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.4492; 0.7697629; 106.8714; Before; 17.56952; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.3901; 0.7697635; 106.8697; Before; 17.5941; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.342; 0.7697628; 106.8684; Before; 17.61404; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.2471; 0.769763; 106.8657; Before; 17.64444; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.1891; 0.769763; 106.8641; Before; 17.66072; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.1389; 0.7697628; 106.8627; Before; 17.67903; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.0859; 0.7697634; 106.8612; Before; 17.69461; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 816.0282; 0.7697625; 106.8596; Before; 17.71086; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.9371; 0.769763; 106.8572; Before; 17.7282; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.8586; 0.7697628; 106.855; Before; 17.75504; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.7935; 0.7697623; 106.8532; Before; 17.77764; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.7322; 0.7697625; 106.8516; Before; 17.79609; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.6725; 0.769762; 106.85; Before; 17.81318; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.5543; 0.7697616; 106.8468; Before; 17.84635; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.4998; 0.7697623; 106.8453; Before; 17.86141; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.4216; 0.7697618; 106.8432; Before; 17.87585; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.4216; 0.7697618; 106.8432; Before; 17.87585; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.3126; 0.769762; 106.8403; Before; 17.89622; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.1666; 0.769762; 106.8364; Before; 17.94406; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 815.106; 0.7697618; 106.8347; Before; 17.96074; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.9818; 0.769762; 106.8314; Before; 17.9921; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.9222; 0.769762; 106.8298; Before; 18.00577; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.8582; 0.7697628; 106.8281; Before; 18.01999; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.7843; 0.7697616; 106.8261; Before; 18.03511; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.6727; 0.769762; 106.823; Before; 18.05238; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.5835; 0.7697623; 106.8205; Before; 18.0781; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.5121; 0.7697614; 106.8186; Before; 18.09841; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.4493; 0.7697614; 106.8168; Before; 18.11448; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.3135; 0.7697612; 106.8129; Before; 18.14296; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.1846; 0.7697605; 106.8092; Before; 18.17208; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.1128; 0.7697608; 106.8071; Before; 18.18641; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:27; 814.0375; 0.7697606; 106.8048; Before; 18.20178; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 814.0375; 0.7697606; 106.8048; Before; 18.20178; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 813.9138; 0.7697611; 106.8011; Before; 18.21778; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 813.7369; 0.7697612; 106.7957; Before; 18.2646; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 813.6678; 0.7697616; 106.7935; Before; 18.28036; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 813.5925; 0.769762; 106.7911; Before; 18.29449; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 813.4448; 0.7697611; 106.7864; Before; 18.32533; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 813.3666; 0.769872; 106.7839; Before; 18.33943; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 813.2822; 0.7699857; 106.7812; Before; 18.35496; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 813.1456; 0.7701123; 106.7768; Before; 18.37158; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 813.0414; 0.7701697; 106.7733; Before; 18.39826; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.9689; 0.7701962; 106.771; Before; 18.41837; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.8046; 0.77022; 106.7655; Before; 18.44842; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.7222; 0.7702203; 106.7628; Before; 18.46351; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.6314; 0.7702137; 106.7598; Before; 18.47901; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.538; 0.7702029; 106.7567; Before; 18.49598; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.4536; 0.7701902; 106.7539; Before; 18.51332; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.3028; 0.770165; 106.7489; Before; 18.52891; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.1982; 0.7701454; 106.7455; Before; 18.5565; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.0287; 0.770116; 106.7399; Before; 18.59118; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 812.0287; 0.770116; 106.7399; Before; 18.59118; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 811.8347; 0.7700846; 106.7336; Before; 18.62312; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 811.7462; 0.7700725; 106.7307; Before; 18.6404; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 811.5726; 0.770051; 106.7251; Before; 18.66997; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 811.5726; 0.770051; 106.7251; Before; 18.66997; Checking Box AICar
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 811.4345; 0.7700377; 106.7207; Before; 18.68631; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 811.3035; 0.7700268; 106.7166; Before; 18.71022; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 811.1273; 0.770015; 106.711; Before; 18.74836; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 811.0151; 0.7700096; 106.7075; Before; 18.76275; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 810.9151; 0.770005; 106.7044; Before; 18.78173; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 810.8252; 0.7700012; 106.7016; Before; 18.79855; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 810.7377; 0.7699982; 106.6989; Before; 18.81361; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 810.6393; 0.7699952; 106.6958; Before; 18.82818; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 810.4738; 0.7699913; 106.6907; Before; 18.84451; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 810.343; 0.7699897; 106.6867; Before; 18.87178; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 810.23; 0.7699889; 106.6832; Before; 18.89319; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 810.1079; 0.7699883; 106.6794; Before; 18.91159; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 809.9883; 0.7699864; 106.6757; Intersection; 0; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 809.7799; 0.7699864; 106.6691; Intersection; 0.0373592; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 809.6677; 0.7699866; 106.6656; Intersection; 0.0526027; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 809.6677; 0.7699866; 106.6656; Intersection; 0.0526027; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 809.4988; 0.7699859; 106.6602; Intersection; 0.0704365; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 809.3771; 0.769986; 106.6562; Intersection; 0.0971205; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 809.1541; 0.7699862; 106.6489; Intersection; 0.1338596; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 809.0633; 0.7699867; 106.6459; Intersection; 0.1510753; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 808.9576; 0.7699873; 106.6423; Intersection; 0.165167; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 808.8425; 0.7699865; 106.6384; Intersection; 0.1814899; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 808.6241; 0.7699864; 106.631; Intersection; 0.2149387; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 808.6241; 0.7699864; 106.631; Intersection; 0.2149387; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 808.424; 0.769987; 106.6241; Intersection; 0.2326798; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:28; 808.2714; 0.7699872; 106.6188; Intersection; 0.2631175; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 808.1522; 0.7699876; 106.6147; Intersection; 0.2861954; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 808.0204; 0.7699876; 106.6101; Intersection; 0.3041376; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 807.8923; 0.7699871; 106.6057; Intersection; 0.3238917; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 807.6745; 0.7699877; 106.5981; Intersection; 0.3591951; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 807.6745; 0.7699877; 106.5981; Intersection; 0.3591951; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 807.5568; 0.769987; 106.594; Intersection; 0.375381; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 807.377; 0.7699864; 106.5878; Intersection; 0.392781; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 807.2386; 0.7699857; 106.5831; Intersection; 0.4192667; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 806.9984; 0.7699869; 106.5749; Intersection; 0.4570135; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 806.9984; 0.7699869; 106.5749; Intersection; 0.4570135; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 806.78; 0.769987; 106.5676; Intersection; 0.490748; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 806.6768; 0.7699866; 106.5642; Intersection; 0.5061987; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 806.4621; 0.7699871; 106.5571; Intersection; 0.5362509; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 806.4621; 0.7699871; 106.5571; Intersection; 0.5362509; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 806.2507; 0.7699872; 106.5502; Intersection; 0.5519516; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 806.0966; 0.7699876; 106.5452; Intersection; 0.5821639; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 805.9816; 0.7699873; 106.5415; Intersection; 0.6041169; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 805.8669; 0.7699876; 106.5378; Intersection; 0.6204166; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 805.5862; 0.7699871; 106.5288; Intersection; 0.6601124; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 805.5862; 0.7699871; 106.5288; Intersection; 0.6601124; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 805.4569; 0.7699865; 106.5247; Intersection; 0.6761882; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 805.2797; 0.7699866; 106.5191; Intersection; 0.6943149; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 805.0764; 0.7699878; 106.5125; Intersection; 0.7190826; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 804.8731; 0.7699876; 106.506; Intersection; 0.7473892; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 804.8731; 0.7699876; 106.506; Intersection; 0.7473892; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 804.6384; 0.7699877; 106.4983; Intersection; 0.7924612; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 804.5283; 0.7699879; 106.4947; Intersection; 0.8079616; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 804.4036; 0.7699878; 106.4907; Intersection; 0.8231105; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 804.1752; 0.7699873; 106.4832; Intersection; 0.8554181; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 804.1752; 0.7699873; 106.4832; Intersection; 0.8554181; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 803.9576; 0.7699873; 106.476; Intersection; 0.8714745; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 803.8167; 0.7699869; 106.4713; Intersection; 0.901094; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 803.5987; 0.7699864; 106.4642; Intersection; 0.9339209; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 803.4919; 0.7699863; 106.4607; Intersection; 0.9497461; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 803.3801; 0.7699867; 106.457; Intersection; 0.9641529; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 803.1672; 0.7699865; 106.4501; Intersection; 0.9943157; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 803.0558; 0.7699871; 106.4466; Intersection; 1.007824; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 802.8407; 0.7699865; 106.4397; Intersection; 1.022769; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 802.6816; 0.7699864; 106.4347; Intersection; 1.051514; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 802.6816; 0.7699864; 106.4347; Intersection; 1.051514; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 802.4427; 0.769987; 106.4273; Intersection; 1.089593; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 802.2511; 0.769987; 106.4215; Intersection; 1.117479; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 802.1453; 0.7699869; 106.4184; Intersection; 1.129825; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 801.9304; 0.7699878; 106.412; Intersection; 1.156823; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 801.8258; 0.7699871; 106.409; Intersection; 1.172129; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 801.6763; 0.7699878; 106.4047; Intersection; 1.185901; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 801.548; 0.769989; 106.4011; Intersection; 1.205543; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 801.3193; 0.7699883; 106.3946; Intersection; 1.237543; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 801.215; 0.7699879; 106.3917; Intersection; 1.25243; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:29; 801.1038; 0.7699885; 106.3887; Intersection; 1.266136; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 800.9716; 0.7699881; 106.385; Intersection; 1.280737; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 800.7352; 0.7699879; 106.3786; Intersection; 1.31369; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 800.613; 0.7699883; 106.3753; Intersection; 1.329166; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 800.4487; 0.7699881; 106.3709; Intersection; 1.345237; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 800.3279; 0.7699881; 106.3676; Intersection; 1.366852; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 800.2121; 0.7699877; 106.3645; Intersection; 1.382729; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 800.0031; 0.7699885; 106.359; Intersection; 1.410859; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 799.7927; 0.7699873; 106.3534; Intersection; 1.439007; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 799.6706; 0.7699869; 106.3501; Intersection; 1.453196; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 799.5543; 0.7699869; 106.3471; Intersection; 1.469284; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 799.4562; 0.769987; 106.3445; Intersection; 1.484615; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 799.2914; 0.7699873; 106.3402; Intersection; 1.497552; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 799.0537; 0.7699872; 106.3341; Intersection; 1.53619; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 798.8546; 0.7699869; 106.329; Intersection; 1.56389; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 798.8546; 0.7699869; 106.329; Intersection; 1.56389; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 798.618; 0.7699865; 106.3231; Intersection; 1.592647; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 798.5125; 0.7699869; 106.3205; Intersection; 1.60816; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 798.3015; 0.7699871; 106.3153; Intersection; 1.637208; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 798.1385; 0.7699871; 106.3114; Intersection; 1.649984; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 798.0217; 0.7699869; 106.3087; Intersection; 1.671534; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 797.9112; 0.7699873; 106.3061; Intersection; 1.686987; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 797.7831; 0.7699871; 106.3032; Intersection; 1.701613; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 797.5601; 0.7699877; 106.2982; Intersection; 1.733861; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 797.4299; 0.7699873; 106.2953; Intersection; 1.748072; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 797.3246; 0.7699879; 106.293; Intersection; 1.7653; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 797.1204; 0.7699883; 106.2887; Intersection; 1.793985; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 796.964; 0.7699882; 106.2854; Intersection; 1.806303; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 796.8474; 0.7699877; 106.283; Intersection; 1.827035; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 796.5978; 0.7699882; 106.278; Intersection; 1.858973; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 796.5978; 0.7699882; 106.278; Intersection; 1.858973; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 796.3618; 0.7699875; 106.2733; Intersection; 1.889687; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 796.2308; 0.7699871; 106.2708; Intersection; 1.90688; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 796.091; 0.7699869; 106.2681; Intersection; 1.924267; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 795.9871; 0.7699875; 106.2661; Intersection; 1.94282; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 795.7988; 0.7699871; 106.2625; Intersection; 1.956608; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 795.585; 0.7699873; 106.2585; Intersection; 1.996605; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 795.4681; 0.7699876; 106.2563; Intersection; 2.010028; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 795.2483; 0.7699867; 106.2522; Intersection; 2.040585; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 795.1416; 0.7699875; 106.2503; Intersection; 2.054775; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 795.0195; 0.769987; 106.2481; Intersection; 2.068964; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 794.9179; 0.7699866; 106.2462; Intersection; 2.08521; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 794.8103; 0.7699871; 106.2443; Intersection; 2.098709; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 794.6113; 0.7699871; 106.2409; Intersection; 2.113014; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 794.329; 0.7699871; 106.2361; Intersection; 2.161216; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 794.329; 0.7699871; 106.2361; Intersection; 2.161216; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 794.223; 0.7699876; 106.2343; Intersection; 2.177072; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 793.9477; 0.7699878; 106.2299; Intersection; 2.211194; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 793.7488; 0.7699873; 106.2268; Intersection; 2.240811; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 793.6309; 0.7699871; 106.225; Intersection; 2.254446; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:30; 793.6309; 0.7699871; 106.225; Intersection; 2.254446; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 793.4289; 0.7699876; 106.222; Intersection; 2.270207; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 793.192; 0.7699873; 106.2187; Intersection; 2.314175; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 793.0867; 0.7699872; 106.2173; Intersection; 2.328993; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 792.8493; 0.7699871; 106.2142; Intersection; 2.356487; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 792.75; 0.7699864; 106.2129; Intersection; 2.375046; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 792.6513; 0.7699865; 106.2117; Intersection; 2.388407; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 792.5127; 0.7699864; 106.21; Intersection; 2.401703; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 792.3486; 0.7699869; 106.208; Intersection; 2.420379; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 792.1046; 0.7699873; 106.2053; Intersection; 2.459749; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 792.1046; 0.7699873; 106.2053; Intersection; 2.459749; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 791.8899; 0.7699878; 106.2029; Intersection; 2.489076; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 791.7722; 0.7699873; 106.2017; Intersection; 2.504587; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 791.5607; 0.7699875; 106.1995; Intersection; 2.534773; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 791.3716; 0.7699873; 106.1975; Intersection; 2.562698; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 791.3716; 0.7699873; 106.1975; Intersection; 2.562698; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 791.2107; 0.7699873; 106.1959; Intersection; 2.57494; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 790.9899; 0.7699877; 106.1938; Intersection; 2.611423; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 790.8583; 0.7699883; 106.1925; Intersection; 2.626907; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 790.7268; 0.7699875; 106.1913; Intersection; 2.64486; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 790.6121; 0.7699882; 106.1903; Intersection; 2.662814; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 790.4108; 0.7699875; 106.1885; Intersection; 2.692548; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 790.3134; 0.7699873; 106.1877; Intersection; 2.706048; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 790.211; 0.7699881; 106.1868; Intersection; 2.719412; PedestrianInterference
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 789.941; 0.7699882; 106.1847; After ; 0; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 789.8431; 0.7699875; 106.1839; After ; 0.0149615; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 789.7471; 0.7699871; 106.1832; After ; 0.0285092; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 789.5079; 0.7699867; 106.1815; After ; 0.056748; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 789.4039; 0.7699881; 106.1808; After ; 0.0750382; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 789.2045; 0.7699866; 106.1796; After ; 0.1042309; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 789.0971; 0.7699859; 106.1789; After ; 0.1174033; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 789.0971; 0.7699859; 106.1789; After ; 0.1174033; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 788.806; 0.7699867; 106.1773; After ; 0.1565354; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 788.6937; 0.7699878; 106.1767; After ; 0.1734046; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 788.4835; 0.7699876; 106.1757; After ; 0.2045022; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 788.4835; 0.7699876; 106.1757; After ; 0.2045022; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 788.2727; 0.7699881; 106.1748; After ; 0.2339423; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 788.0873; 0.7699876; 106.1741; After ; 0.2630898; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 787.9658; 0.7699885; 106.1736; After ; 0.2754244; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 787.9658; 0.7699885; 106.1736; After ; 0.2754244; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 787.7426; 0.7699873; 106.1729; After ; 0.2928024; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 787.5349; 0.7699873; 106.1723; After ; 0.3412623; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 787.4402; 0.7699889; 106.1721; After ; 0.3547201; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 787.314; 0.7699883; 106.1718; After ; 0.3683706; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 787.1165; 0.7699883; 106.1714; After ; 0.4004752; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 787.0155; 0.7699873; 106.1712; After ; 0.4152519; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 786.9203; 0.7699877; 106.171; After ; 0.4299858; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 786.7765; 0.7699873; 106.1707; After ; 0.4440952; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 786.5733; 0.7699878; 106.1705; After ; 0.4801814; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 786.4932; 0.7699889; 106.1704; After ; 0.4986183; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 786.4027; 0.7699883; 106.1703; After ; 0.5120624; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:31; 786.3279; 0.7699883; 106.1702; After ; 0.5276996; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 786.1458; 0.7699889; 106.1701; After ; 0.5553703; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 786.0644; 0.769989; 106.1701; After ; 0.5751377; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.9918; 0.7699375; 106.1701; After ; 0.5912687; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.8833; 0.7697868; 106.1701; After ; 0.6061915; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.8225; 0.7697194; 106.1701; After ; 0.6294817; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.6921; 0.7696154; 106.1702; After ; 0.6596071; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.626; 0.7695808; 106.1703; After ; 0.6742007; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.5231; 0.7695495; 106.1704; After ; 0.7064402; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.4747; 0.7695431; 106.1705; After ; 0.718778; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.4264; 0.7695423; 106.1706; After ; 0.7326753; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.3729; 0.7695447; 106.1707; After ; 0.747215; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.3109; 0.7695544; 106.1708; After ; 0.7641491; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.2279; 0.7695757; 106.1711; After ; 0.8002779; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.1965; 0.7695856; 106.1712; After ; 0.8159727; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.164; 0.7695974; 106.1713; After ; 0.8286982; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.0967; 0.7696257; 106.1716; After ; 0.8587248; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.0702; 0.7696381; 106.1717; After ; 0.8747653; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.0236; 0.7696605; 106.1719; After ; 0.9022008; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 785.0236; 0.7696605; 106.1719; After ; 0.9022008; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9783; 0.7696848; 106.1721; After ; 0.9367329; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9627; 0.7696935; 106.1722; After ; 0.9510251; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.936; 0.7697105; 106.1724; After ; 0.9785634; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9257; 0.7697177; 106.1725; After ; 0.9946401; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9171; 0.7697251; 106.1725; After ; 1.009585; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9077; 0.7697362; 106.1726; After ; 1.040949; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9058; 0.7697418; 106.1726; After ; 1.05394; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9048; 0.769748; 106.1725; After ; 1.067933; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9048; 0.7697512; 106.1725; After ; 1.090412; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9048; 0.7697544; 106.1725; After ; 1.107871; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9048; 0.7697585; 106.1724; After ; 1.140163; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9048; 0.7697608; 106.1723; After ; 1.152464; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9048; 0.7697632; 106.1722; After ; 1.183024; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9048; 0.7697641; 106.1722; After ; 1.198632; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9048; 0.7697647; 106.1722; After ; 1.213639; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9048; 0.7697667; 106.1721; After ; 1.229567; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.905; 0.769768; 106.1721; After ; 1.252246; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.905; 0.7697694; 106.172; After ; 1.268336; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9053; 0.7697706; 106.172; After ; 1.301027; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9053; 0.7697704; 106.172; After ; 1.316036; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9053; 0.7697706; 106.1719; After ; 1.332407; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9053; 0.7697687; 106.1719; After ; 1.362738; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9053; 0.7697685; 106.1719; After ; 1.375774; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9053; 0.7693903; 106.1718; After ; 1.388424; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9053; 0.7689074; 106.1718; After ; 1.408381; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.905; 0.7677908; 106.1718; After ; 1.437859; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.905; 0.7672327; 106.1718; After ; 1.452188; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9047; 0.7661316; 106.1717; After ; 1.47854; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9045; 0.765717; 106.1717; After ; 1.496042; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9044; 0.7654275; 106.1717; After ; 1.51023; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:32; 784.9043; 0.7651916; 106.1717; After ; 1.523093; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9039; 0.7651149; 106.1717; After ; 1.558218; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9039; 0.7652159; 106.1716; After ; 1.573055; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9036; 0.7655946; 106.1716; After ; 1.600548; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9036; 0.7658131; 106.1716; After ; 1.616036; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9033; 0.7660452; 106.1716; After ; 1.629248; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9031; 0.7665669; 106.1716; After ; 1.655835; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.903; 0.7670434; 106.1716; After ; 1.682285; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9026; 0.7674575; 106.1716; After ; 1.694707; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9023; 0.767706; 106.1716; After ; 1.7174; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9022; 0.7679272; 106.1716; After ; 1.731798; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9017; 0.7683798; 106.1716; After ; 1.763058; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9016; 0.768562; 106.1715; After ; 1.776318; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9011; 0.7688787; 106.1715; After ; 1.804581; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9009; 0.7690136; 106.1715; After ; 1.818832; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9006; 0.7691211; 106.1715; After ; 1.832848; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.9002; 0.7692871; 106.1715; After ; 1.845259; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8997; 0.7694488; 106.1715; After ; 1.880731; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8994; 0.7695122; 106.1715; After ; 1.894422; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8988; 0.7695773; 106.1715; After ; 1.90718; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8972; 0.7696722; 106.1715; After ; 1.936935; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8965; 0.7697043; 106.1715; After ; 1.950753; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8942; 0.7697608; 106.1716; After ; 1.977832; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8929; 0.7697783; 106.1716; After ; 1.991502; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8908; 0.7698015; 106.1716; After ; 2.004097; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8877; 0.7698188; 106.1716; After ; 2.038968; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.886; 0.7698243; 106.1716; After ; 2.050916; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8815; 0.7698302; 106.1717; After ; 2.077609; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8773; 0.7698295; 106.1717; After ; 2.108045; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8773; 0.7698295; 106.1717; After ; 2.108045; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8712; 0.7698236; 106.1718; After ; 2.139661; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8712; 0.7698236; 106.1718; After ; 2.139661; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8619; 0.7698121; 106.1719; After ; 2.17922; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8588; 0.7698095; 106.1719; After ; 2.199265; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8556; 0.7698059; 106.172; After ; 2.213205; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8521; 0.7698016; 106.172; After ; 2.227062; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8447; 0.7697945; 106.1721; After ; 2.256394; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8372; 0.7697879; 106.1722; After ; 2.283757; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8331; 0.7697859; 106.1723; After ; 2.298344; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8331; 0.7697859; 106.1723; After ; 2.298344; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.821; 0.7697786; 106.1724; After ; 2.33688; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8164; 0.7697769; 106.1725; After ; 2.353351; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8065; 0.7697723; 106.1726; After ; 2.385179; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.8022; 0.7697713; 106.1727; After ; 2.398835; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.7974; 0.7697694; 106.1728; After ; 2.411237; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.7877; 0.769766; 106.1729; After ; 2.438304; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.7823; 0.7697651; 106.173; After ; 2.452321; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.7734; 0.7697637; 106.1731; After ; 2.467143; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.7615; 0.7697618; 106.1733; After ; 2.50491; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:33; 784.7615; 0.7697618; 106.1733; After ; 2.50491; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.7491; 0.7697623; 106.1734; After ; 2.534931; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.744; 0.7697624; 106.1735; After ; 2.550775; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.7308; 0.7697628; 106.1737; After ; 2.578087; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.724; 0.7697618; 106.1738; After ; 2.593762; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.718; 0.769762; 106.1739; After ; 2.609118; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.7083; 0.7697606; 106.174; After ; 2.622154; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6945; 0.7697607; 106.1743; After ; 2.657714; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6863; 0.7697601; 106.1744; After ; 2.672937; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6708; 0.7697587; 106.1746; After ; 2.705324; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6708; 0.7697587; 106.1746; After ; 2.705324; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6539; 0.7697588; 106.1749; After ; 2.735654; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6461; 0.7697592; 106.175; After ; 2.753714; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6373; 0.7697592; 106.1751; After ; 2.768473; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6238; 0.7697589; 106.1754; After ; 2.784836; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6145; 0.7697598; 106.1755; After ; 2.809762; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.6044; 0.7697601; 106.1757; After ; 2.826764; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.5883; 0.7697593; 106.1759; After ; 2.85989; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.5793; 0.7697594; 106.1761; After ; 2.873111; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.562; 0.7697594; 106.1764; After ; 2.904057; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.5524; 0.7697592; 106.1766; After ; 2.91752; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.5421; 0.7697601; 106.1767; After ; 2.932837; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.525; 0.7697604; 106.177; After ; 2.948084; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.5126; 0.7697616; 106.1772; After ; 2.97206; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.4865; 0.7697611; 106.1777; After ; 3.005365; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.4865; 0.7697611; 106.1777; After ; 3.005365; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.458; 0.7697616; 106.1782; After ; 3.035563; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.444; 0.769763; 106.1785; After ; 3.052901; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.4277; 0.7697625; 106.1787; After ; 3.068042; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.4124; 0.769763; 106.179; After ; 3.084901; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.3898; 0.7697635; 106.1795; After ; 3.100239; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.3546; 0.7697634; 106.1801; After ; 3.140088; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.3342; 0.7697637; 106.1805; After ; 3.154148; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.3165; 0.7697635; 106.1809; After ; 3.171952; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.2789; 0.7697632; 106.1816; After ; 3.202745; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.2789; 0.7697632; 106.1816; After ; 3.202745; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.2369; 0.7697623; 106.1825; After ; 3.235325; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.2085; 0.7697614; 106.1831; After ; 3.250301; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.1857; 0.7697606; 106.1836; After ; 3.271443; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.1401; 0.7697608; 106.1846; After ; 3.302333; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.1213; 0.7697606; 106.185; After ; 3.319936; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.1022; 0.7697611; 106.1855; After ; 3.332829; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.0608; 0.7697603; 106.1864; After ; 3.359498; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.0365; 0.7697599; 106.187; After ; 3.372635; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 784.012; 0.7697604; 106.1876; After ; 3.388149; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 783.9762; 0.7697603; 106.1885; After ; 3.403468; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 783.9467; 0.7697599; 106.1892; After ; 3.425349; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 783.8889; 0.7697604; 106.1907; After ; 3.45816; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 783.8647; 0.7697611; 106.1913; After ; 3.475357; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 783.808; 0.7697599; 106.1928; After ; 3.502733; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:34; 783.7802; 0.7697598; 106.1935; After ; 3.518229; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.7529; 0.7697604; 106.1943; After ; 3.532352; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.7228; 0.7697604; 106.1951; After ; 3.545854; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.6424; 0.7697606; 106.1974; After ; 3.581052; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.6092; 0.7697611; 106.1983; After ; 3.598254; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.569; 0.7697607; 106.1995; After ; 3.613288; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.5389; 0.7697616; 106.2004; After ; 3.631093; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.4689; 0.7697611; 106.2025; After ; 3.659534; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.4368; 0.7697608; 106.2035; After ; 3.673854; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.3681; 0.7697611; 106.2056; After ; 3.701082; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.3681; 0.7697611; 106.2056; After ; 3.701082; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.2733; 0.7697611; 106.2087; After ; 3.734524; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.232; 0.7697608; 106.21; After ; 3.751736; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.1577; 0.7697613; 106.2125; After ; 3.782012; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.1216; 0.7697616; 106.2137; After ; 3.794955; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 783.0828; 0.7697623; 106.215; After ; 3.808102; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.9907; 0.7697625; 106.2182; After ; 3.8375; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.9409; 0.7697635; 106.2199; After ; 3.854409; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.8743; 0.7697635; 106.2223; After ; 3.871459; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.8178; 0.7697635; 106.2244; After ; 3.893975; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.7738; 0.769763; 106.226; After ; 3.91272; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.6889; 0.7697635; 106.2291; After ; 3.940833; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.647; 0.7697642; 106.2307; After ; 3.954363; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.5595; 0.769763; 106.234; After ; 3.981574; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.5125; 0.7697634; 106.2358; After ; 3.994528; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.4617; 0.7697632; 106.2378; After ; 4.008731; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.3823; 0.7697632; 106.2409; After ; 4.023887; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.2817; 0.769763; 106.2449; After ; 4.062327; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.2299; 0.7697638; 106.2469; After ; 4.075979; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.1266; 0.7697635; 106.2511; After ; 4.105225; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.1266; 0.7697635; 106.2511; After ; 4.105225; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 782.0178; 0.7697634; 106.2555; After ; 4.13461; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.9253; 0.7697632; 106.2593; After ; 4.159761; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.8717; 0.769763; 106.2615; After ; 4.172746; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.7701; 0.7697636; 106.2657; After ; 4.186702; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.702; 0.769763; 106.2685; After ; 4.212719; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.6487; 0.769763; 106.2707; After ; 4.22988; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.527; 0.7697628; 106.2758; After ; 4.258286; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.4667; 0.7697624; 106.2783; After ; 4.273082; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.3501; 0.7697626; 106.2832; After ; 4.300993; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.2906; 0.769763; 106.2857; After ; 4.315477; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.236; 0.7697628; 106.288; After ; 4.329493; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.138; 0.7697623; 106.2922; After ; 4.342241; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 781.0037; 0.7697616; 106.298; After ; 4.381263; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 780.9354; 0.7697616; 106.3009; After ; 4.395346; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 780.8735; 0.7697622; 106.3036; After ; 4.410666; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 780.7358; 0.7697607; 106.3096; After ; 4.440078; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 780.6683; 0.7697606; 106.3126; After ; 4.45462; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 780.5342; 0.7697608; 106.3185; After ; 4.48423; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 780.4353; 0.7697604; 106.323; After ; 4.497945; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:35; 780.4353; 0.7697604; 106.323; After ; 4.497945; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 780.2764; 0.7697599; 106.3302; After ; 4.534836; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 780.2037; 0.7697603; 106.3336; After ; 4.551982; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 780.0516; 0.7697603; 106.3407; After ; 4.581081; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.9863; 0.7697607; 106.3438; After ; 4.597923; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.9131; 0.7697606; 106.3474; After ; 4.611101; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.7722; 0.7699308; 106.3542; After ; 4.640029; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.7722; 0.7699308; 106.3542; After ; 4.640029; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.5471; 0.7701399; 106.3654; After ; 4.679771; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.4717; 0.7701766; 106.3692; After ; 4.697541; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.3951; 0.7701997; 106.3731; After ; 4.71206; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.3247; 0.7702129; 106.3768; After ; 4.726726; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.1592; 0.77022; 106.3855; After ; 4.755268; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 779.0745; 0.7702138; 106.39; After ; 4.771322; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.9158; 0.7701931; 106.3986; After ; 4.801177; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.9158; 0.7701931; 106.3986; After ; 4.801177; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.7221; 0.7701595; 106.4093; After ; 4.83684; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.6428; 0.7701461; 106.4138; After ; 4.851946; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.4785; 0.7701172; 106.4231; After ; 4.882253; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.3947; 0.7701033; 106.4279; After ; 4.895857; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.3051; 0.7700889; 106.4331; After ; 4.9108; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.2141; 0.7700748; 106.4384; After ; 4.926681; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.0349; 0.7700524; 106.449; After ; 4.955918; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 778.0349; 0.7700524; 106.449; After ; 4.955918; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 777.7774; 0.7700281; 106.4644; After ; 5.000645; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 777.7774; 0.7700281; 106.4644; After ; 5.000645; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 777.6075; 0.7700166; 106.4747; After ; 5.033545; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 777.4565; 0.7700077; 106.4838; After ; 5.059606; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 777.3765; 0.770004; 106.4887; After ; 5.073125; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 777.1722; 0.7699971; 106.5012; After ; 5.103273; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 777.1722; 0.7699971; 106.5012; After ; 5.103273; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 777.0906; 0.7699952; 106.5061; After ; 5.120728; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 776.8472; 0.769989; 106.5209; Goal ; Total Time: 26.84684; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 776.762; 0.7699872; 106.5261; Goal ; Total Time: 26.86146; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 776.5688; 0.769987; 106.5377; Goal ; Total Time: 26.88819; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 776.5688; 0.769987; 106.5377; Goal ; Total Time: 26.88819; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 776.3891; 0.7699865; 106.5486; Goal ; Total Time: 26.92055; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 776.2867; 0.7699862; 106.5548; Goal ; Total Time: 26.93571; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 776.0987; 0.769985; 106.5662; Goal ; Total Time: 26.96612; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 775.9673; 0.7699848; 106.5741; Goal ; Total Time: 26.98202; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 775.8736; 0.7699847; 106.5798; Goal ; Total Time: 27.00281; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 775.7881; 0.769985; 106.585; Goal ; Total Time: 27.01755; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 775.6089; 0.7699862; 106.5959; Goal ; Total Time: 27.04358; null
+23; Bicycle; Interference; None; 24.10.2023 15:42:36; 775.5271; 0.7699862; 106.6009; Goal ; Total Time: 27.05894; null

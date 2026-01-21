@@ -1,0 +1,1340 @@
+user_id; scenario; distraction; ehmi; timestamp; userPositionX; userPositionY; userPositionZ; playerPositon; time; focused object
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:56; 805.1; -0.24; 241; HI; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:56; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:57; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:57; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:57; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:57; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:57; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:57; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:57; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:57; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 805.1; 0.001800179; 241; Sidewalk; 0.02; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3283; 0.001800179; 241.2969; Sidewalk; 0.04; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3283; 0.001800179; 241.2969; Sidewalk; 0.04; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3283; 0.001800179; 241.2969; Sidewalk; 0.04; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3283; 0.001800179; 241.2969; Sidewalk; 0.04; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3444; 0.00180006; 241.2755; Road; 0; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3427; 0.00180006; 241.2715; Road; 0.0955445; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3409; 0.00180006; 241.2688; Road; 0.1247369; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3409; 0.00180006; 241.2688; Road; 0.1247369; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3394; 0.00180006; 241.267; Road; 0.1471536; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3377; 0.00180006; 241.2653; Road; 0.1691917; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3339; 0.00180006; 241.2632; Road; 0.2021123; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3324; 0.00180006; 241.2627; Road; 0.2129773; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3307; 0.00180006; 241.2623; Road; 0.2253061; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3275; 0.00180006; 241.2617; Road; 0.2558503; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3244; 0.00180006; 241.2614; Road; 0.2719273; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3209; 0.00180006; 241.2614; Road; 0.2914553; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.317; 0.00180006; 241.2615; Road; 0.3133766; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3134; 0.00180006; 241.262; Road; 0.3359489; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3099; 0.00180006; 241.2627; Road; 0.3579569; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3081; 0.00180006; 241.2632; Road; 0.368567; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3052; 0.00180006; 241.2641; Road; 0.3986952; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3024; 0.00180006; 241.2651; Road; 0.4180305; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.301; 0.00180006; 241.2657; Road; 0.4273078; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2977; 0.00180006; 241.2672; Road; 0.4584027; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2963; 0.00180006; 241.2682; Road; 0.4798835; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2949; 0.00180006; 241.2691; Road; 0.5022733; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2942; 0.00180006; 241.2699; Road; 0.5248913; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2942; 0.00180006; 241.2699; Road; 0.5248913; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2945; 0.00180006; 241.271; Road; 0.5586485; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2946; 0.00180006; 241.2713; Road; 0.5681818; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2954; 0.00180006; 241.2721; Road; 0.6017092; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.296; 0.00180006; 241.2727; Road; 0.6245613; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2964; 0.00180006; 241.273; Road; 0.6348127; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2969; 0.00180006; 241.2734; Road; 0.6568123; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2979; 0.00180006; 241.2738; Road; 0.6794217; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.2983; 0.00180006; 241.274; Road; 0.6909434; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3002; 0.00180006; 241.2744; Road; 0.7239983; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3007; 0.00180006; 241.2744; Road; 0.7348776; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3017; 0.00180006; 241.2744; Road; 0.7568803; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.303; 0.00180006; 241.2743; Road; 0.7799882; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3033; 0.00180006; 241.2741; Road; 0.7902685; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3036; 0.00180006; 241.2738; Road; 0.8016894; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3036; 0.00180006; 241.2738; Road; 0.8016894; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3036; 0.00180006; 241.2738; Road; 0.8016894; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3051; 0.00180006; 241.2721; Road; 0.8134487; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3064; 0.00180006; 241.2706; Road; 0.8994724; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3071; 0.00180006; 241.2694; Road; 0.9218831; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3077; 0.00180006; 241.2688; Road; 0.9307026; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3088; 0.00180006; 241.2674; Road; 0.9478029; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3106; 0.00180006; 241.2651; Road; 0.9798114; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:58; 804.3116; 0.00180006; 241.2635; Road; 1.002011; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3121; 0.00180006; 241.2618; Road; 1.024275; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3121; 0.00180006; 241.2618; Road; 1.024275; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3127; 0.00180006; 241.2612; Road; 1.03542; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3148; 0.00180006; 241.2592; Road; 1.070431; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.316; 0.00180006; 241.2578; Road; 1.091384; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3178; 0.00180006; 241.2556; Road; 1.124755; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3178; 0.00180006; 241.2556; Road; 1.124755; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3198; 0.00180006; 241.2536; Road; 1.157967; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3204; 0.00180006; 241.2529; Road; 1.168457; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3217; 0.00180006; 241.2515; Road; 1.191418; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3243; 0.00180006; 241.2495; Road; 1.224632; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3252; 0.00180006; 241.2487; Road; 1.234818; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3271; 0.00180006; 241.2473; Road; 1.258033; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3287; 0.00180006; 241.2457; Road; 1.279822; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3298; 0.00180006; 241.2449; Road; 1.290563; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3337; 0.00180006; 241.2425; Road; 1.324852; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3337; 0.00180006; 241.2425; Road; 1.324852; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3372; 0.00180006; 241.2407; Road; 1.346987; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3429; 0.00180006; 241.2379; Road; 1.381037; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.345; 0.00180006; 241.237; Road; 1.390931; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.351; 0.00180006; 241.2335; Road; 1.424339; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.351; 0.00180006; 241.2335; Road; 1.424339; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3597; 0.00180006; 241.2301; Road; 1.458055; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.365; 0.00180006; 241.2282; Road; 1.480938; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3672; 0.00180006; 241.2272; Road; 1.490732; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3736; 0.00180006; 241.2257; Road; 1.518395; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3784; 0.00180006; 241.2246; Road; 1.536895; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3833; 0.00180006; 241.2238; Road; 1.557832; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3861; 0.00180006; 241.2232; Road; 1.580163; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3871; 0.00180006; 241.2228; Road; 1.591058; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3901; 0.00180006; 241.2226; Road; 1.613508; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3937; 0.00180006; 241.2226; Road; 1.636259; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3954; 0.00180006; 241.2227; Road; 1.646621; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.3981; 0.00180006; 241.2228; Road; 1.675162; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4006; 0.00180006; 241.223; Road; 1.692192; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4042; 0.00180006; 241.2235; Road; 1.72408; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4044; 0.00180006; 241.2236; Road; 1.735241; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4049; 0.00180006; 241.2238; Road; 1.757483; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4056; 0.00180006; 241.2241; Road; 1.779962; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.406; 0.00180006; 241.2243; Road; 1.790864; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4069; 0.00180006; 241.2248; Road; 1.813867; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4064; 0.00180006; 241.225; Road; 1.83204; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4063; 0.00180006; 241.2254; Road; 1.857478; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4067; 0.00180006; 241.2257; Road; 1.868306; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4062; 0.00180006; 241.2264; Road; 1.901851; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4062; 0.00180006; 241.227; Road; 1.924624; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4059; 0.00180006; 241.2272; Road; 1.935139; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4058; 0.00180006; 241.2278; Road; 1.957248; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4053; 0.00180006; 241.2281; Road; 1.968751; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:14:59; 804.4045; 0.00180006; 241.2289; Road; 2.004461; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4042; 0.00180006; 241.2291; Road; 2.013306; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4036; 0.00180006; 241.2294; Road; 2.023902; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4023; 0.00180006; 241.2302; Road; 2.057523; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4016; 0.00180006; 241.2306; Road; 2.079967; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.402; 0.00180006; 241.2311; Road; 2.101803; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4019; 0.00180006; 241.2312; Road; 2.113159; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4016; 0.00180006; 241.2313; Road; 2.125002; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4016; 0.00180006; 241.2315; Road; 2.151263; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4014; 0.00180006; 241.2317; Road; 2.179855; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4022; 0.00180006; 241.232; Road; 2.20205; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4018; 0.00180006; 241.232; Road; 2.223775; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4025; 0.00180006; 241.2321; Road; 2.235088; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4023; 0.00180006; 241.2321; Road; 2.246305; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.402; 0.00180006; 241.2321; Road; 2.269782; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4025; 0.00180006; 241.2322; Road; 2.297629; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4025; 0.00180006; 241.2321; Road; 2.318302; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4029; 0.00180006; 241.232; Road; 2.335846; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4031; 0.00180006; 241.2319; Road; 2.358112; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4037; 0.00180006; 241.2317; Road; 2.379588; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4035; 0.00180006; 241.2314; Road; 2.402609; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4039; 0.00180006; 241.2312; Road; 2.423958; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4039; 0.00180006; 241.2312; Road; 2.423958; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4037; 0.00180006; 241.231; Road; 2.452313; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4047; 0.00180006; 241.2309; Road; 2.479574; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.405; 0.00180006; 241.2308; Road; 2.490343; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4067; 0.00180006; 241.2308; Road; 2.52404; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4073; 0.00180006; 241.2307; Road; 2.53486; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4081; 0.00180006; 241.2307; Road; 2.557155; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4092; 0.00180006; 241.2306; Road; 2.580165; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4095; 0.00180006; 241.2306; Road; 2.590391; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4111; 0.00180006; 241.2305; Road; 2.62366; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4115; 0.00180006; 241.2305; Road; 2.634901; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.412; 0.00180006; 241.2303; Road; 2.657295; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4135; 0.00180006; 241.23; Road; 2.67983; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4148; 0.00180006; 241.2297; Road; 2.70161; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4166; 0.00180006; 241.2292; Road; 2.723636; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4187; 0.00180006; 241.2291; Road; 2.734583; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.42; 0.00180006; 241.2288; Road; 2.746148; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4236; 0.00180006; 241.2282; Road; 2.773208; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4269; 0.00180006; 241.2274; Road; 2.791327; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.432; 0.00180006; 241.2262; Road; 2.823803; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.432; 0.00180006; 241.2262; Road; 2.823803; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4383; 0.00180006; 241.2251; Road; 2.857878; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4421; 0.00180006; 241.2243; Road; 2.879594; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.444; 0.00180006; 241.2238; Road; 2.890196; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4479; 0.00180006; 241.2231; Road; 2.917754; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4499; 0.00180006; 241.2227; Road; 2.928816; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4567; 0.00180006; 241.2218; Road; 2.957982; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4606; 0.00180006; 241.2211; Road; 2.979606; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:00; 804.4641; 0.00180006; 241.2205; Road; 3.001525; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4677; 0.00180006; 241.2199; Road; 3.023883; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4677; 0.00180006; 241.2199; Road; 3.023883; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4706; 0.00180006; 241.2193; Road; 3.046698; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4741; 0.00180006; 241.2188; Road; 3.073255; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4769; 0.00180006; 241.2183; Road; 3.094587; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4805; 0.00180006; 241.2175; Road; 3.12361; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4818; 0.00180006; 241.2172; Road; 3.134468; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4852; 0.00180006; 241.2168; Road; 3.15764; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4875; 0.00180006; 241.2162; Road; 3.179488; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4901; 0.00180006; 241.2157; Road; 3.201931; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4914; 0.00180006; 241.2155; Road; 3.212916; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4927; 0.00180006; 241.2154; Road; 3.229447; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.4976; 0.00180006; 241.2149; Road; 3.257403; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5004; 0.00180006; 241.2147; Road; 3.279613; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5013; 0.00180006; 241.2145; Road; 3.290064; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5056; 0.00180006; 241.2142; Road; 3.323222; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5056; 0.00180006; 241.2142; Road; 3.323222; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5089; 0.00180006; 241.2138; Road; 3.357275; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5098; 0.00180006; 241.2137; Road; 3.368453; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5121; 0.00180006; 241.2134; Road; 3.39965; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5142; 0.00180006; 241.2133; Road; 3.417608; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5164; 0.00180006; 241.2133; Road; 3.436299; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5184; 0.00180006; 241.2133; Road; 3.456439; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5202; 0.00180006; 241.2132; Road; 3.47939; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.522; 0.00180006; 241.2132; Road; 3.501431; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5231; 0.00180006; 241.2132; Road; 3.51284; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5238; 0.00180006; 241.2132; Road; 3.523961; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5262; 0.00180006; 241.2134; Road; 3.558952; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5281; 0.00180006; 241.2136; Road; 3.57911; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5287; 0.00180006; 241.2137; Road; 3.589777; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5313; 0.00180006; 241.2141; Road; 3.62373; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.532; 0.00180006; 241.2142; Road; 3.635282; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5337; 0.00180006; 241.2145; Road; 3.656628; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5345; 0.00180006; 241.2147; Road; 3.668323; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5361; 0.00180006; 241.215; Road; 3.69832; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5378; 0.00180006; 241.2152; Road; 3.720698; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5386; 0.00180006; 241.2154; Road; 3.729544; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5411; 0.00180006; 241.2158; Road; 3.756733; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5428; 0.00180006; 241.2161; Road; 3.780332; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5447; 0.00180006; 241.2163; Road; 3.801331; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5464; 0.00180006; 241.2165; Road; 3.823587; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5464; 0.00180006; 241.2165; Road; 3.823587; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5479; 0.00180006; 241.2167; Road; 3.852309; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5491; 0.00180006; 241.2168; Road; 3.871896; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5508; 0.00180006; 241.2171; Road; 3.902049; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5519; 0.00180006; 241.2173; Road; 3.924329; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5526; 0.00180006; 241.2174; Road; 3.934422; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5536; 0.00180006; 241.2175; Road; 3.956243; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5549; 0.00180006; 241.2176; Road; 3.979136; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:01; 804.5554; 0.00180006; 241.2177; Road; 3.990774; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5577; 0.00180006; 241.2177; Road; 4.024957; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5583; 0.00180006; 241.2177; Road; 4.034263; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5595; 0.00180006; 241.2178; Road; 4.057244; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5606; 0.00180006; 241.2179; Road; 4.078941; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5616; 0.00180006; 241.218; Road; 4.101203; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5627; 0.00180006; 241.218; Road; 4.123457; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5634; 0.00180006; 241.2181; Road; 4.134321; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5637; 0.00180006; 241.218; Road; 4.145727; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5649; 0.00180006; 241.2181; Road; 4.179798; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5654; 0.00180006; 241.2181; Road; 4.201854; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5658; 0.00180006; 241.2181; Road; 4.223158; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5661; 0.00180006; 241.218; Road; 4.234058; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5662; 0.00180006; 241.218; Road; 4.256059; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5662; 0.00180006; 241.218; Road; 4.279388; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5661; 0.00180006; 241.218; Road; 4.289744; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5667; 0.00180006; 241.2179; Road; 4.326194; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5666; 0.00180006; 241.2179; Road; 4.334474; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5666; 0.00180006; 241.2178; Road; 4.345013; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5667; 0.00180006; 241.2176; Road; 4.371167; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5669; 0.00180006; 241.2175; Road; 4.398667; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5671; 0.00180006; 241.2171; Road; 4.424283; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5673; 0.00180006; 241.217; Road; 4.433993; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5674; 0.00180006; 241.2169; Road; 4.445735; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5679; 0.00180006; 241.2166; Road; 4.481921; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5681; 0.00180006; 241.2164; Road; 4.500991; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5681; 0.00180006; 241.2162; Road; 4.523518; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5681; 0.00180006; 241.2162; Road; 4.523518; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5686; 0.00180006; 241.216; Road; 4.557057; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5687; 0.00180006; 241.2158; Road; 4.57895; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5698; 0.00180006; 241.2156; Road; 4.60079; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5701; 0.00180006; 241.2154; Road; 4.612902; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5707; 0.00180006; 241.2153; Road; 4.631926; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5713; 0.00180006; 241.2148; Road; 4.65967; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5718; 0.00180006; 241.2146; Road; 4.6793; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.572; 0.00180006; 241.2143; Road; 4.701415; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5723; 0.00180006; 241.2141; Road; 4.722785; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5721; 0.00180006; 241.2139; Road; 4.734037; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.572; 0.00180006; 241.2136; Road; 4.756111; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5719; 0.00180006; 241.2135; Road; 4.767835; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5713; 0.00180006; 241.2134; Road; 4.800819; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5706; 0.00180006; 241.2133; Road; 4.823036; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.57; 0.00180006; 241.2133; Road; 4.833908; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5693; 0.00180006; 241.2133; Road; 4.856683; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5684; 0.00180006; 241.2134; Road; 4.87916; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.567; 0.00180006; 241.2135; Road; 4.901031; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5663; 0.00180006; 241.2135; Road; 4.911623; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5658; 0.00180006; 241.2135; Road; 4.923058; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5644; 0.00180006; 241.2136; Road; 4.950878; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.5618; 0.00180006; 241.2138; Road; 4.980938; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:02; 804.561; 0.00180006; 241.214; Road; 5.000544; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5592; 0.00180006; 241.214; Road; 5.022676; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5583; 0.00180006; 241.214; Road; 5.033835; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5564; 0.00180006; 241.2141; Road; 5.056169; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5554; 0.00180006; 241.2141; Road; 5.067258; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5527; 0.00180006; 241.2143; Road; 5.104961; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5513; 0.00180006; 241.2144; Road; 5.122778; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5509; 0.00180006; 241.2145; Road; 5.133671; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.549; 0.00180006; 241.2146; Road; 5.155817; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5469; 0.00180006; 241.2148; Road; 5.178259; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5448; 0.00180006; 241.2149; Road; 5.200711; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5432; 0.00180006; 241.2151; Road; 5.222641; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5432; 0.00180006; 241.2151; Road; 5.222641; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5411; 0.00180006; 241.2151; Road; 5.251298; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5384; 0.00180006; 241.2151; Road; 5.279075; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5369; 0.00180006; 241.215; Road; 5.300589; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5353; 0.00180006; 241.2148; Road; 5.322603; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5344; 0.00180006; 241.2146; Road; 5.333626; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5331; 0.00180006; 241.2144; Road; 5.356037; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5325; 0.00180006; 241.2141; Road; 5.37837; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5325; 0.00180006; 241.214; Road; 5.389994; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5319; 0.00180006; 241.2137; Road; 5.418975; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5315; 0.00180006; 241.2134; Road; 5.428452; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5302; 0.00180006; 241.2126; Road; 5.456877; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5294; 0.00180006; 241.2121; Road; 5.47933; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5285; 0.00180006; 241.2116; Road; 5.500695; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5273; 0.00180006; 241.2109; Road; 5.523052; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5269; 0.00180006; 241.2106; Road; 5.533555; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5269; 0.00180006; 241.2103; Road; 5.545348; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5261; 0.00180006; 241.2097; Road; 5.576355; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5258; 0.00180006; 241.2091; Road; 5.595435; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5256; 0.00180006; 241.2083; Road; 5.625364; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5258; 0.00180006; 241.2081; Road; 5.633512; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5256; 0.00180006; 241.2075; Road; 5.655862; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5252; 0.00180006; 241.2068; Road; 5.678072; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5256; 0.00180006; 241.2064; Road; 5.688854; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5252; 0.00180006; 241.2055; Road; 5.725421; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5248; 0.00180006; 241.2051; Road; 5.73349; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5248; 0.00180006; 241.2045; Road; 5.755722; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5245; 0.00180006; 241.2039; Road; 5.779048; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.525; 0.00180006; 241.2034; Road; 5.800327; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.525; 0.00180006; 241.2029; Road; 5.822811; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.525; 0.00180006; 241.2026; Road; 5.833507; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5248; 0.00180006; 241.2024; Road; 5.844927; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5245; 0.00180006; 241.2017; Road; 5.882091; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5245; 0.00180006; 241.2011; Road; 5.900671; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5247; 0.00180006; 241.2006; Road; 5.922267; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5245; 0.00180006; 241.2004; Road; 5.93392; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5239; 0.00180006; 241.1999; Road; 5.956432; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5236; 0.00180006; 241.1994; Road; 5.978518; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:03; 804.5235; 0.00180006; 241.1991; Road; 6.000292; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5232; 0.00180006; 241.1989; Road; 6.012072; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5225; 0.00180006; 241.1985; Road; 6.037638; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5217; 0.00180006; 241.1982; Road; 6.055559; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5209; 0.00180006; 241.1981; Road; 6.078786; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5204; 0.00180006; 241.1979; Road; 6.100768; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5196; 0.00180006; 241.1977; Road; 6.122436; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5187; 0.00180006; 241.1976; Road; 6.133877; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5175; 0.00180006; 241.1974; Road; 6.155364; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5171; 0.00180006; 241.1974; Road; 6.167725; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5156; 0.00180006; 241.1973; Road; 6.2052; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5143; 0.00180006; 241.1971; Road; 6.222504; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5137; 0.00180006; 241.1971; Road; 6.234431; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5129; 0.00180006; 241.197; Road; 6.255825; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5116; 0.00180006; 241.1969; Road; 6.278481; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5109; 0.00180006; 241.1969; Road; 6.300337; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5105; 0.00180006; 241.1968; Road; 6.310984; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5102; 0.00180006; 241.1968; Road; 6.322405; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5089; 0.00180006; 241.1966; Road; 6.356959; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5086; 0.00180006; 241.1966; Road; 6.367195; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5086; 0.00180006; 241.1966; Road; 6.367195; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5072; 0.00180006; 241.1965; Road; 6.422469; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5071; 0.00180006; 241.1964; Road; 6.433808; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5071; 0.00180006; 241.1965; Road; 6.45185; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5068; 0.00180006; 241.1964; Road; 6.47071; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.507; 0.00180006; 241.1964; Road; 6.497998; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.507; 0.00180006; 241.1965; Road; 6.517875; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5068; 0.00180006; 241.1965; Road; 6.536176; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5063; 0.00180006; 241.1966; Road; 6.555825; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5059; 0.00180006; 241.1967; Road; 6.578325; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5057; 0.00180006; 241.1969; Road; 6.601035; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.505; 0.00180006; 241.1971; Road; 6.622306; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.505; 0.00180006; 241.1971; Road; 6.622306; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.504; 0.00180006; 241.1973; Road; 6.651837; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5024; 0.00180006; 241.1977; Road; 6.678718; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5012; 0.00180006; 241.198; Road; 6.700543; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.5002; 0.00180006; 241.1985; Road; 6.722261; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4993; 0.00180006; 241.1986; Road; 6.733507; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4976; 0.00180006; 241.199; Road; 6.755788; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4957; 0.00180006; 241.1994; Road; 6.777824; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4947; 0.00180006; 241.1996; Road; 6.789155; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.493; 0.00180006; 241.2001; Road; 6.820711; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4918; 0.00180006; 241.2003; Road; 6.82906; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4883; 0.00180006; 241.201; Road; 6.857264; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4863; 0.00180006; 241.2015; Road; 6.879255; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4843; 0.00180006; 241.2019; Road; 6.900938; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4824; 0.00180006; 241.2024; Road; 6.922181; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.482; 0.00180006; 241.2026; Road; 6.933678; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.481; 0.00180006; 241.2029; Road; 6.945107; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4788; 0.00180006; 241.2037; Road; 6.982985; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:04; 804.4774; 0.00180006; 241.2043; Road; 7.000366; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.476; 0.00180006; 241.2045; Road; 7.021792; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4753; 0.00180006; 241.2047; Road; 7.033119; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4739; 0.00180006; 241.2051; Road; 7.054879; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4724; 0.00180006; 241.2055; Road; 7.077207; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4716; 0.00180006; 241.2057; Road; 7.088268; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.47; 0.00180006; 241.206; Road; 7.116148; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4688; 0.00180006; 241.2063; Road; 7.136692; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4674; 0.00180006; 241.2065; Road; 7.155319; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4669; 0.00180006; 241.2068; Road; 7.177697; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4661; 0.00180006; 241.207; Road; 7.199883; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4657; 0.00180006; 241.2071; Road; 7.221827; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4654; 0.00180006; 241.2072; Road; 7.233002; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4651; 0.00180006; 241.2071; Road; 7.243978; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4645; 0.00180006; 241.2072; Road; 7.272871; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4634; 0.00180006; 241.2073; Road; 7.300103; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4625; 0.00180006; 241.2074; Road; 7.321758; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4621; 0.00180006; 241.2074; Road; 7.333342; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4615; 0.00180006; 241.2075; Road; 7.354774; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4608; 0.00180006; 241.2076; Road; 7.377184; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4601; 0.00180006; 241.2075; Road; 7.399853; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4595; 0.00180006; 241.2075; Road; 7.41111; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4587; 0.00180006; 241.2075; Road; 7.436951; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4577; 0.00180006; 241.2075; Road; 7.454588; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4567; 0.00180006; 241.2074; Road; 7.476924; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4554; 0.00180006; 241.2072; Road; 7.499817; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4542; 0.00180006; 241.2069; Road; 7.521879; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4536; 0.00180006; 241.2068; Road; 7.53354; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4525; 0.00180006; 241.2067; Road; 7.554494; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4518; 0.00180006; 241.2066; Road; 7.566541; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4496; 0.00180006; 241.2063; Road; 7.600982; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4483; 0.00180006; 241.2061; Road; 7.622495; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4476; 0.00180006; 241.206; Road; 7.633232; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4461; 0.00180006; 241.2058; Road; 7.654738; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4448; 0.00180006; 241.2055; Road; 7.676636; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4433; 0.00180006; 241.2053; Road; 7.699306; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4427; 0.00180006; 241.2052; Road; 7.71029; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4418; 0.00180006; 241.205; Road; 7.721979; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4391; 0.00180006; 241.2047; Road; 7.756321; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4371; 0.00180006; 241.2044; Road; 7.776867; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4349; 0.00180006; 241.2042; Road; 7.799193; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4334; 0.00180006; 241.2041; Road; 7.821464; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4327; 0.00180006; 241.204; Road; 7.832399; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4309; 0.00180006; 241.2039; Road; 7.854728; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4304; 0.00180006; 241.2037; Road; 7.866446; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4282; 0.00180006; 241.2034; Road; 7.904333; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4269; 0.00180006; 241.2032; Road; 7.922154; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4266; 0.00180006; 241.2031; Road; 7.93273; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4255; 0.00180006; 241.203; Road; 7.954712; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4247; 0.00180006; 241.2028; Road; 7.977055; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:05; 804.4241; 0.00180006; 241.2027; Road; 7.999382; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4237; 0.00180006; 241.2026; Road; 8.021985; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4237; 0.00180006; 241.2026; Road; 8.021985; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4236; 0.00180006; 241.2024; Road; 8.058989; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.423; 0.00180006; 241.2023; Road; 8.077228; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4229; 0.00180006; 241.2022; Road; 8.099496; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4232; 0.00180006; 241.2022; Road; 8.122192; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.423; 0.00180006; 241.2021; Road; 8.132894; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4228; 0.00180006; 241.202; Road; 8.154843; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4225; 0.00180006; 241.2017; Road; 8.177521; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4225; 0.00180006; 241.2017; Road; 8.188456; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4221; 0.00180006; 241.2013; Road; 8.221957; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4221; 0.00180006; 241.2012; Road; 8.232722; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.422; 0.00180006; 241.201; Road; 8.254371; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4214; 0.00180006; 241.2007; Road; 8.276906; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4214; 0.00180006; 241.2005; Road; 8.299457; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4213; 0.00180006; 241.2002; Road; 8.322328; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4213; 0.00180006; 241.2001; Road; 8.332268; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4213; 0.00180006; 241.2; Road; 8.343951; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4216; 0.00180006; 241.1999; Road; 8.371237; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4218; 0.00180006; 241.1996; Road; 8.401074; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4213; 0.00180006; 241.1994; Road; 8.421641; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4213; 0.00180006; 241.1992; Road; 8.432279; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4216; 0.00180006; 241.1991; Road; 8.455632; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4216; 0.00180006; 241.1989; Road; 8.476442; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4218; 0.00180006; 241.1988; Road; 8.488829; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4214; 0.00180006; 241.1984; Road; 8.525964; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4211; 0.00180006; 241.1983; Road; 8.534228; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4211; 0.00180006; 241.198; Road; 8.554359; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.421; 0.00180006; 241.1978; Road; 8.576726; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4216; 0.00180006; 241.1977; Road; 8.599382; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4222; 0.00180006; 241.1977; Road; 8.62138; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4225; 0.00180006; 241.1977; Road; 8.632878; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4227; 0.00180006; 241.1977; Road; 8.6434; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4238; 0.00180006; 241.1977; Road; 8.681279; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.424; 0.00180006; 241.1977; Road; 8.699721; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4246; 0.00180006; 241.1978; Road; 8.721079; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.425; 0.00180006; 241.1978; Road; 8.73243; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4259; 0.00180006; 241.198; Road; 8.754278; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4266; 0.00180006; 241.1981; Road; 8.776419; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4274; 0.00180006; 241.1982; Road; 8.798738; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4275; 0.00180006; 241.1983; Road; 8.810738; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4282; 0.00180006; 241.1986; Road; 8.836923; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4294; 0.00180006; 241.1988; Road; 8.854424; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4302; 0.00180006; 241.199; Road; 8.876215; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4311; 0.00180006; 241.1991; Road; 8.898916; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4322; 0.00180006; 241.1993; Road; 8.921417; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4327; 0.00180006; 241.1994; Road; 8.931867; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4337; 0.00180006; 241.1995; Road; 8.953937; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4351; 0.00180006; 241.1998; Road; 8.981793; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:06; 804.4361; 0.00180006; 241.1999; Road; 8.999305; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4375; 0.00180006; 241.2001; Road; 9.021581; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.438; 0.00180006; 241.2002; Road; 9.03173; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.439; 0.00180006; 241.2002; Road; 9.054072; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4402; 0.00180006; 241.2004; Road; 9.077376; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4411; 0.00180006; 241.2005; Road; 9.098697; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4415; 0.00180006; 241.2006; Road; 9.109738; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4415; 0.00180006; 241.2006; Road; 9.109738; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4422; 0.00180006; 241.2007; Road; 9.121343; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4432; 0.00180006; 241.2009; Road; 9.175577; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4445; 0.00180006; 241.2009; Road; 9.203997; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4452; 0.00180006; 241.201; Road; 9.221953; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4453; 0.00180006; 241.2009; Road; 9.232554; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4466; 0.00180006; 241.201; Road; 9.254268; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4467; 0.00180006; 241.201; Road; 9.265723; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4479; 0.00180006; 241.2011; Road; 9.295683; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.449; 0.00180006; 241.2011; Road; 9.32519; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4494; 0.00180006; 241.2011; Road; 9.333329; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4501; 0.00180006; 241.2013; Road; 9.354145; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4509; 0.00180006; 241.2013; Road; 9.375912; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4518; 0.00180006; 241.2012; Road; 9.398973; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4528; 0.00180006; 241.2013; Road; 9.421793; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4528; 0.00180006; 241.2013; Road; 9.421793; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4541; 0.00180006; 241.2014; Road; 9.459117; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4551; 0.00180006; 241.2014; Road; 9.476601; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4561; 0.00180006; 241.2012; Road; 9.501011; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4568; 0.00180006; 241.2011; Road; 9.522186; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4571; 0.00180006; 241.201; Road; 9.531713; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4578; 0.00180006; 241.201; Road; 9.554235; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4584; 0.00180006; 241.201; Road; 9.576123; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4593; 0.00180006; 241.201; Road; 9.604332; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4601; 0.00180006; 241.201; Road; 9.621216; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4604; 0.00180006; 241.201; Road; 9.631475; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4613; 0.00180006; 241.2011; Road; 9.654021; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4622; 0.00180006; 241.2013; Road; 9.675891; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4629; 0.00180006; 241.2014; Road; 9.69904; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4632; 0.00180006; 241.2016; Road; 9.721177; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4633; 0.00180006; 241.2017; Road; 9.731887; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4637; 0.00180006; 241.2019; Road; 9.743718; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4639; 0.00180006; 241.2021; Road; 9.777989; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4639; 0.00180006; 241.2024; Road; 9.798747; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4641; 0.00180006; 241.2026; Road; 9.821618; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4641; 0.00180006; 241.2027; Road; 9.831505; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4639; 0.00180006; 241.2029; Road; 9.853927; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4639; 0.00180006; 241.203; Road; 9.876673; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4642; 0.00180006; 241.2031; Road; 9.887679; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4641; 0.00180006; 241.2032; Road; 9.918993; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.464; 0.00180006; 241.2033; Road; 9.930346; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.464; 0.00180006; 241.2034; Road; 9.950604; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4639; 0.00180006; 241.2037; Road; 9.978445; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:07; 804.4637; 0.00180006; 241.2037; Road; 9.998076; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4631; 0.00180006; 241.2038; Road; 10.02103; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.463; 0.00180006; 241.2038; Road; 10.03306; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4629; 0.00180006; 241.2038; Road; 10.04336; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4628; 0.00180006; 241.2038; Road; 10.0743; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4625; 0.00180006; 241.2039; Road; 10.10367; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4622; 0.00180006; 241.204; Road; 10.12078; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.462; 0.00180006; 241.204; Road; 10.13148; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.462; 0.00180006; 241.2041; Road; 10.15374; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4608; 0.00180006; 241.2042; Road; 10.17585; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4603; 0.00180006; 241.2043; Road; 10.1981; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4599; 0.00180006; 241.2043; Road; 10.20913; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4596; 0.00180006; 241.2045; Road; 10.2373; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4587; 0.00180006; 241.2045; Road; 10.25366; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4573; 0.00180006; 241.2045; Road; 10.27648; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4565; 0.00180006; 241.2046; Road; 10.29863; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4556; 0.00180006; 241.2047; Road; 10.32102; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.455; 0.00180006; 241.2047; Road; 10.33162; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4541; 0.00180006; 241.2048; Road; 10.3537; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4537; 0.00180006; 241.2048; Road; 10.36537; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4523; 0.00180006; 241.205; Road; 10.40018; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.451; 0.00180006; 241.2051; Road; 10.42076; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4507; 0.00180006; 241.2052; Road; 10.43134; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4502; 0.00180006; 241.2053; Road; 10.45457; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4496; 0.00180006; 241.2053; Road; 10.47578; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4495; 0.00180006; 241.2054; Road; 10.49822; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4491; 0.00180006; 241.2055; Road; 10.50917; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4487; 0.00180006; 241.2054; Road; 10.53689; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4481; 0.00180006; 241.2054; Road; 10.55358; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4478; 0.00180006; 241.2054; Road; 10.57608; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4472; 0.00180006; 241.2054; Road; 10.59795; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4472; 0.00180006; 241.2054; Road; 10.62099; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4473; 0.00180006; 241.2054; Road; 10.63081; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4474; 0.00180006; 241.2053; Road; 10.65417; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4474; 0.00180006; 241.2052; Road; 10.66518; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4476; 0.00180006; 241.205; Road; 10.69542; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4483; 0.00180006; 241.2047; Road; 10.72442; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4492; 0.00180006; 241.2047; Road; 10.73143; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4495; 0.00180006; 241.2046; Road; 10.75465; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.45; 0.00180006; 241.2044; Road; 10.77555; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4504; 0.00180006; 241.2042; Road; 10.79801; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4512; 0.00180006; 241.204; Road; 10.82056; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4512; 0.00180006; 241.204; Road; 10.82056; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4514; 0.00180006; 241.2037; Road; 10.85896; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.452; 0.00180006; 241.2035; Road; 10.87588; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4529; 0.00180006; 241.2034; Road; 10.8981; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4537; 0.00180006; 241.2033; Road; 10.92123; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.454; 0.00180006; 241.2032; Road; 10.9313; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4548; 0.00180006; 241.2031; Road; 10.95354; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4556; 0.00180006; 241.2029; Road; 10.97628; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:08; 804.4557; 0.00180006; 241.2027; Road; 11.00471; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4571; 0.00180006; 241.2026; Road; 11.02133; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4572; 0.00180006; 241.2025; Road; 11.03128; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4576; 0.00180006; 241.2023; Road; 11.05417; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4579; 0.00180006; 241.2022; Road; 11.07569; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4586; 0.00180006; 241.2021; Road; 11.09825; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4586; 0.00180006; 241.2021; Road; 11.12068; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4581; 0.00180006; 241.202; Road; 11.13205; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4584; 0.00180006; 241.202; Road; 11.15768; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4584; 0.00180006; 241.2019; Road; 11.17626; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4577; 0.00180006; 241.2018; Road; 11.19755; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4573; 0.00180006; 241.2017; Road; 11.22125; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4568; 0.00180006; 241.2016; Road; 11.23074; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4561; 0.00180006; 241.2014; Road; 11.25337; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4562; 0.00180006; 241.2013; Road; 11.27634; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4564; 0.00180006; 241.2012; Road; 11.28749; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4557; 0.00180006; 241.2009; Road; 11.32513; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4557; 0.00180006; 241.2008; Road; 11.33444; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4561; 0.00180006; 241.2007; Road; 11.35339; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.456; 0.00180006; 241.2006; Road; 11.37581; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4561; 0.00180006; 241.2003; Road; 11.39903; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4558; 0.00180006; 241.2001; Road; 11.42036; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4559; 0.00180006; 241.2; Road; 11.43318; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4556; 0.00180006; 241.1998; Road; 11.44469; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4557; 0.00180006; 241.1997; Road; 11.47152; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4565; 0.00180006; 241.1995; Road; 11.5016; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4572; 0.00180006; 241.1995; Road; 11.52073; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4576; 0.00180006; 241.1995; Road; 11.53099; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4588; 0.00180006; 241.1995; Road; 11.55394; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4592; 0.00180006; 241.1995; Road; 11.57523; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4606; 0.00180006; 241.1997; Road; 11.59763; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4615; 0.00180006; 241.1999; Road; 11.62493; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.462; 0.00180006; 241.2; Road; 11.63423; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4631; 0.00180006; 241.2002; Road; 11.65385; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4644; 0.00180006; 241.2005; Road; 11.6761; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4659; 0.00180006; 241.2008; Road; 11.69799; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4672; 0.00180006; 241.2012; Road; 11.72081; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4682; 0.00180006; 241.2015; Road; 11.73089; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4696; 0.00180006; 241.202; Road; 11.75504; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4696; 0.00180006; 241.202; Road; 11.75504; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4727; 0.00180006; 241.2029; Road; 11.79136; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4755; 0.00180006; 241.2036; Road; 11.82114; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4766; 0.00180006; 241.204; Road; 11.83038; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4801; 0.00180006; 241.2051; Road; 11.85634; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4801; 0.00180006; 241.2051; Road; 11.85634; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4838; 0.00180006; 241.2062; Road; 11.86444; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4852; 0.00180006; 241.2067; Road; 11.90589; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4875; 0.00180006; 241.2076; Road; 11.91788; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4895; 0.00180006; 241.2084; Road; 11.9534; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4924; 0.00180006; 241.2094; Road; 11.98047; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:09; 804.4948; 0.00180006; 241.21; Road; 11.99793; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.4975; 0.00180006; 241.2106; Road; 12.0213; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.4993; 0.00180006; 241.2109; Road; 12.03086; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.502; 0.00180006; 241.2113; Road; 12.05379; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5037; 0.00180006; 241.2116; Road; 12.06475; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.507; 0.00180006; 241.212; Road; 12.09394; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5117; 0.00180006; 241.2125; Road; 12.11865; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5132; 0.00180006; 241.2127; Road; 12.13167; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5164; 0.00180006; 241.213; Road; 12.15343; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.52; 0.00180006; 241.2134; Road; 12.1754; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5229; 0.00180006; 241.2136; Road; 12.19859; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5262; 0.00180006; 241.2138; Road; 12.22144; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5262; 0.00180006; 241.2138; Road; 12.22144; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5315; 0.00180006; 241.2138; Road; 12.25176; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5354; 0.00180006; 241.2138; Road; 12.28246; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5394; 0.00180006; 241.2137; Road; 12.29856; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5444; 0.00180006; 241.2136; Road; 12.31972; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5467; 0.00180006; 241.2135; Road; 12.33074; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5516; 0.00180006; 241.2132; Road; 12.3529; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5572; 0.00180006; 241.2126; Road; 12.37531; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5625; 0.00180006; 241.212; Road; 12.4036; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.568; 0.00180006; 241.2112; Road; 12.42211; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5712; 0.00180006; 241.2108; Road; 12.43043; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.577; 0.00180006; 241.2098; Road; 12.45278; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5827; 0.00180006; 241.2087; Road; 12.47524; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.5892; 0.00180006; 241.2076; Road; 12.49763; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.595; 0.00180006; 241.2063; Road; 12.5198; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.598; 0.00180006; 241.2056; Road; 12.53076; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6039; 0.00180006; 241.2041; Road; 12.55685; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6096; 0.00180006; 241.2027; Road; 12.57838; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6151; 0.00180006; 241.2012; Road; 12.5982; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6202; 0.00180006; 241.1997; Road; 12.62; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6229; 0.00180006; 241.1989; Road; 12.63033; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6281; 0.00180006; 241.1973; Road; 12.653; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6328; 0.00180006; 241.1956; Road; 12.67482; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6353; 0.00180006; 241.1948; Road; 12.68636; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6422; 0.00180006; 241.1925; Road; 12.72576; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6445; 0.00180006; 241.1917; Road; 12.73375; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6496; 0.00180006; 241.1904; Road; 12.75295; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6542; 0.00180006; 241.189; Road; 12.77494; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6588; 0.00180006; 241.1877; Road; 12.79734; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6628; 0.00180006; 241.1863; Road; 12.82011; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6648; 0.00180006; 241.1857; Road; 12.83071; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6667; 0.00180006; 241.1851; Road; 12.84213; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6718; 0.00180006; 241.1833; Road; 12.87911; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6755; 0.00180006; 241.1821; Road; 12.8975; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6786; 0.00180006; 241.181; Road; 12.91979; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6801; 0.00180006; 241.1805; Road; 12.9304; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6829; 0.00180006; 241.1794; Road; 12.95304; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6856; 0.00180006; 241.1785; Road; 12.97514; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:10; 804.6882; 0.00180006; 241.1777; Road; 12.99718; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.6904; 0.00180006; 241.1771; Road; 13.02437; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.6914; 0.00180006; 241.1768; Road; 13.03263; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.6935; 0.00180006; 241.1763; Road; 13.05273; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.6959; 0.00180006; 241.1761; Road; 13.0751; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.6982; 0.00180006; 241.176; Road; 13.0751; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7003; 0.00180006; 241.1759; Road; 13.0751; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7014; 0.00180006; 241.1759; Road; 13.0751; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7032; 0.00180006; 241.176; Sidewalk; 0.3733333; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7054; 0.00180006; 241.176; Sidewalk; 0.4006341; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7069; 0.00180006; 241.1761; Sidewalk; 0.4187066; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7086; 0.00180006; 241.1762; Sidewalk; 0.4406919; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7093; 0.00180006; 241.1763; Sidewalk; 0.4514315; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7105; 0.00180006; 241.1765; Sidewalk; 0.4732982; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7115; 0.00180006; 241.1768; Sidewalk; 0.4955721; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7125; 0.00180006; 241.1769; Sidewalk; 0.5179992; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.713; 0.00180006; 241.1769; Sidewalk; 0.5402442; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7134; 0.00180006; 241.177; Sidewalk; 0.556093; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7142; 0.00180006; 241.1769; Sidewalk; 0.5746484; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7146; 0.00180006; 241.1769; Sidewalk; 0.5957965; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7151; 0.00180006; 241.1768; Sidewalk; 0.617814; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7159; 0.00180006; 241.1765; Sidewalk; 0.6408051; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7164; 0.00180006; 241.1764; Sidewalk; 0.6516454; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7169; 0.00180006; 241.1761; Sidewalk; 0.6735417; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.717; 0.00180006; 241.1759; Sidewalk; 0.6849512; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7183; 0.00180006; 241.1754; Sidewalk; 0.7228398; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7188; 0.00180006; 241.1749; Sidewalk; 0.7402772; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7192; 0.00180006; 241.1746; Sidewalk; 0.7511044; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7203; 0.00180006; 241.1741; Sidewalk; 0.7739334; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7214; 0.00180006; 241.1737; Sidewalk; 0.796664; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7221; 0.00180006; 241.1731; Sidewalk; 0.8177047; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7235; 0.00180006; 241.1725; Sidewalk; 0.8412842; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7235; 0.00180006; 241.1725; Sidewalk; 0.8412842; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7244; 0.00180006; 241.1718; Sidewalk; 0.8711664; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7261; 0.00180006; 241.1705; Sidewalk; 0.9003033; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7272; 0.00180006; 241.1696; Sidewalk; 0.9182773; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7277; 0.00180006; 241.1686; Sidewalk; 0.9412116; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7283; 0.00180006; 241.1681; Sidewalk; 0.9512118; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7294; 0.00180006; 241.1671; Sidewalk; 0.9742219; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7305; 0.00180006; 241.1661; Sidewalk; 0.996207; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7322; 0.00180006; 241.1651; Sidewalk; 1.024373; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7342; 0.00180006; 241.1642; Sidewalk; 1.042932; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7349; 0.00180006; 241.1638; Sidewalk; 1.050896; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7366; 0.00180006; 241.1629; Sidewalk; 1.073253; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7381; 0.00180006; 241.1618; Sidewalk; 1.095607; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7395; 0.00180006; 241.1607; Sidewalk; 1.118061; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7413; 0.00180006; 241.1597; Sidewalk; 1.139925; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7423; 0.00180006; 241.1592; Sidewalk; 1.151195; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7432; 0.00180006; 241.1587; Sidewalk; 1.162492; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7454; 0.00180006; 241.1569; Sidewalk; 1.203443; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:11; 804.7474; 0.00180006; 241.1558; Sidewalk; 1.219627; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7493; 0.00180006; 241.1547; Sidewalk; 1.239989; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7504; 0.00180006; 241.1541; Sidewalk; 1.25114; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7525; 0.00180006; 241.153; Sidewalk; 1.272996; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7551; 0.00180006; 241.1519; Sidewalk; 1.296084; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.756; 0.00180006; 241.1512; Sidewalk; 1.307197; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7599; 0.00180006; 241.1493; Sidewalk; 1.344847; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7612; 0.00180006; 241.1487; Sidewalk; 1.351834; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7636; 0.00180006; 241.1473; Sidewalk; 1.373014; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7662; 0.00180006; 241.1459; Sidewalk; 1.395352; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7686; 0.00180006; 241.1445; Sidewalk; 1.417496; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7706; 0.00180006; 241.1431; Sidewalk; 1.440369; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7719; 0.00180006; 241.1424; Sidewalk; 1.451422; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7739; 0.00180006; 241.141; Sidewalk; 1.473129; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7759; 0.00180006; 241.1395; Sidewalk; 1.50033; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7783; 0.00180006; 241.1382; Sidewalk; 1.519958; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7796; 0.00180006; 241.1369; Sidewalk; 1.540568; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7805; 0.00180006; 241.1362; Sidewalk; 1.550649; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7822; 0.00180006; 241.1349; Sidewalk; 1.572885; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7834; 0.00180006; 241.1336; Sidewalk; 1.595762; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7846; 0.00180006; 241.1324; Sidewalk; 1.618705; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7858; 0.00180006; 241.1314; Sidewalk; 1.645325; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7865; 0.00180006; 241.1309; Sidewalk; 1.652877; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7874; 0.00180006; 241.1299; Sidewalk; 1.672786; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7882; 0.00180006; 241.129; Sidewalk; 1.695256; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7886; 0.00180006; 241.1282; Sidewalk; 1.718135; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7892; 0.00180006; 241.1276; Sidewalk; 1.740439; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7894; 0.00180006; 241.1273; Sidewalk; 1.7515; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7898; 0.00180006; 241.1268; Sidewalk; 1.773724; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7904; 0.00180006; 241.1264; Sidewalk; 1.8011; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7904; 0.00180006; 241.126; Sidewalk; 1.819251; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7904; 0.00180006; 241.126; Sidewalk; 1.819251; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7904; 0.00180006; 241.126; Sidewalk; 1.819251; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7905; 0.00180006; 241.1254; Sidewalk; 1.876491; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7905; 0.00180006; 241.1252; Sidewalk; 1.898352; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7904; 0.00180006; 241.1252; Sidewalk; 1.917879; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7905; 0.00180006; 241.1252; Sidewalk; 1.929455; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7904; 0.00180006; 241.1252; Sidewalk; 1.939964; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7902; 0.00180006; 241.1255; Sidewalk; 1.972466; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7899; 0.00180006; 241.1263; Sidewalk; 2.000116; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7891; 0.00180006; 241.127; Sidewalk; 2.017441; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.788; 0.00180006; 241.1277; Sidewalk; 2.04014; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7876; 0.00180006; 241.1282; Sidewalk; 2.051483; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7872; 0.00180006; 241.1294; Sidewalk; 2.074488; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7866; 0.00180006; 241.13; Sidewalk; 2.085154; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7859; 0.00180006; 241.1312; Sidewalk; 2.114367; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.784; 0.00180006; 241.133; Sidewalk; 2.144645; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7833; 0.00180006; 241.1336; Sidewalk; 2.152637; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.782; 0.00180006; 241.1348; Sidewalk; 2.173708; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7808; 0.00180006; 241.136; Sidewalk; 2.195677; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:12; 804.7796; 0.00180006; 241.137; Sidewalk; 2.21688; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7781; 0.00180006; 241.1379; Sidewalk; 2.240031; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.777; 0.00180006; 241.1384; Sidewalk; 2.251169; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7759; 0.00180006; 241.1394; Sidewalk; 2.275419; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7749; 0.00180006; 241.1404; Sidewalk; 2.295362; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7735; 0.00180006; 241.1414; Sidewalk; 2.317176; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7717; 0.00180006; 241.1425; Sidewalk; 2.339936; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.771; 0.00180006; 241.1431; Sidewalk; 2.350808; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.769; 0.00180006; 241.1441; Sidewalk; 2.373161; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7672; 0.00180006; 241.1453; Sidewalk; 2.395448; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7653; 0.00180006; 241.1464; Sidewalk; 2.421788; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7628; 0.00180006; 241.1476; Sidewalk; 2.43926; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7622; 0.00180006; 241.1482; Sidewalk; 2.45046; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.76; 0.00180006; 241.1494; Sidewalk; 2.472506; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7572; 0.00180006; 241.1506; Sidewalk; 2.496243; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7545; 0.00180006; 241.1519; Sidewalk; 2.517964; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7515; 0.00180006; 241.1533; Sidewalk; 2.54029; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7498; 0.00180006; 241.154; Sidewalk; 2.550258; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7467; 0.00180006; 241.1554; Sidewalk; 2.578623; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7435; 0.00180006; 241.1568; Sidewalk; 2.598342; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7399; 0.00180006; 241.1582; Sidewalk; 2.616653; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7363; 0.00180006; 241.1598; Sidewalk; 2.639748; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7344; 0.00180006; 241.1606; Sidewalk; 2.650602; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7301; 0.00180006; 241.1623; Sidewalk; 2.672822; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7252; 0.00180006; 241.1641; Sidewalk; 2.695524; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7202; 0.00180006; 241.1661; Sidewalk; 2.717012; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7139; 0.00180006; 241.168; Sidewalk; 2.742318; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7111; 0.00180006; 241.1692; Sidewalk; 2.750546; Checking Box Human Car
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.7042; 0.00180006; 241.1716; Sidewalk; 2.772184; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6981; 0.00180006; 241.1742; Sidewalk; 2.783673; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6923; 0.00180006; 241.1769; Road; 13.1523; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6867; 0.00180006; 241.1796; Road; 13.17426; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6856; 0.00180006; 241.1811; Road; 13.18624; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6827; 0.00180006; 241.1836; Road; 13.20784; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.679; 0.00180006; 241.1857; Road; 13.23254; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6765; 0.00180006; 241.1877; Road; 13.2522; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6749; 0.00180006; 241.1895; Road; 13.27406; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6744; 0.00180006; 241.1904; Road; 13.28512; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6735; 0.00180006; 241.1922; Road; 13.30726; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6725; 0.00180006; 241.1938; Road; 13.33031; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6715; 0.00180006; 241.1955; Road; 13.35225; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6716; 0.00180006; 241.1973; Road; 13.37955; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6721; 0.00180006; 241.1981; Road; 13.38699; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6725; 0.00180006; 241.1996; Road; 13.40833; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6741; 0.00180006; 241.2012; Road; 13.43019; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6761; 0.00180006; 241.2025; Road; 13.4519; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6786; 0.00180006; 241.2036; Road; 13.47414; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6801; 0.00180006; 241.2041; Road; 13.48516; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6836; 0.00180006; 241.2049; Road; 13.50694; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6875; 0.00180006; 241.2053; Road; 13.53447; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:13; 804.6913; 0.00180006; 241.2055; Road; 13.55187; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.6955; 0.00180006; 241.2055; Road; 13.5746; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.6978; 0.00180006; 241.2054; Road; 13.5746; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7028; 0.00180006; 241.2051; Road; 13.5746; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7078; 0.00180006; 241.2045; Sidewalk; 2.82829; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7132; 0.00180006; 241.2038; Sidewalk; 2.849313; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7184; 0.00180006; 241.203; Sidewalk; 2.871779; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7209; 0.00180006; 241.2024; Sidewalk; 2.887574; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7269; 0.00180006; 241.2017; Sidewalk; 2.905501; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7324; 0.00180006; 241.2007; Sidewalk; 2.927893; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.738; 0.00180006; 241.1996; Sidewalk; 2.950032; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7438; 0.00180006; 241.1985; Sidewalk; 2.97256; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7466; 0.00180006; 241.198; Sidewalk; 2.983503; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7522; 0.00180006; 241.1971; Sidewalk; 3.004798; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7573; 0.00180006; 241.1956; Sidewalk; 3.027637; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7628; 0.00180006; 241.1941; Sidewalk; 3.053347; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7686; 0.00180006; 241.1921; Sidewalk; 3.07161; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7717; 0.00180006; 241.191; Sidewalk; 3.083506; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7783; 0.00180006; 241.1882; Sidewalk; 3.104847; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7852; 0.00180006; 241.1852; Sidewalk; 3.127358; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7919; 0.00180006; 241.182; Sidewalk; 3.149338; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7995; 0.00180006; 241.1786; Sidewalk; 3.171953; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.7995; 0.00180006; 241.1786; Sidewalk; 3.171953; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8092; 0.00180006; 241.1739; Sidewalk; 3.211427; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8151; 0.00180006; 241.1709; Sidewalk; 3.228775; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8212; 0.00180006; 241.168; Sidewalk; 3.249648; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8268; 0.00180006; 241.1651; Sidewalk; 3.272876; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8292; 0.00180006; 241.1637; Sidewalk; 3.283542; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8323; 0.00180006; 241.1611; Sidewalk; 3.305233; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8348; 0.00180006; 241.1587; Sidewalk; 3.328039; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8375; 0.00180006; 241.1566; Sidewalk; 3.355055; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8404; 0.00180006; 241.1546; Sidewalk; 3.374238; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8418; 0.00180006; 241.1535; Sidewalk; 3.383118; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8447; 0.00180006; 241.1517; Sidewalk; 3.404855; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8475; 0.00180006; 241.1499; Sidewalk; 3.4284; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8502; 0.00180006; 241.1483; Sidewalk; 3.449399; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8526; 0.00180006; 241.1469; Sidewalk; 3.471974; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8539; 0.00180006; 241.1462; Sidewalk; 3.482671; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8565; 0.00180006; 241.1451; Sidewalk; 3.510444; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8586; 0.00180006; 241.1441; Sidewalk; 3.528171; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8605; 0.00180006; 241.1431; Sidewalk; 3.55037; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8612; 0.00180006; 241.1422; Sidewalk; 3.572302; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8616; 0.00180006; 241.1419; Sidewalk; 3.583386; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8626; 0.00180006; 241.1412; Sidewalk; 3.605901; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8629; 0.00180006; 241.1408; Sidewalk; 3.627739; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8629; 0.00180006; 241.1406; Sidewalk; 3.649769; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8625; 0.00180006; 241.1406; Sidewalk; 3.674353; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8622; 0.00180006; 241.1406; Sidewalk; 3.682946; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8618; 0.00180006; 241.1408; Sidewalk; 3.704702; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:14; 804.8611; 0.00180006; 241.141; Sidewalk; 3.727233; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8599; 0.00180006; 241.1413; Sidewalk; 3.749689; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8594; 0.00180006; 241.1414; Sidewalk; 3.772012; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8591; 0.00180006; 241.1416; Sidewalk; 3.782936; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8594; 0.00180006; 241.1417; Sidewalk; 3.804872; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8593; 0.00180006; 241.1418; Sidewalk; 3.832315; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8589; 0.00180006; 241.1417; Sidewalk; 3.849524; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8589; 0.00180006; 241.1415; Sidewalk; 3.871546; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8589; 0.00180006; 241.1415; Sidewalk; 3.883018; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8586; 0.00180006; 241.1411; Sidewalk; 3.905611; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8584; 0.00180006; 241.1409; Sidewalk; 3.927416; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8584; 0.00180006; 241.1408; Sidewalk; 3.949274; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8585; 0.00180006; 241.1408; Sidewalk; 3.960862; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8587; 0.00180006; 241.1407; Sidewalk; 3.991029; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8587; 0.00180006; 241.1407; Sidewalk; 4.006519; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8583; 0.00180006; 241.1405; Sidewalk; 4.026978; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8577; 0.00180006; 241.1405; Sidewalk; 4.049654; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8571; 0.00180006; 241.1406; Sidewalk; 4.07154; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8566; 0.00180006; 241.1407; Sidewalk; 4.082967; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8555; 0.00180006; 241.1409; Sidewalk; 4.104734; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.855; 0.00180006; 241.1411; Sidewalk; 4.117146; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.853; 0.00180006; 241.1415; Sidewalk; 4.150104; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8517; 0.00180006; 241.142; Sidewalk; 4.171623; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8509; 0.00180006; 241.1422; Sidewalk; 4.182631; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8494; 0.00180006; 241.1427; Sidewalk; 4.204789; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8478; 0.00180006; 241.1433; Sidewalk; 4.227526; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8453; 0.00180006; 241.1438; Sidewalk; 4.249387; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8433; 0.00180006; 241.1445; Sidewalk; 4.271511; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8427; 0.00180006; 241.1448; Sidewalk; 4.288778; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8409; 0.00180006; 241.1456; Sidewalk; 4.30733; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8395; 0.00180006; 241.1463; Sidewalk; 4.327259; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8383; 0.00180006; 241.1469; Sidewalk; 4.35034; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8372; 0.00180006; 241.1475; Sidewalk; 4.372366; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8367; 0.00180006; 241.1478; Sidewalk; 4.382821; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8351; 0.00180006; 241.1482; Sidewalk; 4.405144; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8342; 0.00180006; 241.1484; Sidewalk; 4.416955; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8332; 0.00180006; 241.1487; Sidewalk; 4.447744; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8326; 0.00180006; 241.1492; Sidewalk; 4.480046; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8325; 0.00180006; 241.1493; Sidewalk; 4.489028; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8323; 0.00180006; 241.1493; Sidewalk; 4.506837; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8325; 0.00180006; 241.1493; Sidewalk; 4.527299; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8329; 0.00180006; 241.1493; Sidewalk; 4.54957; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8335; 0.00180006; 241.1492; Sidewalk; 4.572231; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8335; 0.00180006; 241.1492; Sidewalk; 4.572231; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8345; 0.00180006; 241.1491; Sidewalk; 4.604285; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.836; 0.00180006; 241.1488; Sidewalk; 4.633838; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8372; 0.00180006; 241.1486; Sidewalk; 4.649722; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8384; 0.00180006; 241.1483; Sidewalk; 4.671584; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8391; 0.00180006; 241.1482; Sidewalk; 4.682446; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8412; 0.00180006; 241.148; Sidewalk; 4.704701; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.8426; 0.00180006; 241.1477; Sidewalk; 4.726998; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:15; 804.843; 0.00180006; 241.1473; Sidewalk; 4.7537; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8439; 0.00180006; 241.147; Sidewalk; 4.771195; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8444; 0.00180006; 241.1469; Sidewalk; 4.782482; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8453; 0.00180006; 241.1466; Sidewalk; 4.804567; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8452; 0.00180006; 241.1462; Sidewalk; 4.826983; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8456; 0.00180006; 241.146; Sidewalk; 4.848939; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.846; 0.00180006; 241.1456; Sidewalk; 4.871313; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8457; 0.00180006; 241.1456; Sidewalk; 4.882595; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8463; 0.00180006; 241.1452; Sidewalk; 4.904537; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8471; 0.00180006; 241.145; Sidewalk; 4.926676; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8475; 0.00180006; 241.1447; Sidewalk; 4.948883; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8486; 0.00180006; 241.1444; Sidewalk; 4.970965; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8492; 0.00180006; 241.1443; Sidewalk; 4.983346; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.85; 0.00180006; 241.144; Sidewalk; 5.004267; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8516; 0.00180006; 241.1437; Sidewalk; 5.026706; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.853; 0.00180006; 241.1434; Sidewalk; 5.049104; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8539; 0.00180006; 241.1431; Sidewalk; 5.071743; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8544; 0.00180006; 241.143; Sidewalk; 5.082946; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8561; 0.00180006; 241.1427; Sidewalk; 5.105019; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8579; 0.00180006; 241.1422; Sidewalk; 5.127235; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.859; 0.00180006; 241.1418; Sidewalk; 5.14882; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8604; 0.00180006; 241.1413; Sidewalk; 5.171809; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.861; 0.00180006; 241.141; Sidewalk; 5.183099; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8619; 0.00180006; 241.1404; Sidewalk; 5.20659; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8628; 0.00180006; 241.1398; Sidewalk; 5.229149; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8641; 0.00180006; 241.1393; Sidewalk; 5.251582; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8655; 0.00180006; 241.1388; Sidewalk; 5.274056; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8656; 0.00180006; 241.1385; Sidewalk; 5.285316; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8659; 0.00180006; 241.1379; Sidewalk; 5.306684; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8665; 0.00180006; 241.1374; Sidewalk; 5.329116; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8665; 0.00180006; 241.1368; Sidewalk; 5.351039; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8666; 0.00180006; 241.1364; Sidewalk; 5.373842; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8667; 0.00180006; 241.1361; Sidewalk; 5.384217; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8666; 0.00180006; 241.1356; Sidewalk; 5.407405; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.866; 0.00180006; 241.1351; Sidewalk; 5.429231; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8649; 0.00180006; 241.1346; Sidewalk; 5.451307; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8638; 0.00180006; 241.1341; Sidewalk; 5.473232; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8631; 0.00180006; 241.134; Sidewalk; 5.484826; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8617; 0.00180006; 241.1336; Sidewalk; 5.506607; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8611; 0.00180006; 241.1335; Sidewalk; 5.518534; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8577; 0.00180006; 241.1331; Sidewalk; 5.555085; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8556; 0.00180006; 241.1328; Sidewalk; 5.571384; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8545; 0.00180006; 241.1327; Sidewalk; 5.582472; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8521; 0.00180006; 241.1324; Sidewalk; 5.603999; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8494; 0.00180006; 241.1323; Sidewalk; 5.626731; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8465; 0.00180006; 241.1321; Sidewalk; 5.648935; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8438; 0.00180006; 241.1321; Sidewalk; 5.670813; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8423; 0.00180006; 241.1321; Sidewalk; 5.682333; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8391; 0.00180006; 241.1322; Sidewalk; 5.704125; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:16; 804.8357; 0.00180006; 241.1322; Sidewalk; 5.726299; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8327; 0.00180006; 241.1323; Sidewalk; 5.748739; BicycleInterference
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8295; 0.00180006; 241.1324; Sidewalk; 5.770761; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8276; 0.00180006; 241.1325; Sidewalk; 5.782476; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8251; 0.00180006; 241.1326; Sidewalk; 5.803982; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8234; 0.00180006; 241.1328; Sidewalk; 5.81555; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8183; 0.00180006; 241.1331; Sidewalk; 5.856708; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8156; 0.00180006; 241.1334; Sidewalk; 5.875032; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8139; 0.00180006; 241.1336; Sidewalk; 5.883834; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8111; 0.00180006; 241.1342; Sidewalk; 5.904721; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8077; 0.00180006; 241.1346; Sidewalk; 5.926049; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.8045; 0.00180006; 241.1351; Sidewalk; 5.948611; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.801; 0.00180006; 241.1357; Sidewalk; 5.97043; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7991; 0.00180006; 241.1361; Sidewalk; 5.982278; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7952; 0.00180006; 241.1369; Sidewalk; 6.003852; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7924; 0.00180006; 241.1379; Sidewalk; 6.026123; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7875; 0.00180006; 241.1389; Sidewalk; 6.049055; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.783; 0.00180006; 241.14; Sidewalk; 6.070847; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7808; 0.00180006; 241.1404; Sidewalk; 6.082081; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7762; 0.00180006; 241.1414; Sidewalk; 6.103868; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7723; 0.00180006; 241.1424; Sidewalk; 6.126694; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7686; 0.00180006; 241.1434; Sidewalk; 6.148762; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7656; 0.00180006; 241.1445; Sidewalk; 6.17067; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7639; 0.00180006; 241.1451; Sidewalk; 6.182037; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7612; 0.00180006; 241.1461; Sidewalk; 6.203784; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7582; 0.00180006; 241.1472; Sidewalk; 6.226811; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7556; 0.00180006; 241.1481; Sidewalk; 6.248465; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7533; 0.00180006; 241.149; Sidewalk; 6.270411; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7533; 0.00180006; 241.149; Sidewalk; 6.270411; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7491; 0.00180006; 241.1502; Sidewalk; 6.312759; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7466; 0.00180006; 241.1511; Sidewalk; 6.328343; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7442; 0.00180006; 241.1519; Sidewalk; 6.337497; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7424; 0.00180006; 241.1527; Sidewalk; 6.376004; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7409; 0.00180006; 241.153; Sidewalk; 6.38626; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7381; 0.00180006; 241.1537; Sidewalk; 6.404399; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7365; 0.00180006; 241.1546; Sidewalk; 6.42699; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7347; 0.00180006; 241.1555; Sidewalk; 6.448939; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7335; 0.00180006; 241.1563; Sidewalk; 6.474884; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7328; 0.00180006; 241.1567; Sidewalk; 6.483839; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7313; 0.00180006; 241.1574; Sidewalk; 6.503893; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7293; 0.00180006; 241.158; Sidewalk; 6.526708; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7283; 0.00180006; 241.1587; Sidewalk; 6.549443; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7267; 0.00180006; 241.1592; Sidewalk; 6.570215; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7261; 0.00180006; 241.1594; Sidewalk; 6.582405; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7244; 0.00180006; 241.1598; Sidewalk; 6.604043; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7227; 0.00180006; 241.1602; Sidewalk; 6.631109; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7215; 0.00180006; 241.1605; Sidewalk; 6.652008; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7202; 0.00180006; 241.1608; Sidewalk; 6.671514; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7194; 0.00180006; 241.1609; Sidewalk; 6.681997; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.7175; 0.00180006; 241.1611; Sidewalk; 6.703997; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:17; 804.716; 0.00180006; 241.1615; Sidewalk; 6.726181; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.7133; 0.00180006; 241.1615; Sidewalk; 6.748803; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.7104; 0.00180006; 241.1615; Sidewalk; 6.771402; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.7087; 0.00180006; 241.1615; Sidewalk; 6.78393; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.7045; 0.00180006; 241.1614; Sidewalk; 6.80396; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.7001; 0.00180006; 241.1614; Sidewalk; 6.815195; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6951; 0.00180006; 241.1616; Sidewalk; 6.815195; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6893; 0.00180006; 241.1618; Road; 13.6298; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6864; 0.00180006; 241.1619; Road; 13.64178; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6796; 0.00180006; 241.1625; Road; 13.6632; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6796; 0.00180006; 241.1625; Road; 13.6632; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6646; 0.00180006; 241.1642; Road; 13.71288; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6567; 0.00180006; 241.1656; Road; 13.73707; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6523; 0.00180006; 241.1664; Road; 13.74625; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6424; 0.00180006; 241.168; Road; 13.76454; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6324; 0.00180006; 241.17; Road; 13.78553; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6218; 0.00180006; 241.1724; Road; 13.80733; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6115; 0.00180006; 241.1751; Road; 13.83025; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.6115; 0.00180006; 241.1751; Road; 13.83025; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.5938; 0.00180006; 241.1798; Road; 13.87249; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.5809; 0.00180006; 241.1832; Road; 13.89017; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.567; 0.00180006; 241.1868; Road; 13.9078; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.5524; 0.00180006; 241.1907; Road; 13.93084; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.5449; 0.00180006; 241.1927; Road; 13.94125; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.5297; 0.00180006; 241.1969; Road; 13.96287; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.5142; 0.00180006; 241.2014; Road; 13.98578; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.4978; 0.00180006; 241.2059; Road; 14.01179; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.4808; 0.00180006; 241.2107; Road; 14.03119; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.472; 0.00180006; 241.2131; Road; 14.04171; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.4546; 0.00180006; 241.2182; Road; 14.06272; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.4364; 0.00180006; 241.2236; Road; 14.0858; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.4179; 0.00180006; 241.2292; Road; 14.10786; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.3989; 0.00180006; 241.235; Road; 14.12935; Checking Box AICar
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.3896; 0.00180006; 241.238; Road; 14.14255; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.3707; 0.00180006; 241.2441; Road; 14.17169; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.3514; 0.00180006; 241.2506; Road; 14.19207; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.3322; 0.00180006; 241.2572; Road; 14.20989; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.313; 0.00180006; 241.2638; Road; 14.22922; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.3036; 0.00180006; 241.2671; Road; 14.24235; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.2848; 0.00180006; 241.2738; Road; 14.26261; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.2666; 0.00180006; 241.2803; Road; 14.28511; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.2489; 0.00180006; 241.2866; Road; 14.31501; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.2316; 0.00180006; 241.2929; Road; 14.33581; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.2232; 0.00180006; 241.2961; Road; 14.34431; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.2064; 0.00180006; 241.3023; Road; 14.36275; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.1894; 0.00180006; 241.3083; Road; 14.38527; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.1721; 0.00180006; 241.3142; Road; 14.40817; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.1548; 0.00180006; 241.3198; Road; 14.42956; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.1463; 0.00180006; 241.3224; Road; 14.44059; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.1288; 0.00180006; 241.3277; Road; 14.46399; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:18; 804.1114; 0.00180006; 241.333; Road; 14.48441; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 804.0942; 0.00180006; 241.3382; Road; 14.50848; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 804.0771; 0.00180006; 241.3432; Road; 14.52886; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 804.068; 0.00180006; 241.3458; Road; 14.54059; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 804.0499; 0.00180006; 241.3512; Road; 14.56252; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 804.0314; 0.00180006; 241.3565; Road; 14.5843; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 804.0136; 0.00180006; 241.3621; Road; 14.60702; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.9962; 0.00180006; 241.3681; Road; 14.63034; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.9875; 0.00180006; 241.3711; Road; 14.64076; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.9691; 0.00180006; 241.3769; Road; 14.66231; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.9539; 0.00180006; 241.3829; Road; 14.68412; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.9378; 0.00180006; 241.3886; Road; 14.7074; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.9216; 0.00180006; 241.3935; Road; 14.72874; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.9128; 0.00180006; 241.3956; Road; 14.74026; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.8975; 0.00180006; 241.3995; Road; 14.76229; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.8811; 0.00180006; 241.4032; Road; 14.78415; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.8641; 0.00180006; 241.4064; Road; 14.80641; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.8466; 0.00180006; 241.4092; Road; 14.82933; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.8377; 0.00180006; 241.4105; Road; 14.84162; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.8199; 0.00180006; 241.4128; Road; 14.8638; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.8025; 0.00180006; 241.4149; Road; 14.88665; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.7848; 0.00180006; 241.4169; Road; 14.91042; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.7665; 0.00180006; 241.4185; Road; 14.93624; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.7571; 0.00180006; 241.4191; Road; 14.94785; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.7388; 0.00180006; 241.42; Road; 14.96628; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.7188; 0.00180006; 241.4207; Road; 14.98386; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.6984; 0.00180006; 241.4209; Road; 15.00648; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.677; 0.00180006; 241.4206; Road; 15.02857; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.6663; 0.00180006; 241.4205; Road; 15.0398; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.6447; 0.00180006; 241.4202; Road; 15.0621; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.6225; 0.00180006; 241.4194; Road; 15.08414; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.5995; 0.00180006; 241.4184; Road; 15.10639; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.5783; 0.00180006; 241.4177; Road; 15.12845; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.5668; 0.00180006; 241.4173; Road; 15.14011; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.5447; 0.00180006; 241.4167; Road; 15.16196; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.5233; 0.00180006; 241.4167; Road; 15.18395; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.5022; 0.00180006; 241.4174; Road; 15.20604; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.481; 0.00180006; 241.4186; Road; 15.22844; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.4709; 0.00180006; 241.4194; Road; 15.23966; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.4494; 0.00180006; 241.4212; Road; 15.26185; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.428; 0.00180006; 241.4235; Road; 15.28387; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.4052; 0.00180006; 241.426; Road; 15.30589; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.3813; 0.00180006; 241.4287; Road; 15.32819; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.3691; 0.00180006; 241.4301; Road; 15.34043; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.3434; 0.00180006; 241.4329; Road; 15.36178; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.3168; 0.00180006; 241.436; Road; 15.384; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.2899; 0.00180006; 241.4391; Road; 15.40672; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.262; 0.00180006; 241.4418; Road; 15.42928; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.2483; 0.00180006; 241.4432; Road; 15.44094; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.2191; 0.00180006; 241.4458; Road; 15.46339; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.1909; 0.00180006; 241.4485; Road; 15.48632; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:19; 803.1632; 0.00180006; 241.4512; Road; 15.50934; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 803.1367; 0.00180006; 241.4541; Road; 15.53257; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 803.1248; 0.00180006; 241.4558; Road; 15.54391; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 803.0995; 0.00180006; 241.4587; Road; 15.56712; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 803.075; 0.00180006; 241.4618; Road; 15.58657; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 803.0509; 0.00180006; 241.4655; Road; 15.60917; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 803.0267; 0.00180006; 241.4692; Road; 15.63129; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 803.0144; 0.00180006; 241.4707; Road; 15.64316; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.9927; 0.00180006; 241.4735; Road; 15.6642; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.9711; 0.00180006; 241.4763; Road; 15.68657; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.9493; 0.00180006; 241.4789; Road; 15.70997; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.9285; 0.00180006; 241.4812; Road; 15.73278; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.9188; 0.00180006; 241.4824; Road; 15.74243; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.8986; 0.00180006; 241.4846; Road; 15.76441; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.8788; 0.00180006; 241.4862; Road; 15.78694; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.8589; 0.00180006; 241.4872; Road; 15.80928; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.8398; 0.00180006; 241.4883; Road; 15.83162; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.829; 0.00180006; 241.4887; Road; 15.84306; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.8076; 0.00180006; 241.4893; Road; 15.86584; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.7863; 0.00180006; 241.4898; Road; 15.88662; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.7636; 0.00180006; 241.49; Road; 15.90768; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.7402; 0.00180006; 241.49; Road; 15.93006; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.728; 0.00180006; 241.49; Road; 15.94181; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.7036; 0.00180006; 241.4897; Road; 15.96309; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.6785; 0.00180006; 241.4892; Road; 15.98572; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.6534; 0.00180006; 241.4886; Road; 16.00793; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.6277; 0.00180006; 241.4879; Road; 16.03043; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.6147; 0.00180006; 241.4875; Road; 16.04259; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.5881; 0.00180006; 241.4865; Road; 16.06315; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.5607; 0.00180006; 241.4852; Road; 16.08548; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.5332; 0.00180006; 241.4839; Road; 16.10794; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.5043; 0.00180006; 241.482; Road; 16.12948; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.4896; 0.00180006; 241.4811; Road; 16.14069; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.4598; 0.00180006; 241.479; Road; 16.16319; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.4295; 0.00180006; 241.4763; Road; 16.18739; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.3978; 0.00180006; 241.4736; Road; 16.2081; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.3659; 0.00180006; 241.4705; Road; 16.22998; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.3491; 0.00180006; 241.4688; Road; 16.24116; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.316; 0.00180006; 241.4653; Road; 16.2632; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.2819; 0.00180006; 241.4617; Road; 16.2862; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.2427; 0.00180006; 241.4572; Road; 16.30872; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.207; 0.00180006; 241.453; Road; 16.33088; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.1886; 0.00180006; 241.4508; Road; 16.34255; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.1523; 0.00180006; 241.4464; Road; 16.36382; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.1157; 0.00180006; 241.4419; Road; 16.38629; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.1157; 0.00180006; 241.4419; Road; 16.38629; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.0435; 0.00180006; 241.4332; Road; 16.4344; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 802.0258; 0.00180006; 241.4312; Road; 16.4465; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 801.9913; 0.00180006; 241.4273; Road; 16.46555; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 801.9581; 0.00180006; 241.4237; Road; 16.48652; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:20; 801.9258; 0.00180006; 241.4204; Road; 16.51088; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.8948; 0.00180006; 241.4176; Road; 16.52815; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.8804; 0.00180006; 241.4166; Road; 16.53952; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.8505; 0.00180006; 241.4146; Road; 16.56204; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.8216; 0.00180006; 241.4132; Road; 16.58388; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.7933; 0.00180006; 241.4121; Road; 16.60583; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.764; 0.00180006; 241.4109; Road; 16.62861; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.7496; 0.00180006; 241.4103; Road; 16.63995; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.7211; 0.00180006; 241.4093; Road; 16.66163; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.6927; 0.00180006; 241.4086; Road; 16.68404; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.6649; 0.00180006; 241.4083; Road; 16.70635; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.6367; 0.00180006; 241.4082; Road; 16.72815; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.6224; 0.00180006; 241.4081; Road; 16.73924; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.5938; 0.00180006; 241.4083; Road; 16.76168; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.5643; 0.00180006; 241.4086; Road; 16.78453; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.5345; 0.00180006; 241.4092; Road; 16.80792; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.5055; 0.00180006; 241.4102; Road; 16.82822; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.4911; 0.00180006; 241.4109; Road; 16.83992; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.4612; 0.00180006; 241.4123; Road; 16.86155; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.4299; 0.00180006; 241.4137; Road; 16.88324; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.3984; 0.00180006; 241.4158; Road; 16.90593; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.367; 0.00180006; 241.4182; Road; 16.9285; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.3516; 0.00180006; 241.4196; Road; 16.93998; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.3184; 0.00180006; 241.4224; Road; 16.96301; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.2844; 0.00180006; 241.4257; Road; 16.98611; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.2495; 0.00180006; 241.4291; Road; 17.00826; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.2134; 0.00180006; 241.4327; Road; 17.03018; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.1956; 0.00180006; 241.4347; Road; 17.04226; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.1567; 0.00180006; 241.4385; Road; 17.0635; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.1174; 0.00180006; 241.4423; Road; 17.08558; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.0776; 0.00180006; 241.4459; Road; 17.11041; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.0396; 0.00180006; 241.4496; Road; 17.13223; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 801.0198; 0.00180006; 241.451; Road; 17.1398; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.9816; 0.00180006; 241.454; Road; 17.16248; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.9444; 0.00180006; 241.4569; Road; 17.18475; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.909; 0.00180006; 241.4594; Road; 17.20679; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.8746; 0.00180006; 241.4617; Road; 17.22894; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.8568; 0.00180006; 241.4626; Road; 17.24003; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.8235; 0.00180006; 241.4644; Road; 17.26454; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.7903; 0.00180006; 241.4657; Road; 17.28511; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.7574; 0.00180006; 241.4667; Road; 17.30626; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.7249; 0.00180006; 241.4675; Road; 17.32858; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.706; 0.00180006; 241.4672; Road; 17.34001; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.6733; 0.00180006; 241.4674; Road; 17.36299; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.6399; 0.00180006; 241.4671; Road; 17.38461; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.6072; 0.00180006; 241.4666; Road; 17.40644; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.5754; 0.00180006; 241.4662; Road; 17.42461; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.5593; 0.00180006; 241.4658; Road; 17.44217; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.527; 0.00180006; 241.4649; Road; 17.46188; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.4946; 0.00180006; 241.4638; Road; 17.48393; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:21; 800.4624; 0.00180006; 241.4628; Road; 17.50581; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.4302; 0.00180006; 241.4614; Road; 17.52818; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.4128; 0.00180006; 241.4604; Road; 17.539; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.379; 0.00180006; 241.4585; Road; 17.56204; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.345; 0.00180006; 241.4565; Road; 17.58654; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.3109; 0.00180006; 241.4543; Road; 17.60529; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.2763; 0.00180006; 241.4519; Road; 17.62864; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.2585; 0.00180006; 241.4505; Road; 17.639; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.2217; 0.00180006; 241.4476; Road; 17.66176; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.1843; 0.00180006; 241.4445; Road; 17.68329; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.1468; 0.00180006; 241.4412; Road; 17.70615; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.1088; 0.00180006; 241.4376; Road; 17.72881; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.0892; 0.00180006; 241.4357; Road; 17.74073; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.0493; 0.00180006; 241.4317; Road; 17.76163; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 800.0084; 0.00180006; 241.4273; Road; 17.78367; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.9676; 0.00180006; 241.423; Road; 17.80563; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.9262; 0.00180006; 241.4185; Road; 17.82891; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.9047; 0.00180006; 241.4162; Road; 17.83974; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.8633; 0.00180006; 241.4117; Road; 17.86212; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.8221; 0.00180006; 241.4074; Road; 17.88494; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.7823; 0.00180006; 241.4036; Road; 17.90652; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.7438; 0.00180006; 241.4002; Road; 17.92869; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.7244; 0.00180006; 241.3986; Road; 17.94064; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.6871; 0.00180006; 241.3958; Road; 17.96193; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.6495; 0.00180006; 241.3935; Road; 17.98483; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.614; 0.00180006; 241.392; Road; 18.00746; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.5789; 0.00180006; 241.3912; Road; 18.03021; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.5613; 0.00180006; 241.3909; Road; 18.04449; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.5242; 0.00180006; 241.3903; Road; 18.06396; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.486; 0.00180006; 241.3901; Road; 18.0833; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.4475; 0.00180006; 241.3903; Road; 18.10566; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.4089; 0.00180006; 241.3907; Road; 18.12844; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.389; 0.00180006; 241.3908; Road; 18.13905; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.3499; 0.00180006; 241.3915; Road; 18.16157; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.311; 0.00180006; 241.3925; Road; 18.18371; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.2723; 0.00180006; 241.3939; Road; 18.20588; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.2345; 0.00180006; 241.3959; Road; 18.22832; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.2158; 0.00180006; 241.3971; Road; 18.2393; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.1785; 0.00180006; 241.3996; Road; 18.26212; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.1412; 0.00180006; 241.4025; Road; 18.28382; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.1038; 0.00180006; 241.4059; Road; 18.30541; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.0643; 0.00180006; 241.4093; Road; 18.32805; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.0443; 0.00180006; 241.4112; Road; 18.339; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 799.0037; 0.00180006; 241.4146; Road; 18.36175; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 798.9634; 0.00180006; 241.4182; Road; 18.3835; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 798.9231; 0.00180006; 241.4215; Road; 18.4052; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 798.8817; 0.00180006; 241.4248; Road; 18.42843; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 798.86; 0.00180006; 241.4263; Road; 18.43947; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 798.8187; 0.00180006; 241.4293; Road; 18.46248; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:22; 798.7797; 0.00180006; 241.4321; Road; 18.48503; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.7416; 0.00180006; 241.4341; Road; 18.50834; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.7052; 0.00180006; 241.4359; Road; 18.52978; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.6873; 0.00180006; 241.4365; Road; 18.54183; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.6531; 0.00180006; 241.4377; Road; 18.56418; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.6193; 0.00180006; 241.4385; Road; 18.58615; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.5871; 0.00180006; 241.4391; Road; 18.60862; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.556; 0.00180006; 241.4397; Road; 18.63082; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.5402; 0.00180006; 241.4398; Road; 18.64278; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.5079; 0.00180006; 241.4396; Road; 18.66759; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.4751; 0.00180006; 241.4391; Road; 18.68819; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.4432; 0.00180006; 241.4384; Road; 18.70746; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.4118; 0.00180006; 241.4375; Road; 18.72754; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.3959; 0.00180006; 241.437; Road; 18.7386; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.364; 0.00180006; 241.4358; Road; 18.76202; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.3323; 0.00180006; 241.4346; Road; 18.78303; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.3011; 0.00180006; 241.4333; Road; 18.80519; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.2695; 0.00180006; 241.4318; Road; 18.82836; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.2534; 0.00180006; 241.4309; Road; 18.83852; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.2209; 0.00180006; 241.4288; Road; 18.86154; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.1892; 0.00180006; 241.4267; Road; 18.88285; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.1566; 0.00180006; 241.4243; Road; 18.9054; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.1237; 0.00180006; 241.4214; Road; 18.92746; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.1069; 0.00180006; 241.4198; Road; 18.93857; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.0741; 0.00180006; 241.4166; Road; 18.96121; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.0404; 0.00180006; 241.4129; Road; 18.98802; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 798.0066; 0.00180006; 241.409; Road; 19.00638; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.9722; 0.00180006; 241.4046; Road; 19.02729; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.955; 0.00180006; 241.4023; Road; 19.03874; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.9025; 0.00180006; 241.3947; Road; 19.07164; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.8851; 0.00180006; 241.392; Road; 19.0826; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.8495; 0.00180006; 241.3864; Road; 19.1051; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.813; 0.00180006; 241.3804; Road; 19.12812; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.7949; 0.00180006; 241.3774; Road; 19.13923; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.7571; 0.00180006; 241.371; Road; 19.16054; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.7205; 0.00180006; 241.3647; Road; 19.1827; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.6848; 0.00180006; 241.3586; Road; 19.20497; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.6498; 0.00180006; 241.3529; Road; 19.22754; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.6323; 0.00180006; 241.35; Road; 19.2382; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.5828; 0.00180006; 241.3426; Road; 19.27147; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.5665; 0.00180006; 241.3402; Road; 19.2826; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.5345; 0.00180006; 241.3359; Road; 19.30491; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.503; 0.00180006; 241.3321; Road; 19.32763; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.4715; 0.00180006; 241.3287; Road; 19.34946; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.4554; 0.00180006; 241.327; Road; 19.36028; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.4236; 0.00180006; 241.3241; Road; 19.38276; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.3917; 0.00180006; 241.3215; Road; 19.40512; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.3605; 0.00180006; 241.3194; Road; 19.42822; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.3446; 0.00180006; 241.3184; Road; 19.44031; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.3135; 0.00180006; 241.3168; Road; 19.46229; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.2824; 0.00180006; 241.3155; Road; 19.48466; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:23; 797.2513; 0.00180006; 241.3145; Road; 19.50659; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 797.2194; 0.00180006; 241.3136; Road; 19.52897; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 797.2039; 0.00180006; 241.3134; Road; 19.53992; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 797.1723; 0.00180006; 241.313; Road; 19.56295; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 797.1408; 0.00180006; 241.3128; Road; 19.58465; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 797.1094; 0.00180006; 241.3128; Road; 19.60636; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 797.0779; 0.00180006; 241.3132; Road; 19.62852; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 797.0622; 0.00180006; 241.3134; Road; 19.63989; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 797.0299; 0.00180006; 241.3139; Road; 19.66302; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.9976; 0.00180006; 241.3148; Road; 19.68501; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.9648; 0.00180006; 241.3157; Road; 19.70749; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.9318; 0.00180006; 241.3167; Road; 19.7303; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.9153; 0.00180006; 241.3172; Road; 19.74193; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.881; 0.00180006; 241.3181; Road; 19.7651; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.8464; 0.00180006; 241.3191; Road; 19.78451; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.8119; 0.00180006; 241.3198;  After Road; 0.0101644; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.7784; 0.00180006; 241.3205;  After Road; 0.0328742; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.7624; 0.00180006; 241.3209;  After Road; 0.0440791; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.7305; 0.00180006; 241.3215;  After Road; 0.0661161; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.6998; 0.00180006; 241.3217;  After Road; 0.0882799; null
+33; Pedestrian; Interference; Intention; 15.11.2023 10:15:24; 796.6699; 0.00180006; 241.3218;  After Road; 0.1108683; null

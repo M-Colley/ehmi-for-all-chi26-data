@@ -1,0 +1,1363 @@
+user_id; scenario; distraction; ehmi; timestamp; userPositionX; userPositionY; userPositionZ; playerPositon; time; focused object
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:49; 805.1; -0.34; 241; HI; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:49; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 805.2721; -0.09819984; 241; Sidewalk; 0.02; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8539; -0.09819984; 241.1185; Sidewalk; 0.04; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8539; -0.09819984; 241.1185; Sidewalk; 0.04; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8539; -0.09819984; 241.1185; Sidewalk; 0.04; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8539; -0.09819984; 241.1185; Sidewalk; 0.04; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8387; -0.09819984; 241.1204; Sidewalk; 0.3733333; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8378; -0.09819984; 241.1205; Sidewalk; 0.4576204; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8375; -0.09819984; 241.1207; Sidewalk; 0.485274; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8373; -0.09819984; 241.1207; Sidewalk; 0.5089601; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8372; -0.09819984; 241.1207; Sidewalk; 0.5275158; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.837; -0.09819984; 241.1208; Sidewalk; 0.5487408; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8367; -0.09819984; 241.1208; Sidewalk; 0.5714185; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8367; -0.09819984; 241.1207; Sidewalk; 0.5941165; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8369; -0.09819984; 241.1207; Sidewalk; 0.6043545; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8369; -0.09819984; 241.1207; Sidewalk; 0.6159704; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8369; -0.09819984; 241.1206; Sidewalk; 0.6507206; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.8367; -0.09819984; 241.1204; Sidewalk; 0.6770027; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:50; 804.837; -0.09819984; 241.1204; Sidewalk; 0.6939204; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.837; -0.09819984; 241.1203; Sidewalk; 0.704432; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.837; -0.09819984; 241.1203; Sidewalk; 0.7270402; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.837; -0.09819984; 241.1203; Sidewalk; 0.7494439; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.837; -0.09819984; 241.1203; Sidewalk; 0.760928; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.837; -0.09819984; 241.1202; Sidewalk; 0.7984461; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.837; -0.09819984; 241.1202; Sidewalk; 0.8066677; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.837; -0.09819984; 241.1202; Sidewalk; 0.8271173; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.837; -0.09819996; 241.1203; Sidewalk; 0.8490597; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8375; -0.09819996; 241.121; Sidewalk; 0.8715123; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8376; -0.09819996; 241.1224; Sidewalk; 0.89395; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8379; -0.09819996; 241.1235; Sidewalk; 0.9042023; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8382; -0.09819996; 241.1247; Sidewalk; 0.9151716; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8403; -0.09819996; 241.1296; Sidewalk; 0.9555004; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8421; -0.09819996; 241.1332; Sidewalk; 0.9710562; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8442; -0.09819996; 241.137; Sidewalk; 0.9938989; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8455; -0.09819996; 241.139; Sidewalk; 1.004269; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8481; -0.09819996; 241.1429; Sidewalk; 1.027315; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8519; -0.09819996; 241.147; Sidewalk; 1.049307; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.856; -0.09819996; 241.151; Sidewalk; 1.071362; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8585; -0.09819996; 241.1531; Sidewalk; 1.082024; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8632; -0.09819996; 241.1573; Sidewalk; 1.109904; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.869; -0.09819996; 241.1617; Sidewalk; 1.126953; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8759; -0.09819996; 241.1661; Sidewalk; 1.148217; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8841; -0.09819996; 241.1706; Sidewalk; 1.170595; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8931; -0.09819996; 241.175; Sidewalk; 1.193148; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.8978; -0.09819996; 241.1772; Sidewalk; 1.203796; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9065; -0.09819996; 241.1811; Sidewalk; 1.226251; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9118; -0.09819996; 241.183; Sidewalk; 1.237652; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9263; -0.09819996; 241.1882; Sidewalk; 1.271756; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9353; -0.09819996; 241.1913; Sidewalk; 1.293039; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9401; -0.09819996; 241.1927; Sidewalk; 1.303703; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9484; -0.09819996; 241.1953; Sidewalk; 1.326175; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9564; -0.09819996; 241.1975; Sidewalk; 1.348443; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9636; -0.09819996; 241.1995; Sidewalk; 1.370224; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9666; -0.09819996; 241.2004; Sidewalk; 1.381551; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9699; -0.09819996; 241.2012; Sidewalk; 1.392911; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9782; -0.09819996; 241.2034; Sidewalk; 1.429318; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9827; -0.09819996; 241.2045; Sidewalk; 1.448293; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9865; -0.09819996; 241.2055; Sidewalk; 1.470392; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9895; -0.09819996; 241.2062; Sidewalk; 1.493151; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9913; -0.09819996; 241.2066; Sidewalk; 1.503655; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9935; -0.09819996; 241.2072; Sidewalk; 1.52565; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9944; -0.09819996; 241.2074; Sidewalk; 1.53705; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9984; -0.09819996; 241.2081; Sidewalk; 1.575744; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 804.9996; -0.09819996; 241.2082; Sidewalk; 1.5926; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 805.0001; -0.09819996; 241.2084; Sidewalk; 1.603618; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 805.0013; -0.09819996; 241.2086; Sidewalk; 1.626862; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 805.0027; -0.09819996; 241.2087; Sidewalk; 1.648441; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 805.0036; -0.09819996; 241.2088; Sidewalk; 1.670243; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:51; 805.0042; -0.09819996; 241.209; Sidewalk; 1.692933; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 805.0042; -0.09819996; 241.209; Sidewalk; 1.692933; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 805.0034; -0.09819996; 241.2088; Sidewalk; 1.732342; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 805.0019; -0.09819996; 241.2086; Sidewalk; 1.748417; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9999; -0.09819996; 241.2083; Sidewalk; 1.770114; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9962; -0.09819996; 241.2076; Sidewalk; 1.793205; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9933; -0.09819996; 241.207; Sidewalk; 1.803532; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.985; -0.09819996; 241.2052; Sidewalk; 1.825637; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9735; -0.09819996; 241.2024; Sidewalk; 1.848128; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9665; -0.09819996; 241.2007; Sidewalk; 1.859576; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9432; -0.09819996; 241.1935; Sidewalk; 1.896576; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9344; -0.09819996; 241.1904; Sidewalk; 1.903301; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9158; -0.09819996; 241.1832; Sidewalk; 1.925739; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8973; -0.09819996; 241.174; Sidewalk; 1.948132; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8791; -0.09819996; 241.1627; Sidewalk; 1.970005; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8635; -0.09819996; 241.1499; Sidewalk; 1.992439; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8578; -0.09819996; 241.1432; Sidewalk; 2.00352; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8529; -0.09819996; 241.1362; Sidewalk; 2.015302; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8427; -0.09819996; 241.1147; Sidewalk; 2.053952; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8433; -0.09819996; 241.1005; Sidewalk; 2.070846; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8475; -0.09819996; 241.087; Sidewalk; 2.092399; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8527; -0.09819996; 241.0807; Sidewalk; 2.103676; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8625; -0.09819996; 241.0689; Sidewalk; 2.125854; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8751; -0.09819996; 241.0586; Sidewalk; 2.148435; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8818; -0.09819996; 241.0539; Sidewalk; 2.159682; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.8965; -0.09819996; 241.0456; Sidewalk; 2.192273; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9039; -0.09819996; 241.0422; Sidewalk; 2.202329; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9235; -0.09819996; 241.0331; Sidewalk; 2.230638; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9351; -0.09819996; 241.0288; Sidewalk; 2.248468; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.945; -0.09819996; 241.0254; Sidewalk; 2.271504; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.953; -0.09819996; 241.0226; Sidewalk; 2.29358; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9562; -0.09819996; 241.0214; Sidewalk; 2.304088; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.959; -0.09819996; 241.0205; Sidewalk; 2.31596; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9652; -0.09819996; 241.0183; Sidewalk; 2.35501; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.968; -0.09819996; 241.0174; Sidewalk; 2.371107; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.97; -0.09819996; 241.0166; Sidewalk; 2.393295; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9704; -0.09819996; 241.0162; Sidewalk; 2.4038; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9715; -0.09819996; 241.0157; Sidewalk; 2.425952; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9722; -0.09819996; 241.0152; Sidewalk; 2.448783; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9733; -0.09819996; 241.0149; Sidewalk; 2.471654; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9738; -0.09819996; 241.0147; Sidewalk; 2.482071; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9744; -0.09819996; 241.0146; Sidewalk; 2.500638; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9763; -0.09819996; 241.014; Sidewalk; 2.530477; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9777; -0.09819996; 241.0136; Sidewalk; 2.548951; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9792; -0.09819996; 241.0131; Sidewalk; 2.570985; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9806; -0.09819996; 241.0127; Sidewalk; 2.593097; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.981; -0.09819996; 241.0123; Sidewalk; 2.603857; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.982; -0.09819996; 241.012; Sidewalk; 2.62733; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9828; -0.09819996; 241.012; Sidewalk; 2.637765; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9833; -0.09819996; 241.0116; Sidewalk; 2.675523; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:52; 804.9836; -0.09819996; 241.0115; Sidewalk; 2.693352; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9832; -0.09819996; 241.0115; Sidewalk; 2.70386; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.983; -0.09819996; 241.0116; Sidewalk; 2.725955; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9825; -0.09819996; 241.0117; Sidewalk; 2.749152; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9821; -0.09819996; 241.012; Sidewalk; 2.770724; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9819; -0.09819996; 241.0122; Sidewalk; 2.781898; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9815; -0.09819996; 241.0123; Sidewalk; 2.793487; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9867; -0.09819996; 241.0134; Sidewalk; 2.831851; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9865; -0.09819996; 241.0138; Sidewalk; 2.849109; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9862; -0.09819996; 241.0141; Sidewalk; 2.871371; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9858; -0.09819996; 241.0146; Sidewalk; 2.89336; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9857; -0.09819996; 241.0148; Sidewalk; 2.9039; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9854; -0.09819996; 241.0153; Sidewalk; 2.925809; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9852; -0.09819996; 241.0155; Sidewalk; 2.937231; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9848; -0.09819996; 241.016; Sidewalk; 2.977413; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9848; -0.09819996; 241.0164; Sidewalk; 2.994689; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9847; -0.09819996; 241.0165; Sidewalk; 3.003487; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9847; -0.09819996; 241.0169; Sidewalk; 3.025972; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9844; -0.09819996; 241.0173; Sidewalk; 3.049525; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.984; -0.09819996; 241.0177; Sidewalk; 3.071039; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9833; -0.09819996; 241.0181; Sidewalk; 3.092905; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9833; -0.09819996; 241.0181; Sidewalk; 3.092905; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.982; -0.09819996; 241.0188; Sidewalk; 3.133305; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.981; -0.09819996; 241.0194; Sidewalk; 3.149743; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9798; -0.09819996; 241.0201; Sidewalk; 3.170459; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9785; -0.09819996; 241.0207; Sidewalk; 3.192797; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9776; -0.09819996; 241.021; Sidewalk; 3.203974; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9763; -0.09819996; 241.0217; Sidewalk; 3.22579; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9744; -0.09819996; 241.0224; Sidewalk; 3.248794; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9736; -0.09819996; 241.0228; Sidewalk; 3.259451; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9699; -0.09819996; 241.024; Sidewalk; 3.298764; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9686; -0.09819996; 241.0244; Sidewalk; 3.30687; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9656; -0.09819996; 241.0251; Sidewalk; 3.326475; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9624; -0.09819996; 241.0259; Sidewalk; 3.348894; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9594; -0.09819996; 241.0269; Sidewalk; 3.37042; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9558; -0.09819996; 241.0279; Sidewalk; 3.393413; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9539; -0.09819996; 241.0284; Sidewalk; 3.404296; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9523; -0.09819996; 241.0289; Sidewalk; 3.416871; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9467; -0.09819996; 241.0305; Sidewalk; 3.453243; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9429; -0.09819996; 241.0316; Sidewalk; 3.4705; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9394; -0.09819996; 241.0327; Sidewalk; 3.492702; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9377; -0.09819996; 241.0332; Sidewalk; 3.504669; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9336; -0.09819996; 241.0342; Sidewalk; 3.525907; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9293; -0.09819996; 241.035; Sidewalk; 3.549022; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9274; -0.09819996; 241.0355; Sidewalk; 3.55921; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9235; -0.09819996; 241.0365; Sidewalk; 3.590621; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9204; -0.09819996; 241.0368; Sidewalk; 3.600977; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.913; -0.09819996; 241.0378; Sidewalk; 3.62994; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9072; -0.09819996; 241.0383; Sidewalk; 3.648751; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.9018; -0.09819996; 241.0388; Sidewalk; 3.670484; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:53; 804.8965; -0.09819996; 241.0393; Sidewalk; 3.692874; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8927; -0.09819996; 241.0394; Sidewalk; 3.703677; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8896; -0.09819996; 241.0395; Sidewalk; 3.715349; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.879; -0.09819996; 241.0398; Sidewalk; 3.75515; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8713; -0.09819996; 241.0398; Sidewalk; 3.772307; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8634; -0.09819996; 241.0398; Sidewalk; 3.792454; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8596; -0.09819996; 241.0397; Sidewalk; 3.80371; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8529; -0.09819996; 241.0395; Sidewalk; 3.825574; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8428; -0.09819996; 241.0386; Sidewalk; 3.849087; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8345; -0.09819996; 241.038; Sidewalk; 3.870199; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8296; -0.09819996; 241.0376; Sidewalk; 3.882383; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8257; -0.09819996; 241.0371; Sidewalk; 3.902999; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8121; -0.09819996; 241.0352; Sidewalk; 3.926157; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.8017; -0.09819996; 241.0335; Sidewalk; 3.947981; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.792; -0.09819996; 241.0317; Sidewalk; 3.97026; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.7814; -0.09819996; 241.0297; Sidewalk; 3.993116; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.7756; -0.09819996; 241.0285; Sidewalk; 4.003186; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.7635; -0.09819996; 241.0261; Sidewalk; 4.025165; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.7581; -0.09819996; 241.0249; Sidewalk; 4.037799; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.741; -0.09819996; 241.0208; Road; 0; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.7291; -0.09819996; 241.018; Road; 0.0176665; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.7228; -0.09819996; 241.0164; Road; 0.0262772; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.7097; -0.09819996; 241.0131; Road; 0.0480564; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.6972; -0.09819996; 241.0097; Road; 0.0720114; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.6846; -0.09819996; 241.0061; Road; 0.09367219; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.6779; -0.09819996; 241.0044; Road; 0.1040011; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.6711; -0.09819996; 241.0027; Road; 0.1154735; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.6512; -0.09819996; 240.9973; Road; 0.150255; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.6382; -0.09819996; 240.9937; Road; 0.1711617; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.6254; -0.09819996; 240.9901; Road; 0.1923479; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.6131; -0.09819996; 240.9866; Road; 0.2146429; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.6066; -0.09819996; 240.9848; Road; 0.2254297; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5943; -0.09819996; 240.9813; Road; 0.2481543; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5881; -0.09819996; 240.9797; Road; 0.2591268; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5696; -0.09819996; 240.9749; Road; 0.2987338; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5572; -0.09819996; 240.9719; Road; 0.3160505; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5511; -0.09819996; 240.9703; Road; 0.3261825; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5387; -0.09819996; 240.9673; Road; 0.3482699; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5267; -0.09819996; 240.9643; Road; 0.3707214; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5149; -0.09819996; 240.9616; Road; 0.3926838; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5035; -0.09819996; 240.9589; Road; 0.4153978; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.5035; -0.09819996; 240.9589; Road; 0.4153978; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.4867; -0.09819996; 240.9552; Road; 0.4550266; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.4756; -0.09819996; 240.9529; Road; 0.4725122; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.4649; -0.09819996; 240.9508; Road; 0.4922808; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.4545; -0.09819996; 240.9489; Road; 0.5144761; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.449; -0.09819996; 240.9481; Road; 0.5253068; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.4391; -0.09819996; 240.9465; Road; 0.5473625; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.4291; -0.09819996; 240.9451; Road; 0.5710963; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.4243; -0.09819996; 240.9446; Road; 0.5816922; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:54; 804.4093; -0.09819996; 240.9437; Road; 0.6208419; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.4044; -0.09819996; 240.9436; Road; 0.6292269; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3945; -0.09819996; 240.9435; Road; 0.6474486; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3844; -0.09819996; 240.9438; Road; 0.6703517; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3927; -0.09819996; 240.9461; Road; 0.6926042; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.384; -0.09819996; 240.9468; Road; 0.7155203; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3785; -0.09819996; 240.9472; Road; 0.7253473; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3734; -0.09819996; 240.9476; Road; 0.7370858; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3585; -0.09819996; 240.9494; Road; 0.7779823; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3483; -0.09819996; 240.9508; Road; 0.7950354; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3384; -0.09819996; 240.9525; Road; 0.8154035; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3331; -0.09819996; 240.9534; Road; 0.8255578; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3258; -0.09819996; 240.9558; Road; 0.8486118; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3187; -0.09819996; 240.9584; Road; 0.8699688; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.3135; -0.09819996; 240.9597; Road; 0.8810303; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.299; -0.09819996; 240.9642; Road; 0.9221498; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.2949; -0.09819996; 240.966; Road; 0.93085; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.2815; -0.09819996; 240.9692; Road; 0.947831; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.2705; -0.09819996; 240.973; Road; 0.9706092; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.2596; -0.09819996; 240.9768; Road; 0.9925682; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.2471; -0.09819996; 240.9806; Road; 1.014485; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.2413; -0.09819996; 240.9826; Road; 1.025624; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.2354; -0.09819996; 240.9845; Road; 1.036821; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.2174; -0.09819996; 240.9902; Road; 1.07708; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.2059; -0.09819996; 240.9942; Road; 1.09413; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1945; -0.09819996; 240.9979; Road; 1.114674; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1885; -0.09819996; 240.9997; Road; 1.125704; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.177; -0.09819996; 241.0032; Road; 1.147372; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1659; -0.09819996; 241.0066; Road; 1.170522; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1555; -0.09819996; 241.0098; Road; 1.192666; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1502; -0.09819996; 241.0113; Road; 1.204047; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1401; -0.09819996; 241.0144; Road; 1.23301; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1308; -0.09819996; 241.0172; Road; 1.249046; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1221; -0.09819996; 241.02; Road; 1.270118; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1147; -0.09819996; 241.0227; Road; 1.29241; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1071; -0.09819996; 241.0252; Road; 1.314963; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.1033; -0.09819996; 241.0265; Road; 1.325354; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0967; -0.09819996; 241.0289; Road; 1.347501; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0933; -0.09819996; 241.03; Road; 1.358871; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.084; -0.09819996; 241.0332; Road; 1.397854; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0778; -0.09819996; 241.0351; Road; 1.4152; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0746; -0.09819996; 241.0359; Road; 1.425181; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0684; -0.09819996; 241.0375; Road; 1.448132; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0623; -0.09819996; 241.0389; Road; 1.469837; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0569; -0.09819996; 241.0402; Road; 1.49187; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0538; -0.09819996; 241.0407; Road; 1.503339; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0508; -0.09819996; 241.0411; Road; 1.514593; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0421; -0.09819996; 241.0421; Road; 1.553612; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0359; -0.09819996; 241.0424; Road; 1.569889; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.03; -0.09819996; 241.0427; Road; 1.59209; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:55; 804.0239; -0.09819996; 241.0428; Road; 1.614449; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 804.0212; -0.09819996; 241.0427; Road; 1.626102; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 804.0159; -0.09819996; 241.0426; Road; 1.647863; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 804.0125; -0.09819996; 241.0424; Road; 1.659598; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 804.0027; -0.09819996; 241.0417; Road; 1.697898; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.9952; -0.09819996; 241.041; Road; 1.715355; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.992; -0.09819996; 241.0407; Road; 1.724816; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.9836; -0.09819996; 241.0397; Road; 1.747176; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.9749; -0.09819996; 241.039; Road; 1.770762; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.9653; -0.09819996; 241.0384; Road; 1.792205; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.9544; -0.09819996; 241.0377; Road; 1.814448; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.9544; -0.09819996; 241.0377; Road; 1.814448; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.9424; -0.09819996; 241.0372; Road; 1.846383; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.9291; -0.09819996; 241.0372; Road; 1.868829; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.9052; -0.09819996; 241.0386; Road; 1.896589; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8851; -0.09819996; 241.041; Road; 1.915209; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8739; -0.09819996; 241.0428; Road; 1.924767; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.851; -0.09819996; 241.0474; Road; 1.946837; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8281; -0.09819996; 241.0541; Road; 1.969854; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8068; -0.09819996; 241.0618; Road; 1.998268; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.788; -0.09819996; 241.071; Road; 2.015785; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7799; -0.09819996; 241.0758; Road; 2.024595; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7651; -0.09819996; 241.0855; Road; 2.046739; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7537; -0.09819996; 241.0956; Road; 2.069265; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7442; -0.09819996; 241.1059; Road; 2.091226; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7392; -0.09819996; 241.1164; Road; 2.113237; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7349; -0.09819996; 241.1215; Road; 2.125076; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7292; -0.09819996; 241.131; Road; 2.153574; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7316; -0.09819996; 241.1413; Road; 2.170513; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7366; -0.09819996; 241.1511; Road; 2.19169; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7467; -0.09819996; 241.1608; Road; 2.213636; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7504; -0.09819996; 241.1651; Road; 2.223982; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.762; -0.09819996; 241.173; Road; 2.246085; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7762; -0.09819996; 241.1802; Road; 2.269206; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7817; -0.09819996; 241.183; Road; 2.280328; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.7987; -0.09819996; 241.1903; Road; 2.320379; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8046; -0.09819996; 241.1922; Road; 2.328128; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.814; -0.09819996; 241.1953; Road; 2.346157; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.822; -0.09819996; 241.1977; Road; 2.368467; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8276; -0.09819996; 241.1993; Road; 2.390555; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8317; -0.09819996; 241.2004; Road; 2.412806; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8336; -0.09819996; 241.2009; Road; 2.424537; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8342; -0.09819996; 241.2012; Road; 2.435081; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8357; -0.09819996; 241.2016; Road; 2.474867; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8357; -0.09819996; 241.2016; Road; 2.49072; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8337; -0.09819996; 241.2012; Road; 2.513267; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8325; -0.09819996; 241.201; Road; 2.523937; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8293; -0.09819996; 241.2002; Road; 2.54619; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8251; -0.09819996; 241.1993; Road; 2.568386; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8206; -0.09819996; 241.1982; Road; 2.590717; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:56; 803.8157; -0.09819996; 241.197; Road; 2.620033; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8126; -0.09819996; 241.1962; Road; 2.629371; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8048; -0.09819996; 241.194; Road; 2.646672; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7949; -0.09819996; 241.1908; Road; 2.668009; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7813; -0.09819996; 241.1863; Road; 2.697038; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7668; -0.09819996; 241.1806; Road; 2.716055; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7591; -0.09819996; 241.1772; Road; 2.723766; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7433; -0.09819996; 241.1693; Road; 2.745915; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.735; -0.09819996; 241.1647; Road; 2.757978; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7111; -0.09819996; 241.1487; Road; 2.799596; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.6991; -0.09819996; 241.1366; Road; 2.815188; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.6936; -0.09819996; 241.1301; Road; 2.824106; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.6863; -0.09819996; 241.1164; Road; 2.845895; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.6829; -0.09819996; 241.1022; Road; 2.868495; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.6835; -0.09819996; 241.0878; Road; 2.890939; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.6848; -0.09819996; 241.0806; Road; 2.901739; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.6876; -0.09819996; 241.0733; Road; 2.913009; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.6998; -0.09819996; 241.0527; Road; 2.956355; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7118; -0.09819996; 241.0396; Road; 2.973152; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7269; -0.09819996; 241.0274; Road; 2.990733; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7441; -0.09819996; 241.0164; Road; 3.013111; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7534; -0.09819996; 241.0115; Road; 3.024734; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7719; -0.09819996; 241.0025; Road; 3.046692; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7812; -0.09819996; 240.9986; Road; 3.057999; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.7906; -0.09819996; 240.995; Road; 3.069817; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8163; -0.09819996; 240.9872; Road; 3.109334; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.831; -0.09819996; 240.981; Road; 3.126461; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8438; -0.09819996; 240.9773; Road; 3.147154; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8602; -0.09819996; 240.9753; Road; 3.168847; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.868; -0.09819996; 240.9735; Road; 3.192088; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8739; -0.09819996; 240.9722; Road; 3.21465; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8739; -0.09819996; 240.9722; Road; 3.21465; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.876; -0.09819996; 240.9714; Road; 3.246546; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8765; -0.09819996; 240.9707; Road; 3.269394; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8744; -0.09819996; 240.97; Road; 3.296746; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8734; -0.09819996; 240.9698; Road; 3.314506; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8723; -0.09819996; 240.9696; Road; 3.325243; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8716; -0.09819996; 240.9695; Road; 3.347391; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.871; -0.09819996; 240.9693; Road; 3.369201; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8707; -0.09819996; 240.9691; Road; 3.380905; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8701; -0.09819996; 240.9689; Road; 3.419922; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8701; -0.09819996; 240.9689; Road; 3.427875; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8696; -0.09819996; 240.9686; Road; 3.447103; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8683; -0.09819996; 240.9683; Road; 3.469641; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8675; -0.09819996; 240.968; Road; 3.491916; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8658; -0.09819996; 240.9679; Road; 3.514239; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8652; -0.09819996; 240.9678; Road; 3.524986; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8625; -0.09819996; 240.9677; Road; 3.553835; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8597; -0.09819996; 240.9676; Road; 3.573264; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8564; -0.09819996; 240.9675; Road; 3.591705; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:57; 803.8521; -0.09819996; 240.9674; Road; 3.613955; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.85; -0.09819996; 240.9673; Road; 3.625274; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.8453; -0.09819996; 240.9671; Road; 3.646363; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.8403; -0.09819996; 240.9668; Road; 3.668763; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.8372; -0.09819996; 240.9665; Road; 3.680079; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.8291; -0.09819996; 240.9657; Road; 3.721478; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.8264; -0.09819996; 240.9654; Road; 3.729699; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.8206; -0.09819996; 240.9647; Road; 3.747219; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.8148; -0.09819996; 240.9638; Road; 3.769044; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.8085; -0.09819996; 240.9626; Road; 3.791411; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.8022; -0.09819996; 240.9613; Road; 3.81494; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.799; -0.09819996; 240.9606; Road; 3.825877; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7958; -0.09819996; 240.96; Road; 3.836678; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7866; -0.09819996; 240.9578; Road; 3.876148; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.78; -0.09819996; 240.9561; Road; 3.894243; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7739; -0.09819996; 240.9545; Road; 3.913193; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.771; -0.09819996; 240.9537; Road; 3.924442; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7653; -0.09819996; 240.952; Road; 3.946411; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7592; -0.09819996; 240.9502; Road; 3.969322; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7532; -0.09819996; 240.9484; Road; 3.990973; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7502; -0.09819996; 240.9475; Road; 4.002691; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7445; -0.09819996; 240.946; Road; 4.031784; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7388; -0.09819996; 240.9445; Road; 4.048889; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7334; -0.09819996; 240.9431; Road; 4.068416; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7281; -0.09819996; 240.942; Road; 4.0913; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7232; -0.09819996; 240.9411; Road; 4.112869; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7207; -0.09819996; 240.9406; Road; 4.125103; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7158; -0.09819996; 240.94; Road; 4.146086; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7106; -0.09819996; 240.9396; Road; 4.17588; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7058; -0.09819996; 240.9394; Road; 4.194789; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.7009; -0.09819996; 240.9395; Road; 4.214673; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6982; -0.09819996; 240.9395; Road; 4.223652; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6926; -0.09819996; 240.9397; Road; 4.246284; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6874; -0.09819996; 240.9403; Road; 4.268247; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6819; -0.09819996; 240.941; Road; 4.290832; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6795; -0.09819996; 240.9416; Road; 4.302191; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6767; -0.09819996; 240.9421; Road; 4.313657; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.668; -0.09819996; 240.9439; Road; 4.352535; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6621; -0.09819996; 240.9454; Road; 4.368551; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6559; -0.09819996; 240.9472; Road; 4.391703; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6505; -0.09819996; 240.9493; Road; 4.412866; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6472; -0.09819996; 240.9504; Road; 4.424541; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6415; -0.09819996; 240.9528; Road; 4.446015; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6386; -0.09819996; 240.954; Road; 4.457592; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6321; -0.09819996; 240.9566; Road; 4.49016; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6226; -0.09819996; 240.9608; Road; 4.521472; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6194; -0.09819996; 240.9622; Road; 4.530103; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6133; -0.09819996; 240.9652; Road; 4.548231; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6068; -0.09819996; 240.9682; Road; 4.56818; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.6008; -0.09819996; 240.9714; Road; 4.590372; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.5943; -0.09819996; 240.9745; Road; 4.613103; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:58; 803.5943; -0.09819996; 240.9745; Road; 4.613103; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5841; -0.09819996; 240.9789; Road; 4.652765; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5774; -0.09819996; 240.9818; Road; 4.6684; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5706; -0.09819996; 240.9845; Road; 4.690926; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5638; -0.09819996; 240.9872; Road; 4.712901; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5606; -0.09819996; 240.9885; Road; 4.72466; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.555; -0.09819996; 240.9911; Road; 4.746004; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5493; -0.09819996; 240.9938; Road; 4.768938; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5464; -0.09819996; 240.9951; Road; 4.779677; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5381; -0.09819996; 240.9989; Road; 4.82087; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5353; -0.09819996; 241.0002; Road; 4.829371; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5302; -0.09819996; 241.0026; Road; 4.846073; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.525; -0.09819996; 241.005; Road; 4.868222; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5198; -0.09819996; 241.0071; Road; 4.890467; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5151; -0.09819996; 241.0092; Road; 4.912735; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5126; -0.09819996; 241.0102; Road; 4.924368; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5076; -0.09819996; 241.012; Road; 4.953747; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.5024; -0.09819996; 241.0135; Road; 4.97366; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4968; -0.09819996; 241.0148; Road; 4.990313; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4912; -0.09819996; 241.0157; Road; 5.012898; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4885; -0.09819996; 241.0161; Road; 5.024012; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4831; -0.09819996; 241.0167; Road; 5.046378; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4782; -0.09819996; 241.017; Road; 5.068299; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.476; -0.09819996; 241.017; Road; 5.079741; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4702; -0.09819996; 241.0168; Road; 5.119259; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4684; -0.09819996; 241.0166; Road; 5.127207; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4649; -0.09819996; 241.016; Road; 5.146004; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4618; -0.09819996; 241.0152; Road; 5.167673; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4583; -0.09819996; 241.0141; Road; 5.190669; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4539; -0.09819996; 241.0128; Road; 5.213296; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4522; -0.09819996; 241.0122; Road; 5.223845; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4507; -0.09819996; 241.0116; Road; 5.23516; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4463; -0.09819996; 241.0099; Road; 5.277138; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4443; -0.09819996; 241.009; Road; 5.294824; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4431; -0.09819996; 241.0081; Road; 5.313695; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4421; -0.09819996; 241.0076; Road; 5.324126; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4407; -0.09819996; 241.0065; Road; 5.345958; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4394; -0.09819996; 241.0054; Road; 5.368595; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4382; -0.09819996; 241.0043; Road; 5.390881; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4369; -0.09819996; 241.0031; Road; 5.419928; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4363; -0.09819996; 241.0025; Road; 5.429884; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4352; -0.09819996; 241.0014; Road; 5.449075; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4347; -0.09819996; 241.0004; Road; 5.467574; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4337; -0.09819996; 240.9993; Road; 5.490877; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4325; -0.09819996; 240.9982; Road; 5.512513; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4324; -0.09819996; 240.9977; Road; 5.524502; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4315; -0.09819996; 240.9966; Road; 5.545922; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4307; -0.09819996; 240.9954; Road; 5.574562; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.4297; -0.09819996; 240.9942; Road; 5.59413; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:12:59; 803.429; -0.09819996; 240.993; Road; 5.612447; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4286; -0.09819996; 240.9925; Road; 5.624828; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4278; -0.09819996; 240.9914; Road; 5.646824; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4272; -0.09819996; 240.9902; Road; 5.668612; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4267; -0.09819996; 240.9891; Road; 5.690022; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4261; -0.09819996; 240.9885; Road; 5.701886; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4258; -0.09819996; 240.988; Road; 5.71321; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.425; -0.09819996; 240.9868; Road; 5.746595; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4241; -0.09819996; 240.9854; Road; 5.775948; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4233; -0.09819996; 240.9846; Road; 5.793142; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4221; -0.09819996; 240.9838; Road; 5.81249; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4216; -0.09819996; 240.9834; Road; 5.823136; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4207; -0.09819996; 240.9828; Road; 5.845828; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.42; -0.09819996; 240.9824; Road; 5.856975; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4182; -0.09819996; 240.9815; Road; 5.89743; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4172; -0.09819996; 240.9809; Road; 5.915576; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4167; -0.09819996; 240.9807; Road; 5.923606; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4158; -0.09819996; 240.9804; Road; 5.945769; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4147; -0.09819996; 240.98; Road; 5.968028; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4135; -0.09819996; 240.9796; Road; 5.99016; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4124; -0.09819996; 240.9793; Road; 6.01265; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4124; -0.09819996; 240.9793; Road; 6.01265; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4119; -0.09819996; 240.979; Road; 6.044477; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4109; -0.09819996; 240.9787; Road; 6.077469; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4102; -0.09819996; 240.9786; Road; 6.095821; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4091; -0.09819996; 240.9784; Road; 6.114541; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4085; -0.09819996; 240.9783; Road; 6.123165; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4073; -0.09819996; 240.9783; Road; 6.145332; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4067; -0.09819996; 240.9783; Road; 6.167681; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4059; -0.09819996; 240.9784; Road; 6.196855; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4053; -0.09819996; 240.9785; Road; 6.217307; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4047; -0.09819996; 240.9785; Road; 6.226169; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4041; -0.09819996; 240.9786; Road; 6.246727; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4032; -0.09819996; 240.9787; Road; 6.267925; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4022; -0.09819996; 240.9788; Road; 6.289775; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4015; -0.09819996; 240.9789; Road; 6.312429; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4012; -0.09819996; 240.979; Road; 6.32422; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4006; -0.09819996; 240.9791; Road; 6.352664; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.4; -0.09819996; 240.9792; Road; 6.373301; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3995; -0.09819996; 240.9793; Road; 6.390563; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3988; -0.09819996; 240.9794; Road; 6.412915; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3984; -0.09819996; 240.9795; Road; 6.424056; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3976; -0.09819996; 240.9798; Road; 6.445728; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3968; -0.09819996; 240.9801; Road; 6.467352; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3964; -0.09819996; 240.9804; Road; 6.489579; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3961; -0.09819996; 240.9807; Road; 6.518431; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3964; -0.09819996; 240.9808; Road; 6.528145; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3968; -0.09819996; 240.9811; Road; 6.545431; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3976; -0.09819996; 240.9814; Road; 6.567283; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3986; -0.09819996; 240.9816; Road; 6.589919; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:00; 803.3998; -0.09819996; 240.9818; Road; 6.612004; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4004; -0.09819996; 240.9819; Road; 6.623316; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4017; -0.09819996; 240.9821; Road; 6.645574; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4029; -0.09819996; 240.9823; Road; 6.673744; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4037; -0.09819996; 240.9824; Road; 6.691261; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4046; -0.09819996; 240.9825; Road; 6.712333; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4049; -0.09819996; 240.9825; Road; 6.722804; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4058; -0.09819996; 240.9827; Road; 6.745151; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4067; -0.09819996; 240.983; Road; 6.767174; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4073; -0.09819996; 240.9832; Road; 6.789858; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4086; -0.09819996; 240.9836; Road; 6.81888; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4092; -0.09819996; 240.9837; Road; 6.828688; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4099; -0.09819996; 240.9841; Road; 6.848396; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4106; -0.09819996; 240.9844; Road; 6.86817; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4116; -0.09819996; 240.9848; Road; 6.889535; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4122; -0.09819996; 240.9852; Road; 6.911811; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4125; -0.09819996; 240.9854; Road; 6.923261; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.413; -0.09819996; 240.9859; Road; 6.946026; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.414; -0.09819996; 240.9863; Road; 6.974465; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4146; -0.09819996; 240.9868; Road; 6.994326; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4151; -0.09819996; 240.9872; Road; 7.011624; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4151; -0.09819996; 240.9875; Road; 7.022755; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4154; -0.09819996; 240.988; Road; 7.045404; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4151; -0.09819996; 240.9885; Road; 7.066953; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.415; -0.09819996; 240.989; Road; 7.090346; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4151; -0.09819996; 240.9895; Road; 7.111817; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4151; -0.09819996; 240.9897; Road; 7.130655; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4144; -0.09819996; 240.99; Road; 7.148781; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4142; -0.09819996; 240.9903; Road; 7.166799; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4141; -0.09819996; 240.9907; Road; 7.189082; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4141; -0.09819996; 240.9911; Road; 7.211798; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4139; -0.09819996; 240.9912; Road; 7.222579; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4132; -0.09819996; 240.9916; Road; 7.244955; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4131; -0.09819996; 240.9919; Road; 7.268092; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4122; -0.09819996; 240.9921; Road; 7.297355; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4121; -0.09819996; 240.9924; Road; 7.316499; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4122; -0.09819996; 240.9926; Road; 7.325897; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4119; -0.09819996; 240.9928; Road; 7.345858; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4113; -0.09819996; 240.9932; Road; 7.367201; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4113; -0.09819996; 240.9935; Road; 7.38935; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4111; -0.09819996; 240.9936; Road; 7.411921; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4109; -0.09819996; 240.9937; Road; 7.4231; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4111; -0.09819996; 240.9939; Road; 7.45035; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4114; -0.09819996; 240.9941; Road; 7.468474; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4112; -0.09819996; 240.9942; Road; 7.488942; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4108; -0.09819996; 240.9943; Road; 7.511497; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4102; -0.09819996; 240.9942; Road; 7.523118; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4099; -0.09819996; 240.9943; Road; 7.545004; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4094; -0.09819996; 240.9944; Road; 7.567028; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4091; -0.09819996; 240.9945; Road; 7.578485; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:01; 803.4084; -0.09819996; 240.9947; Road; 7.614624; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4081; -0.09819996; 240.9947; Road; 7.624139; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.408; -0.09819996; 240.9948; Road; 7.645837; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4075; -0.09819996; 240.9948; Road; 7.666837; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4075; -0.09819996; 240.9948; Road; 7.688799; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4071; -0.09819996; 240.9948; Road; 7.71181; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4075; -0.09819996; 240.995; Road; 7.723515; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4069; -0.09819996; 240.995; Road; 7.752463; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4063; -0.09819996; 240.995; Road; 7.770006; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4058; -0.09819996; 240.995; Road; 7.788727; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4053; -0.09819996; 240.9951; Road; 7.8123; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4049; -0.09819996; 240.9951; Road; 7.822668; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4041; -0.09819996; 240.9951; Road; 7.845495; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4032; -0.09819996; 240.9949; Road; 7.866871; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4025; -0.09819996; 240.9949; Road; 7.889012; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4019; -0.09819996; 240.9949; Road; 7.917039; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4019; -0.09819996; 240.995; Road; 7.925233; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4013; -0.09819996; 240.995; Road; 7.944689; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.4003; -0.09819996; 240.9949; Road; 7.966769; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3994; -0.09819996; 240.9949; Road; 7.98961; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3983; -0.09819996; 240.9948; Road; 8.012476; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3983; -0.09819996; 240.9949; Road; 8.022408; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3976; -0.09819996; 240.9948; Road; 8.045378; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3968; -0.09819996; 240.9946; Road; 8.072129; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3964; -0.09819996; 240.9945; Road; 8.088977; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3955; -0.09819996; 240.9943; Road; 8.111591; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3952; -0.09819996; 240.9942; Road; 8.122892; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3945; -0.09819996; 240.9941; Road; 8.145117; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3941; -0.09819996; 240.994; Road; 8.166831; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3935; -0.09819996; 240.9938; Road; 8.188885; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3929; -0.09819996; 240.9937; Road; 8.219086; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3929; -0.09819996; 240.9936; Road; 8.229174; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3929; -0.09819996; 240.9935; Road; 8.24755; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3929; -0.09819996; 240.9935; Road; 8.266868; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3929; -0.09819996; 240.9933; Road; 8.289544; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.393; -0.09819996; 240.9931; Road; 8.311674; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3933; -0.09819996; 240.9931; Road; 8.322376; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.393; -0.09819996; 240.9928; Road; 8.34528; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3933; -0.09819996; 240.9926; Road; 8.373882; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3933; -0.09819996; 240.9924; Road; 8.394416; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3933; -0.09819996; 240.9921; Road; 8.412628; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.393; -0.09819996; 240.9919; Road; 8.423182; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3926; -0.09819996; 240.9917; Road; 8.445646; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3925; -0.09819996; 240.9914; Road; 8.466393; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3925; -0.09819996; 240.9912; Road; 8.489498; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3923; -0.09819996; 240.9912; Road; 8.500602; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3923; -0.09819996; 240.9911; Road; 8.511832; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3916; -0.09819996; 240.9907; Road; 8.546524; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3919; -0.09819996; 240.9905; Road; 8.567132; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3912; -0.09819996; 240.9902; Road; 8.588509; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:02; 803.3904; -0.09819996; 240.9898; Road; 8.611665; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3901; -0.09819996; 240.9897; Road; 8.622127; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3897; -0.09819996; 240.9893; Road; 8.644942; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3901; -0.09819996; 240.989; Road; 8.666631; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.39; -0.09819996; 240.9888; Road; 8.696552; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3898; -0.09819996; 240.9885; Road; 8.715721; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3896; -0.09819996; 240.9884; Road; 8.723586; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3892; -0.09819996; 240.9881; Road; 8.744326; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3894; -0.09819996; 240.9878; Road; 8.766171; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3887; -0.09819996; 240.9874; Road; 8.788669; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3887; -0.09819996; 240.9871; Road; 8.811604; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3884; -0.09819996; 240.9869; Road; 8.822551; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3876; -0.09819996; 240.9865; Road; 8.850208; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3872; -0.09819996; 240.9862; Road; 8.868555; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3868; -0.09819996; 240.9858; Road; 8.8881; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3865; -0.09819996; 240.9854; Road; 8.912171; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3865; -0.09819996; 240.9854; Road; 8.922181; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3862; -0.09819996; 240.985; Road; 8.945128; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3857; -0.09819996; 240.9847; Road; 8.966482; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3847; -0.09819996; 240.9842; Road; 8.996831; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3841; -0.09819996; 240.9838; Road; 9.016639; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.384; -0.09819996; 240.9837; Road; 9.026379; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3834; -0.09819996; 240.9832; Road; 9.04469; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3828; -0.09819996; 240.9829; Road; 9.066175; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3829; -0.09819996; 240.9827; Road; 9.088859; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3822; -0.09819996; 240.9823; Road; 9.111073; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3819; -0.09819996; 240.9821; Road; 9.122263; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.381; -0.09819996; 240.9818; Road; 9.151583; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3803; -0.09819996; 240.9815; Road; 9.170093; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3796; -0.09819996; 240.9812; Road; 9.18846; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3787; -0.09819996; 240.9809; Road; 9.211187; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3781; -0.09819996; 240.9807; Road; 9.221966; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3773; -0.09819996; 240.9805; Road; 9.245013; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3765; -0.09819996; 240.9802; Road; 9.266896; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3756; -0.09819996; 240.9799; Road; 9.288645; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3748; -0.09819996; 240.9796; Road; 9.317725; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3743; -0.09819996; 240.9795; Road; 9.326763; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.373; -0.09819996; 240.9791; Road; 9.344743; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3721; -0.09819996; 240.9787; Road; 9.365979; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3713; -0.09819996; 240.9785; Road; 9.38807; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3706; -0.09819996; 240.9782; Road; 9.411255; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3701; -0.09819996; 240.978; Road; 9.422589; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3692; -0.09819996; 240.9777; Road; 9.444231; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3685; -0.09819996; 240.9774; Road; 9.473078; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3679; -0.09819996; 240.9771; Road; 9.489278; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3672; -0.09819996; 240.9768; Road; 9.511916; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3669; -0.09819996; 240.9766; Road; 9.52143; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3661; -0.09819996; 240.9763; Road; 9.54396; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3652; -0.09819996; 240.976; Road; 9.566153; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3638; -0.09819996; 240.9756; Road; 9.588696; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:03; 803.3632; -0.09819996; 240.9754; Road; 9.619013; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3628; -0.09819996; 240.9752; Road; 9.628452; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3622; -0.09819996; 240.975; Road; 9.646637; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3614; -0.09819996; 240.9746; Road; 9.666797; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3607; -0.09819996; 240.9744; Road; 9.688229; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3595; -0.09819996; 240.974; Road; 9.710697; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3592; -0.09819996; 240.9738; Road; 9.722034; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3583; -0.09819996; 240.9734; Road; 9.744561; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3579; -0.09819996; 240.9731; Road; 9.772944; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3572; -0.09819996; 240.9727; Road; 9.792738; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3564; -0.09819996; 240.9724; Road; 9.810619; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3561; -0.09819996; 240.9723; Road; 9.822242; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3554; -0.09819996; 240.972; Road; 9.844948; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3542; -0.09819996; 240.9716; Road; 9.866125; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3532; -0.09819996; 240.9712; Road; 9.888233; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3529; -0.09819996; 240.971; Road; 9.900373; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3526; -0.09819996; 240.9709; Road; 9.911052; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3517; -0.09819996; 240.9704; Road; 9.9551; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.351; -0.09819996; 240.9701; Road; 9.973797; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3504; -0.09819996; 240.9698; Road; 9.992558; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3505; -0.09819996; 240.9697; Road; 10.01069; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3504; -0.09819996; 240.9696; Road; 10.02159; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3502; -0.09819996; 240.9694; Road; 10.04436; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.35; -0.09819996; 240.9692; Road; 10.06678; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3497; -0.09819996; 240.969; Road; 10.0958; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3497; -0.09819996; 240.9688; Road; 10.11516; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3497; -0.09819996; 240.9687; Road; 10.12466; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3494; -0.09819996; 240.9684; Road; 10.14342; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3494; -0.09819996; 240.9683; Road; 10.16626; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3497; -0.09819996; 240.9682; Road; 10.1879; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3499; -0.09819996; 240.968; Road; 10.21073; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3502; -0.09819996; 240.968; Road; 10.22192; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3505; -0.09819996; 240.9678; Road; 10.25067; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3511; -0.09819996; 240.9678; Road; 10.26918; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3516; -0.09819996; 240.9677; Road; 10.28846; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3521; -0.09819996; 240.9677; Road; 10.3109; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3525; -0.09819996; 240.9677; Road; 10.32189; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3531; -0.09819996; 240.9676; Road; 10.34456; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3541; -0.09819996; 240.9676; Road; 10.36584; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3544; -0.09819996; 240.9676; Road; 10.39539; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3549; -0.09819996; 240.9676; Road; 10.41633; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3556; -0.09819996; 240.9676; Road; 10.42525; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3564; -0.09819996; 240.9677; Road; 10.44389; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3574; -0.09819996; 240.9678; Road; 10.46562; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3584; -0.09819996; 240.9678; Road; 10.48772; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3591; -0.09819996; 240.9679; Road; 10.51144; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3593; -0.09819996; 240.968; Road; 10.52172; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3604; -0.09819996; 240.9681; Road; 10.55084; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3615; -0.09819996; 240.9682; Road; 10.57235; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3622; -0.09819996; 240.9682; Road; 10.59012; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3633; -0.09819996; 240.9682; Road; 10.61106; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:04; 803.3637; -0.09819996; 240.9681; Road; 10.62257; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3646; -0.09819996; 240.9681; Road; 10.64385; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3654; -0.09819996; 240.968; Road; 10.66569; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3665; -0.09819996; 240.968; Road; 10.68876; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3676; -0.09819996; 240.968; Road; 10.71767; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.368; -0.09819996; 240.968; Road; 10.72663; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3696; -0.09819996; 240.9681; Road; 10.74379; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3703; -0.09819996; 240.9681; Road; 10.76612; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.371; -0.09819996; 240.9682; Road; 10.78774; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3716; -0.09819996; 240.9682; Road; 10.81033; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3719; -0.09819996; 240.9682; Road; 10.82112; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3729; -0.09819996; 240.9683; Road; 10.8437; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3733; -0.09819996; 240.9684; Road; 10.87093; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.374; -0.09819996; 240.9684; Road; 10.88877; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3748; -0.09819996; 240.9685; Road; 10.91062; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3753; -0.09819996; 240.9685; Road; 10.92143; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3759; -0.09819996; 240.9685; Road; 10.94335; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3767; -0.09819996; 240.9686; Road; 10.96633; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3773; -0.09819996; 240.9687; Road; 10.98783; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3782; -0.09819996; 240.9688; Road; 11.01715; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3785; -0.09819996; 240.9689; Road; 11.02667; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3789; -0.09819996; 240.9689; Road; 11.04563; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3792; -0.09819996; 240.9689; Road; 11.0659; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3792; -0.09819996; 240.9689; Road; 11.08847; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3792; -0.09819996; 240.969; Road; 11.11032; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3788; -0.09819996; 240.969; Road; 11.1211; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3788; -0.09819996; 240.9691; Road; 11.14376; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3788; -0.09819996; 240.9692; Road; 11.17255; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3785; -0.09819996; 240.9691; Road; 11.19364; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3782; -0.09819996; 240.9691; Road; 11.21211; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3777; -0.09819996; 240.969; Road; 11.22188; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3771; -0.09819996; 240.9689; Road; 11.24351; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3767; -0.09819996; 240.9689; Road; 11.26533; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3762; -0.09819996; 240.969; Road; 11.28721; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.376; -0.09819996; 240.969; Road; 11.29955; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3757; -0.09819996; 240.9691; Road; 11.31045; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3745; -0.09819996; 240.9691; Road; 11.34761; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.374; -0.09819996; 240.9691; Road; 11.36572; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3735; -0.09819996; 240.9692; Road; 11.38863; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3724; -0.09819996; 240.9692; Road; 11.4103; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3719; -0.09819996; 240.9692; Road; 11.4216; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3711; -0.09819996; 240.9693; Road; 11.44401; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3702; -0.09819996; 240.9693; Road; 11.46531; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3693; -0.09819996; 240.9693; Road; 11.49346; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3684; -0.09819996; 240.9693; Road; 11.51242; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3681; -0.09819996; 240.9693; Road; 11.52107; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3674; -0.09819996; 240.9693; Road; 11.54393; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3663; -0.09819996; 240.9694; Road; 11.56519; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3654; -0.09819996; 240.9694; Road; 11.58738; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:05; 803.3643; -0.09819996; 240.9694; Road; 11.60976; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3639; -0.09819996; 240.9694; Road; 11.62117; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3628; -0.09819996; 240.9695; Road; 11.64848; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3617; -0.09819996; 240.9695; Road; 11.66736; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3607; -0.09819996; 240.9695; Road; 11.68743; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3599; -0.09819996; 240.9695; Road; 11.71015; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3593; -0.09819996; 240.9694; Road; 11.7212; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3583; -0.09819996; 240.9694; Road; 11.74294; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3574; -0.09819996; 240.9695; Road; 11.76585; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3563; -0.09819996; 240.9695; Road; 11.79643; Checking Box Human Car
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3552; -0.09819996; 240.9695; Road; 11.81521; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3543; -0.09819996; 240.9694; Road; 11.82421; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3531; -0.09819996; 240.9694; Road; 11.84378; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3519; -0.09819996; 240.9694; Road; 11.86492; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3502; -0.09819996; 240.9693; Road; 11.88741; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3491; -0.09819996; 240.9693; Road; 11.91063; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3488; -0.09819996; 240.9693; Road; 11.9206; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3475; -0.09819996; 240.9693; Road; 11.95156; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3466; -0.09819996; 240.9693; Road; 11.97119; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3456; -0.09819996; 240.9693; Road; 11.99033; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3448; -0.09819996; 240.9693; Road; 12.00969; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3443; -0.09819996; 240.9693; Road; 12.02083; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3434; -0.09819996; 240.9692; Road; 12.04304; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.342; -0.09819996; 240.9691; Road; 12.06533; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3411; -0.09819996; 240.969; Road; 12.08715; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3408; -0.09819996; 240.969; Road; 12.11665; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3406; -0.09819996; 240.969; Road; 12.12567; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.34; -0.09819996; 240.9689; Road; 12.14391; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3394; -0.09819996; 240.9688; Road; 12.16518; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3392; -0.09819996; 240.9687; Road; 12.18703; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3389; -0.09819996; 240.9686; Road; 12.20972; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3385; -0.09819996; 240.9684; Road; 12.22071; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3383; -0.09819996; 240.9684; Road; 12.24322; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.338; -0.09819996; 240.9683; Road; 12.27023; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.338; -0.09819996; 240.9682; Road; 12.2884; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3376; -0.09819996; 240.9681; Road; 12.3095; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3378; -0.09819996; 240.968; Road; 12.32052; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3372; -0.09819996; 240.9679; Road; 12.3435; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3372; -0.09819996; 240.9678; Road; 12.37605; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3372; -0.09819996; 240.9677; Road; 12.38685; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3371; -0.09819996; 240.9676; Road; 12.41652; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3374; -0.09819996; 240.9676; Road; 12.42643; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3373; -0.09819996; 240.9675; Road; 12.44481; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3374; -0.09819996; 240.9674; Road; 12.46531; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3381; -0.09819996; 240.9674; Road; 12.48772; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3379; -0.09819996; 240.9673; Road; 12.50916; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3379; -0.09819996; 240.9673; Road; 12.52069; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3375; -0.09819996; 240.9671; Road; 12.5433; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3375; -0.09819996; 240.9671; Road; 12.57247; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3376; -0.09819996; 240.967; Road; 12.59287; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3383; -0.09819996; 240.9671; Road; 12.60939; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:06; 803.3386; -0.09819996; 240.967; Road; 12.62055; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3386; -0.09819996; 240.967; Road; 12.64339; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.339; -0.09819996; 240.967; Road; 12.66501; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3393; -0.09819996; 240.967; Road; 12.68714; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3394; -0.09819996; 240.9671; Road; 12.70977; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3401; -0.09819996; 240.9671; Road; 12.72814; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3401; -0.09819996; 240.9672; Road; 12.74799; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3401; -0.09819996; 240.9672; Road; 12.76692; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3398; -0.09819996; 240.9672; Road; 12.78711; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3397; -0.09819996; 240.9671; Road; 12.80956; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3397; -0.09819996; 240.9671; Road; 12.82111; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3395; -0.09819996; 240.967; Road; 12.84261; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3395; -0.09819996; 240.967; Road; 12.86562; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3394; -0.09819996; 240.967; Road; 12.89478; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3393; -0.09819996; 240.9669; Road; 12.91427; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.339; -0.09819996; 240.9669; Road; 12.92371; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.339; -0.09819996; 240.9669; Road; 12.9427; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3383; -0.09819996; 240.9669; Road; 12.97714; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3382; -0.09819996; 240.9669; Road; 12.98662; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3375; -0.09819996; 240.9667; Road; 13.00957; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3368; -0.09819996; 240.9666; Road; 13.02057; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3359; -0.09819996; 240.9666; Road; 13.05005; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3351; -0.09819996; 240.9666; Road; 13.07832; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3345; -0.09819996; 240.9667; Road; 13.09938; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.334; -0.09819996; 240.9668; Road; 13.10886; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3337; -0.09819996; 240.9668; Road; 13.12031; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3326; -0.09819996; 240.9669; Road; 13.1431; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3315; -0.09819996; 240.9671; Road; 13.16493; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3298; -0.09819996; 240.9672; Road; 13.19436; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3283; -0.09819996; 240.9672; Road; 13.21431; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3282; -0.09819996; 240.9674; Road; 13.22292; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3264; -0.09819996; 240.9676; Road; 13.25343; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3252; -0.09819996; 240.9677; Road; 13.27557; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3246; -0.09819996; 240.9679; Road; 13.28663; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3223; -0.09819996; 240.9684; Road; 13.3205; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3223; -0.09819996; 240.9684; Road; 13.3205; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3217; -0.09819996; 240.9686; Road; 13.33117; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3204; -0.09819996; 240.9693; Road; 13.37059; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3188; -0.09819996; 240.9697; Road; 13.38875; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3176; -0.09819996; 240.9704; Road; 13.42106; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3169; -0.09819996; 240.9707; Road; 13.4313; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3163; -0.09819996; 240.9709; Road; 13.4422; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3147; -0.09819996; 240.9714; Road; 13.47563; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3147; -0.09819996; 240.9714; Road; 13.47563; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3132; -0.09819996; 240.972; Road; 13.51076; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3126; -0.09819996; 240.9722; Road; 13.5262; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3124; -0.09819996; 240.9726; Road; 13.54377; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3113; -0.09819996; 240.9732; Road; 13.5759; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3103; -0.09819996; 240.9736; Road; 13.59804; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3099; -0.09819996; 240.9738; Road; 13.60867; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:07; 803.3093; -0.09819996; 240.974; Road; 13.62079; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.3089; -0.09819996; 240.9745; Road; 13.6426; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.3083; -0.09819996; 240.9749; Road; 13.67058; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.3074; -0.09819996; 240.9753; Road; 13.69046; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.3071; -0.09819996; 240.9758; Road; 13.71099; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.3065; -0.09819996; 240.9761; Road; 13.72143; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.3052; -0.09819996; 240.9767; Road; 13.74276; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.3039; -0.09819996; 240.9772; Road; 13.76557; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.3019; -0.09819996; 240.9778; Road; 13.78709; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.3; -0.09819996; 240.9783; Road; 13.81643; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2991; -0.09819996; 240.9787; Road; 13.82552; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2969; -0.09819996; 240.9794; Road; 13.84275; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2939; -0.09819996; 240.9806; Road; 13.8753; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2916; -0.09819996; 240.9814; Road; 13.8989; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2898; -0.09819996; 240.9823; Road; 13.92061; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2884; -0.09819996; 240.9827; Road; 13.9311; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2873; -0.09819996; 240.9831; Road; 13.94237; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2864; -0.09819996; 240.9837; Road; 13.95304; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2827; -0.09819996; 240.9852; Road; 13.99865; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2801; -0.09819996; 240.9862; Road; 14.01532; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2769; -0.09819996; 240.9871; Road; 14.03375; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2739; -0.09819996; 240.9881; Road; 14.05293; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2708; -0.09819996; 240.9892; Road; 14.07542; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2693; -0.09819996; 240.9897; Road; 14.08622; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2693; -0.09819996; 240.9897; Road; 14.08622; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2693; -0.09819996; 240.9897; Road; 14.08622; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2632; -0.09819996; 240.9924; Road; 14.09871; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2617; -0.09819996; 240.993; Road; 14.15971; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2578; -0.09819996; 240.9944; Road; 14.19688; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2557; -0.09819996; 240.9951; Road; 14.21626; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2547; -0.09819996; 240.9955; Road; 14.22475; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.252; -0.09819996; 240.9961; Road; 14.25365; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2508; -0.09819996; 240.9962; Road; 14.27567; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2502; -0.09819996; 240.9962; Road; 14.29765; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2503; -0.09819996; 240.9961; Road; 14.30831; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2509; -0.09819996; 240.996; Road; 14.32039; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2513; -0.09819996; 240.9956; Road; 14.35273; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2523; -0.09819996; 240.995; Road; 14.372; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2544; -0.09819996; 240.9942; Road; 14.39826; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2555; -0.09819996; 240.994; Road; 14.40836; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2563; -0.09819996; 240.9936; Road; 14.41974; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2589; -0.09819996; 240.9924; Road; 14.4533; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2617; -0.09819996; 240.9916; Road; 14.47533; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2643; -0.09819996; 240.9906; Road; 14.49766; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2684; -0.09819996; 240.9898; Road; 14.52015; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2698; -0.09819996; 240.9893; Road; 14.53094; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2727; -0.09819996; 240.9883; Road; 14.5527; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2762; -0.09819996; 240.9873; Road; 14.57539; Box_Collider
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2798; -0.09819996; 240.9864; Road; 14.59719; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:08; 803.2833; -0.09819996; 240.9855; Road; 14.62004; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2833; -0.09819996; 240.9855; Road; 14.62004; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2861; -0.09819996; 240.9846; Road; 14.64938; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2888; -0.09819996; 240.9837; Road; 14.66901; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2932; -0.09819996; 240.9826; Road; 14.69855; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2958; -0.09819996; 240.9819; Road; 14.71984; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2971; -0.09819996; 240.9816; Road; 14.7303; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2985; -0.09819996; 240.981; Road; 14.75264; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2997; -0.09819996; 240.9805; Road; 14.77534; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3008; -0.09819996; 240.98; Road; 14.79785; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3016; -0.09819996; 240.9796; Road; 14.8205; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.302; -0.09819996; 240.9796; Road; 14.83021; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3023; -0.09819996; 240.9794; Road; 14.84201; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3025; -0.09819996; 240.979; Road; 14.87488; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3029; -0.09819996; 240.9788; Road; 14.89742; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3029; -0.09819996; 240.9786; Road; 14.92015; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3032; -0.09819996; 240.9785; Road; 14.93045; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3032; -0.09819996; 240.9784; Road; 14.94179; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3036; -0.09819996; 240.9781; Road; 14.97079; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3027; -0.09819996; 240.9776; Road; 14.99955; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.302; -0.09819996; 240.9773; Road; 15.01972; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.302; -0.09819996; 240.9772; Road; 15.03048; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.302; -0.09819996; 240.9771; Road; 15.05293; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3019; -0.09819996; 240.9769; Road; 15.07522; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3018; -0.09819996; 240.9768; Road; 15.08603; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3009; -0.09819996; 240.9766; Road; 15.09771; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3009; -0.09819996; 240.9765; Road; 15.12176; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3004; -0.09819996; 240.9763; Road; 15.1559; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.3002; -0.09819996; 240.9762; Road; 15.16425; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2997; -0.09819996; 240.976; Road; 15.19848; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2993; -0.09819996; 240.9759; Road; 15.20898; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2984; -0.09819996; 240.9756; Road; 15.23208; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2978; -0.09819996; 240.9755; Road; 15.25267; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2975; -0.09819996; 240.9754; Road; 15.2642; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2968; -0.09819996; 240.9753; Road; 15.29846; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2959; -0.09819996; 240.9753; Road; 15.32029; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2958; -0.09819996; 240.9753; Road; 15.33023; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2953; -0.09819996; 240.9752; Road; 15.35282; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2949; -0.09819996; 240.9752; Road; 15.37496; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2941; -0.09819996; 240.9753; Road; 15.39777; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2932; -0.09819996; 240.9753; Road; 15.41969; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2925; -0.09819996; 240.9752; Road; 15.43059; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2916; -0.09819996; 240.9752; Road; 15.45239; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2905; -0.09819996; 240.9753; Road; 15.47539; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2895; -0.09819996; 240.9753; Road; 15.49745; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2889; -0.09819996; 240.9753; Road; 15.51987; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2883; -0.09819996; 240.9753; Road; 15.53084; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.288; -0.09819996; 240.9753; Road; 15.54146; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2876; -0.09819996; 240.9755; Road; 15.56491; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2867; -0.09819996; 240.9757; Road; 15.58986; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2865; -0.09819996; 240.9758; Road; 15.60918; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:09; 803.2859; -0.09819996; 240.9757; Road; 15.62148; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2855; -0.09819996; 240.9758; Road; 15.64309; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2845; -0.09819996; 240.9759; Road; 15.66499; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2836; -0.09819996; 240.976; Road; 15.6869; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2825; -0.09819996; 240.976; Road; 15.7093; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2819; -0.09819996; 240.9761; Road; 15.72111; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2804; -0.09819996; 240.9762; Road; 15.74254; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2793; -0.09819996; 240.9764; Road; 15.7653; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2782; -0.09819996; 240.9767; Road; 15.78702; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2769; -0.09819996; 240.9769; Road; 15.8092; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2766; -0.09819996; 240.977; Road; 15.82075; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2757; -0.09819996; 240.9773; Road; 15.8437; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2742; -0.09819996; 240.9777; Road; 15.87629; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2737; -0.09819996; 240.9778; Road; 15.88677; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2734; -0.09819996; 240.978; Road; 15.89837; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2734; -0.09819996; 240.978; Road; 15.89837; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2715; -0.09819996; 240.9783; Road; 15.94277; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2708; -0.09819996; 240.9783; Road; 15.96579; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.269; -0.09819996; 240.9785; Road; 15.9982; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2682; -0.09819996; 240.9786; Road; 16.01964; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2682; -0.09819996; 240.9786; Road; 16.01964; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2673; -0.09819996; 240.9787; Road; 16.04466; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2668; -0.09819996; 240.9788; Road; 16.06779; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2664; -0.09819996; 240.9789; Road; 16.09824; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2659; -0.09819996; 240.9789; Road; 16.11983; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2656; -0.09819996; 240.9789; Road; 16.13068; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2652; -0.09819996; 240.9789; Road; 16.15277; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2648; -0.09819996; 240.9788; Road; 16.17567; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2648; -0.09819996; 240.9788; Road; 16.18612; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.264; -0.09819996; 240.9787; Road; 16.21504; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2637; -0.09819996; 240.9787; Road; 16.22523; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.263; -0.09819996; 240.9787; Road; 16.25472; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2629; -0.09819996; 240.9786; Road; 16.26438; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2617; -0.09819996; 240.9786; Road; 16.2989; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2609; -0.09819996; 240.9786; Road; 16.32073; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2606; -0.09819996; 240.9787; Road; 16.32951; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.26; -0.09819996; 240.9787; Road; 16.34149; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2593; -0.09819996; 240.9788; Road; 16.37041; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2576; -0.09819996; 240.9791; Road; 16.39838; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2568; -0.09819996; 240.9794; Road; 16.4197; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.256; -0.09819996; 240.9797; Road; 16.42929; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2545; -0.09819996; 240.9802; Road; 16.45243; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2525; -0.09819996; 240.9808; Road; 16.47508; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2514; -0.09819996; 240.9812; Road; 16.4853; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2498; -0.09819996; 240.9821; Road; 16.51098; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2489; -0.09819996; 240.9826; Road; 16.5244; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2458; -0.09819996; 240.9843; Road; 16.55449; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2436; -0.09819996; 240.9855; Road; 16.57546; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2412; -0.09819996; 240.9869; Road; 16.59743; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:10; 803.2388; -0.09819996; 240.9884; Road; 16.6194; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2369; -0.09819996; 240.9892; Road; 16.62989; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2354; -0.09819996; 240.99; Road; 16.64102; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2324; -0.09819996; 240.9917; Road; 16.66654; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2293; -0.09819996; 240.9937; Road; 16.6884; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2245; -0.09819996; 240.9969; Road; 16.71977; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2225; -0.09819996; 240.9979; Road; 16.72964; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2192; -0.09819996; 241.0002; Road; 16.75241; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2162; -0.09819996; 241.0027; Road; 16.77427; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2125; -0.09819996; 241.0053; Road; 16.79717; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.211; -0.09819996; 241.0066; Road; 16.80776; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2097; -0.09819996; 241.0079; Road; 16.82271; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2065; -0.09819996; 241.0107; Road; 16.84643; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2051; -0.09819996; 241.012; Road; 16.85626; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.2004; -0.09819996; 241.0157; Road; 16.86499; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1979; -0.09819996; 241.0181; Road; 16.91261; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.195; -0.09819996; 241.0205; Road; 16.93294; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.192; -0.09819996; 241.0226; Road; 16.95283; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1905; -0.09819996; 241.0237; Road; 16.96378; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1878; -0.09819996; 241.0256; Road; 16.99258; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1841; -0.09819996; 241.0273; Road; 17.01379; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1807; -0.09819996; 241.0288; Road; 17.03288; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.176; -0.09819996; 241.03; Road; 17.05314; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1714; -0.09819996; 241.0312; Road; 17.07516; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.166; -0.09819996; 241.0322; Road; 17.09657; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1636; -0.09819996; 241.0328; Road; 17.10744; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1636; -0.09819996; 241.0328; Road; 17.10744; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1547; -0.09819996; 241.0342; Road; 17.14268; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1479; -0.09819996; 241.0352; Road; 17.16726; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1368; -0.09819996; 241.0364; Road; 17.19655; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1289; -0.09819996; 241.0372; Road; 17.21906; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.124; -0.09819996; 241.0375; Road; 17.22926; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1142; -0.09819996; 241.038; Road; 17.25263; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1096; -0.09819996; 241.0382; Road; 17.26324; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.1038; -0.09819996; 241.0384; Road; 17.27447; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.0851; -0.09819996; 241.039; Road; 17.31105; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.0782; -0.09819996; 241.0391; Road; 17.32224; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.0557; -0.09819996; 241.0394; Road; 17.35378; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.0389; -0.09819996; 241.0399; Road; 17.37435; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.0206; -0.09819996; 241.0407; Road; 17.39639; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.0006; -0.09819996; 241.0418; Road; 17.41909; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 803.0006; -0.09819996; 241.0418; Road; 17.41909; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 802.979; -0.09819996; 241.0438; Road; 17.45128; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 802.9471; -0.09819996; 241.0482; Road; 17.47494; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 802.9258; -0.09819996; 241.0518; Road; 17.49635; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 802.9048; -0.09819996; 241.0559; Road; 17.52053; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 802.8947; -0.09819996; 241.058; Road; 17.52991; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 802.8748; -0.09819996; 241.0626; Road; 17.5521; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 802.8564; -0.09819996; 241.0676; Road; 17.57444; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 802.8474; -0.09819996; 241.0701; Road; 17.58581; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:11; 802.8309; -0.09819996; 241.0754; Road; 17.61194; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.8156; -0.09819996; 241.081; Road; 17.63207; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.8017; -0.09819996; 241.0872; Road; 17.65097; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7893; -0.09819996; 241.0937; Road; 17.67409; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7642; -0.09819996; 241.0986; Road; 17.6957; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7565; -0.09819996; 241.1054; Road; 17.71879; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7531; -0.09819996; 241.1087; Road; 17.72836; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7513; -0.09819996; 241.112; Road; 17.73995; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7461; -0.09819996; 241.1205; Road; 17.77846; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7446; -0.09819996; 241.1255; Road; 17.79541; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7441; -0.09819996; 241.1298; Road; 17.81808; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7448; -0.09819996; 241.1318; Road; 17.82861; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7455; -0.09819996; 241.1349; Road; 17.85081; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7468; -0.09819996; 241.1373; Road; 17.87276; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7479; -0.09819996; 241.1383; Road; 17.88425; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7469; -0.09819996; 241.1399; Road; 17.92194; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7475; -0.09819996; 241.1401; Road; 17.93045; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7466; -0.09819996; 241.1403; Road; 17.95061; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7455; -0.09819996; 241.1404; Road; 17.97283; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7426; -0.09819996; 241.14; Road; 17.99493; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7369; -0.09819996; 241.1393; Road; 18.01802; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7334; -0.09819996; 241.1389; Road; 18.02789; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7295; -0.09819996; 241.1384; Road; 18.03968; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7188; -0.09819996; 241.1373; Road; 18.06472; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.7004; -0.09819996; 241.1359; Road; 18.09622; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.6855; -0.09819996; 241.1349; Road; 18.11774; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.6782; -0.09819996; 241.1345; Road; 18.12823; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.6629; -0.09819996; 241.1336; Road; 18.15139; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.6462; -0.09819996; 241.1326; Road; 18.17278; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.6291; -0.09819996; 241.1318; Road; 18.19518; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.6194; -0.09819996; 241.1314; Road; 18.20659; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.5999; -0.09819996; 241.1307; Road; 18.23285; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.5768; -0.09819996; 241.1298; Road; 18.25128; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.5497; -0.09819996; 241.1283; Road; 18.27264; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.5193; -0.09819996; 241.1259; Road; 18.29543; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.4865; -0.09819996; 241.1225; Road; 18.31771; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.4702; -0.09819996; 241.1206; Road; 18.32847; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.4345; -0.09819996; 241.1156; Road; 18.35078; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.4158; -0.09819996; 241.1127; Road; 18.3625; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.3604; -0.09819996; 241.1016; Road; 18.39561; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.3229; -0.09819996; 241.0922; Road; 18.41769; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.306; -0.09819996; 241.0873; Road; 18.42835; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.2743; -0.09819996; 241.0762; Road; 18.4512; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.2463; -0.09819996; 241.0643; Road; 18.47416; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.2227; -0.09819996; 241.052; Road; 18.49687; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.213; -0.09819996; 241.046; Road; 18.50776; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.2043; -0.09819996; 241.0396; Road; 18.52176; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.191; -0.09819996; 241.0275; Road; 18.54748; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.1774; -0.09819996; 241.0112; Road; 18.57638; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.176; -0.09819996; 241.0023; Road; 18.59542; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:12; 802.1766; -0.09819996; 240.9952; Road; 18.61827; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1771; -0.09819996; 240.9923; Road; 18.62858; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1766; -0.09819996; 240.9877; Road; 18.65094; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1749; -0.09819996; 240.9859; Road; 18.66214; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1859; -0.09819996; 240.9857; Road; 18.6887; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1758; -0.09819996; 240.9841; Road; 18.7216; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1713; -0.09819996; 240.9843; Road; 18.73053; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1594; -0.09819996; 240.9847; Road; 18.75127; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1448; -0.09819996; 240.9854; Road; 18.77319; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1285; -0.09819996; 240.9862; Road; 18.79523; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1101; -0.09819996; 240.9871; Road; 18.81871; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.1101; -0.09819996; 240.9871; Road; 18.81871; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.0903; -0.09819996; 240.9881; Road; 18.85092; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.0584; -0.09819996; 240.9896; Road; 18.87372; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.0364; -0.09819996; 240.9906; Road; 18.89641; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.0136; -0.09819996; 240.9914; Road; 18.91794; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 802.0014; -0.09819996; 240.9917; Road; 18.92973; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.978; -0.09819996; 240.9922; Road; 18.95103; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.9548; -0.09819996; 240.9929; Road; 18.97451; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.9429; -0.09819996; 240.9932; Road; 18.98655; Checking Box AICar
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.9183; -0.09819996; 240.9941; Road; 19.01177; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.9057; -0.09819996; 240.9948; Road; 19.02451; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.8612; -0.09819996; 240.9972; Road; 19.05457; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.8285; -0.09819996; 240.9996; Road; 19.07351; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.7934; -0.09819996; 241.003; Road; 19.09513; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.7573; -0.09819996; 241.0071; Road; 19.11768; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.7398; -0.09819996; 241.0096; Road; 19.12854; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.7228; -0.09819996; 241.0122; Road; 19.14001; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.6718; -0.09819996; 241.0207; Road; 19.17509; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.6393; -0.09819996; 241.0265; Road; 19.19526; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.6094; -0.09819996; 241.0324; Road; 19.21737; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.5945; -0.09819996; 241.0351; Road; 19.22798; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.5677; -0.09819996; 241.0402; Road; 19.25171; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.5422; -0.09819996; 241.0449; Road; 19.27261; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.5193; -0.09819996; 241.0494; Road; 19.29646; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.5094; -0.09819996; 241.0516; Road; 19.30878; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.4971; -0.09819996; 241.0534; Road; 19.32182; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.4638; -0.09819996; 241.0576; Road; 19.35245; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.4422; -0.09819996; 241.06; Road; 19.37271; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.4182; -0.09819996; 241.0621; Road; 19.3958; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.3919; -0.09819996; 241.0637; Road; 19.41721; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.3814; -0.09819996; 241.0646; Road; 19.42785; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.3594; -0.09819996; 241.0658; Road; 19.45028; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.3392; -0.09819996; 241.0668; Road; 19.47617; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.3206; -0.09819996; 241.0676; Road; 19.49476; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.3025; -0.09819996; 241.0683; Road; 19.51692; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.2948; -0.09819996; 241.0688; Road; 19.52802; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.2784; -0.09819996; 241.0703; Road; 19.54995; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.2623; -0.09819996; 241.0722; Road; 19.57205; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:13; 801.2468; -0.09819996; 241.0744; Road; 19.59469; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.2468; -0.09819996; 241.0744; Road; 19.59469; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.2468; -0.09819996; 241.0744; Road; 19.59469; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.2184; -0.09819996; 241.0787; Road; 19.64585; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.1961; -0.09819996; 241.0811; Road; 19.67787; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.1832; -0.09819996; 241.0826; Road; 19.69422; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.1691; -0.09819996; 241.0838; Road; 19.71747; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.1611; -0.09819996; 241.0842; Road; 19.7274; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.147; -0.09819996; 241.0852; Road; 19.7497; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.1381; -0.09819996; 241.0854; Road; 19.76108; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.1204; -0.09819996; 241.0859; Road; 19.79063; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.0891; -0.09819996; 241.0857; Road; 19.81961; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.0776; -0.09819996; 241.0855; Road; 19.82711; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.0526; -0.09819996; 241.0848; Road; 19.85033; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 801.0255; -0.09819996; 241.0838; Road; 19.87238; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.9951; -0.09819996; 241.0824; Road; 19.89429; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.9621; -0.09819996; 241.0807; Road; 19.9174; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.9621; -0.09819996; 241.0807; Road; 19.9174; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.9086; -0.09819996; 241.0771; Road; 19.95418; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.8716; -0.09819996; 241.0744; Road; 19.972; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.8333; -0.09819996; 241.071; Road; 19.99482; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.7948; -0.09819996; 241.067; Road; 20.01695; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.7755; -0.09819996; 241.065; Road; 20.02768; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.7349; -0.09819996; 241.0604; Road; 20.04972; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.6949; -0.09819996; 241.0558; Road; 20.07337; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.6559; -0.09819996; 241.051; Road; 20.09879; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.6172; -0.09819996; 241.0464; Road; 20.11714; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.5976; -0.09819996; 241.044; Road; 20.12776; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.5604; -0.09819996; 241.0396; Road; 20.15016; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.5258; -0.09819996; 241.0357; Road; 20.1723; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.4919; -0.09819996; 241.0322; Road; 20.19476; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.4594; -0.09819996; 241.0289; Road; 20.21682; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.4594; -0.09819996; 241.0289; Road; 20.21682; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.4114; -0.09819996; 241.0245; Road; 20.25516; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.3793; -0.09819996; 241.0221; Road; 20.27267; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.3476; -0.09819996; 241.0203; Road; 20.29427; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.316; -0.09819996; 241.0193; Road; 20.31776; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.2997; -0.09819996; 241.0189; Road; 20.32825; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.2692; -0.09819996; 241.0181; Road; 20.35054; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.2374; -0.09819996; 241.0173; Road; 20.37271; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.2228; -0.09819996; 241.0171; Road; 20.38403; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.1904; -0.09819996; 241.0163; Road; 20.41264; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.1575; -0.09819996; 241.0152; Road; 20.43322; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.1251; -0.09819996; 241.0143; Road; 20.44945; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.0923; -0.09819996; 241.0135; Road; 20.47214; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.06; -0.09819996; 241.0128; Road; 20.49532; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.0277; -0.09819996; 241.0123; Road; 20.51683; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 800.0124; -0.09819996; 241.0122; Road; 20.52759; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 799.9787; -0.09819996; 241.0113; Road; 20.55261; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 799.9459; -0.09819996; 241.0105; Road; 20.57464; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 799.913; -0.09819996; 241.0095; Road; 20.5952; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:14; 799.8807; -0.09819996; 241.0085; Road; 20.6168; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.8657; -0.09819996; 241.0081; Road; 20.62819; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.8344; -0.09819996; 241.0071; Road; 20.6494; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.8029; -0.09819996; 241.006; Road; 20.67191; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.7878; -0.09819996; 241.0056; Road; 20.68339; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.7573; -0.09819996; 241.0047; Road; 20.71041; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.7427; -0.09819996; 241.0043; Road; 20.72529; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.6866; -0.09819996; 241.0014; Road; 20.75546; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.65; -0.09819996; 240.9996; Road; 20.77271; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.6168; -0.09819996; 240.9983; Road; 20.79393; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.5873; -0.09819996; 240.9974; Road; 20.8164; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.572; -0.09819996; 240.9968; Road; 20.82759; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.543; -0.09819996; 240.9958; Road; 20.84989; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.5286; -0.09819996; 240.9955; Road; 20.86407; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.4859; -0.09819996; 240.9942; Road; 20.89719; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.4571; -0.09819996; 240.9937; Road; 20.91609; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.4427; -0.09819996; 240.9935; Road; 20.92722; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.4131; -0.09819996; 240.9929; Road; 20.94925; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.3857; -0.09819996; 240.9925; Road; 20.9722; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.3597; -0.09819996; 240.9922; Road; 20.99394; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.3331; -0.09819996; 240.9917; Road; 21.01935; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.3201; -0.09819996; 240.9916; Road; 21.0302; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.2943; -0.09819996; 240.9912; Road; 21.04996; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.2687; -0.09819996; 240.9909; Road; 21.0725; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.2421; -0.09819996; 240.9906; Road; 21.09469; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.215; -0.09819996; 240.9905; Road; 21.11617; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.2009; -0.09819996; 240.9903; Road; 21.12735; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.173; -0.09819996; 240.9899; Road; 21.14944; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.145; -0.09819996; 240.9897; Road; 21.17509; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.1171; -0.09819996; 240.9899; Road; 21.19661; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.0886; -0.09819996; 240.9901; Road; 21.21653; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.0744; -0.09819996; 240.9901; Road; 21.22707; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.0472; -0.09819996; 240.9905; Road; 21.24943; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 799.0182; -0.09819996; 240.9908; Road; 21.27263; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.9893; -0.09819996; 240.9915; Road; 21.29404; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.9611; -0.09819996; 240.9924; Road; 21.31708; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.9611; -0.09819996; 240.9924; Road; 21.31708; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.9179; -0.09819996; 240.9938; Road; 21.35576; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.8895; -0.09819996; 240.9949; Road; 21.37309; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.8595; -0.09819996; 240.9958; Road; 21.39379; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.83; -0.09819996; 240.9973; Road; 21.41628; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.8163; -0.09819996; 240.9981; Road; 21.42696; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.7884; -0.09819996; 240.9998; Road; 21.44965; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.7579; -0.09819996; 241.0012; Road; 21.47186; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.7276; -0.09819996; 241.0025; Road; 21.49779; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.6984; -0.09819996; 241.0042; Road; 21.51808; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.6827; -0.09819996; 241.0047; Road; 21.52665; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.6523; -0.09819996; 241.006; Road; 21.54891; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.6219; -0.09819996; 241.0074; Road; 21.57159; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.5917; -0.09819996; 241.0087; Road; 21.59421; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:15; 798.5626; -0.09819996; 241.0101; Road; 21.61563; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.5456; -0.09819996; 241.0101; Road; 21.62715; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.514; -0.09819996; 241.0106; Road; 21.65265; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.4832; -0.09819996; 241.0111; Road; 21.67205; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.4517; -0.09819996; 241.0112; Road; 21.69375; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.4204; -0.09819996; 241.011; Road; 21.71583; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.4055; -0.09819996; 241.011; Road; 21.7269; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.3756; -0.09819996; 241.0104; Road; 21.7487; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.346; -0.09819996; 241.0094; Road; 21.77163; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.3168; -0.09819996; 241.0083; Road; 21.79702; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.2884; -0.09819996; 241.0073; Road; 21.81798; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.2724; -0.09819996; 241.0063; Road; 21.82675; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.2432; -0.09819996; 241.0051; Road; 21.84912; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.214; -0.09819996; 241.0041; Road; 21.87117; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.1844; -0.09819996; 241.0031; Road; 21.89413; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.1539; -0.09819996; 241.002; Road; 21.91746; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.139; -0.09819996; 241.0016; Road; 21.92781; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.1236; -0.09819996; 241.001; Road; 21.94063; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.0804; -0.09819996; 240.9999; Road; 21.97743; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.0523; -0.09819996; 240.9993; Road; 21.9945; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.025; -0.09819996; 240.9986; Road; 22.01613; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 798.0115; -0.09819996; 240.9983; Road; 22.02689; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.9839; -0.09819996; 240.9975; Road; 22.0489; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.9571; -0.09819996; 240.9966; Road; 22.07187; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.9293; -0.09819996; 240.9956; Road; 22.09393; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.9025; -0.09819996; 240.9945; Road; 22.12182; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.8897; -0.09819996; 240.994; Road; 22.13117; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.8633; -0.09819996; 240.9928; Road; 22.14852; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.8354; -0.09819996; 240.991; Road; 22.17107; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.811; -0.09819996; 240.9899; Road; 22.19343; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.7869; -0.09819996; 240.9888; Road; 22.21544; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.7755; -0.09819996; 240.9884; Road; 22.22652; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.7518; -0.09819996; 240.9874; Road; 22.24878; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.7292; -0.09819996; 240.9869; Road; 22.2752; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.7061; -0.09819996; 240.9865; Road; 22.29446; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.6835; -0.09819996; 240.9864; Road; 22.31522; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.6711; -0.09819996; 240.986; Road; 22.32667; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.6495; -0.09819996; 240.9862; Road; 22.34824; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.6285; -0.09819996; 240.9865; Road; 22.37092; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.6062; -0.09819996; 240.9865; Road; 22.3933; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.5853; -0.09819996; 240.9868; Road; 22.41864; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.5758; -0.09819996; 240.9872; Road; 22.42953; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.5554; -0.09819996; 240.9879; Road; 22.44849; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.5348; -0.09819996; 240.9887; Road; 22.47102; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.5142; -0.09819996; 240.9897; Road; 22.49347; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.4928; -0.09819996; 240.9908; Road; 22.51622; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.482; -0.09819996; 240.9914; Road; 22.52669; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.459; -0.09819996; 240.9926; Road; 22.54914; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.4473; -0.09819996; 240.9932; Road; 22.5608; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.4121; -0.09819996; 240.9954; Road; 22.59932; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:16; 797.3865; -0.09819996; 240.9967; Road; 22.61483; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.3742; -0.09819996; 240.9975; Road; 22.62636; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.3491; -0.09819996; 240.9991; Road; 22.64843; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.3243; -0.09819996; 241.0009; Road; 22.67079; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.2999; -0.09819996; 241.0029; Road; 22.69319; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.2748; -0.09819996; 241.0048; Road; 22.71558; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.263; -0.09819996; 241.006; Road; 22.72976; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.2391; -0.09819996; 241.0083; Road; 22.75047; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.2129; -0.09819996; 241.0098; Road; 22.77109; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.189; -0.09819996; 241.0122; Road; 22.79305; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.1671; -0.09819996; 241.015; Road; 22.81536; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.1539; -0.09819996; 241.0158; Road; 22.82677; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.1287; -0.09819996; 241.0179; Road; 22.84845; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.1041; -0.09819996; 241.0199; Road; 22.87151; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.0793; -0.09819996; 241.0217; Road; 22.89644; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.0544; -0.09819996; 241.0234; Road; 22.91545; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.0427; -0.09819996; 241.0242; Road; 22.92619; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 797.0188; -0.09819996; 241.0258; Road; 22.9484; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.996; -0.09819996; 241.0272; Road; 22.97092; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.974; -0.09819996; 241.0285; Road; 22.99293; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.9521; -0.09819996; 241.0299; Road; 23.01569; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.9521; -0.09819996; 241.0299; Road; 23.01569; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.9302; -0.09819996; 241.031; Road; 23.04305; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.8976; -0.09819996; 241.0327;  After Road; 0; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.8754; -0.09819996; 241.0336;  After Road; 0.0172248; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.8535; -0.09819996; 241.0341;  After Road; 0.0401051; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.8433; -0.09819996; 241.0345;  After Road; 0.0502424; null
+23; Pedestrian; Noise; Intention; 24.10.2023 15:13:17; 796.8221; -0.09819996; 241.0348;  After Road; 0.07249101; null
