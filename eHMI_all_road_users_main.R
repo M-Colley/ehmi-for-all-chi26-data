@@ -14,6 +14,7 @@ colleyRstats::colleyRstats_setup()
 library(dplyr)
 library(easystats)
 library(ARTool)
+library(tidyr)
 
 main_df <- readxl::read_xlsx(path = "results-survey-main.xlsx")
 main_df <- as.data.frame(main_df)
@@ -29,8 +30,8 @@ names(second_df)
 
 # replace all negative values with the actual values
 # sometimes use either
-main_df <- replace_values(main_df, c("neg3", "neg2", "neg1"), c("-3", "-2", "-1"))
-main_df <- replace_values(main_df, c("3neg", "2neg", "1neg"), c("-3", "-2", "-1"))
+main_df <- colleyRstats::replace_values(main_df, c("neg3", "neg2", "neg1"), c("-3", "-2", "-1"))
+main_df <- colleyRstats::replace_values(main_df, c("3neg", "2neg", "1neg"), c("-3", "-2", "-1"))
 
 
 main_df[, 8:38] <- sapply(main_df[, 8:38], as.numeric)
