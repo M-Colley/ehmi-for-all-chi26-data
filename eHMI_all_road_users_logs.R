@@ -1,5 +1,12 @@
-library("rstudioapi")
-setwd(dirname(getActiveDocumentContext()$path))
+if (requireNamespace("rstudioapi", quietly = TRUE) && rstudioapi::isAvailable()) {
+  setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+} else {
+  args <- commandArgs(trailingOnly = FALSE)
+  file_arg <- grep("^--file=", args, value = TRUE)
+  if (length(file_arg) > 0) {
+    setwd(dirname(normalizePath(sub("^--file=", "", file_arg))))
+  }
+}
 
 library(colleyRstats)
 colleyRstats::colleyRstats_setup()
@@ -9,6 +16,10 @@ library(easystats)
 library(ARTool)
 library(FSA)
 library(ggplot2)
+
+library(data.table)
+library(dplyr)
+library(tidyr)
 
 # Directory path
 dir_path <- "./data"
@@ -722,9 +733,6 @@ levels(combined_df$focused.object)
 # and relate them to subjective measures (e.g., higher fixation on eHMI ‎correlates with higher understandability).‎
 
 
-library(data.table)
-library(dplyr)
-library(tidyr)
 
 # Ensure data is sorted chronologically per user/trial
 combined_df <- combined_df |>
